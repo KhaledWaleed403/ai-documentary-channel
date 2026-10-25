@@ -1,0 +1,189 @@
+{
+  "episode": "001",
+  "title": "How Does a Microwave Actually Heat Food?",
+  "format": "short",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationInFrames": 1260,
+  "tagline": "See what makes it work.",
+  "palette": {
+    "inkNavy": "#111827",
+    "warmIvory": "#F4F1E8",
+    "signalTeal": "#27B7C8",
+    "energyOrange": "#F28C45",
+    "mistBlue": "#DDEBF2",
+    "discoveryGold": "#F4C95D"
+  },
+  "colorRoles": {
+    "field": "signalTeal",
+    "heating": "energyOrange",
+    "hot": "discoveryGold",
+    "cold": "mistBlue"
+  },
+  "shots": [
+    {
+      "id": "SH01",
+      "name": "Cold meal enters",
+      "start": 0,
+      "end": 4,
+      "startFrame": 0,
+      "endFrame": 120,
+      "background": "warmIvory",
+      "narration": "Your microwave doesn't heat the air. So what's heating your food?",
+      "onScreenText": [
+        "So what's heating it?"
+      ],
+      "visual": "Cold soup bowl (mist-blue tint) slides into a flat front-on microwave; door shuts. A small thermometer icon in the oven air stays low.",
+      "components": [
+        "TextReveal"
+      ],
+      "transition": "Camera pushes into the side panel, which begins to peel away.",
+      "claims": [
+        "C01"
+      ]
+    },
+    {
+      "id": "SH02",
+      "name": "Cutaway: magnetron",
+      "start": 4,
+      "end": 8.5,
+      "startFrame": 120,
+      "endFrame": 255,
+      "background": "inkNavy",
+      "narration": "Here, this part turns electricity into microwaves — a kind of radio wave.",
+      "onScreenText": [
+        "magnetron"
+      ],
+      "visual": "Cutaway with ghosted ivory oven outline. Neutral ivory power line pulses into the magnetron, shown as a simple labelled box; a teal wave leaves it and travels down a short channel into the oven.",
+      "components": [
+        "ComponentCutaway",
+        "SignalPath",
+        "Callout"
+      ],
+      "transition": "Follow the teal wave out of the channel into the oven space (match on motion).",
+      "claims": [
+        "C02",
+        "C03",
+        "C15"
+      ]
+    },
+    {
+      "id": "SH03",
+      "name": "Bouncing in the oven",
+      "start": 8.5,
+      "end": 12.5,
+      "startFrame": 255,
+      "endFrame": 375,
+      "background": "mistBlue",
+      "narration": "They bounce around the metal box and into your food.",
+      "onScreenText": [],
+      "visual": "Side view. Teal waves bounce off the metal walls; a few paths cross the bowl. Where they enter the soup they fade gradually as they go in, not stopping at the surface.",
+      "components": [
+        "SignalPath"
+      ],
+      "transition": "Zoom into the soup; scale bar ticks from cm to nm.",
+      "claims": [
+        "C04",
+        "C09"
+      ]
+    },
+    {
+      "id": "SH04",
+      "name": "The waves tug water molecules",
+      "start": 12.5,
+      "end": 20.5,
+      "startFrame": 375,
+      "endFrame": 615,
+      "background": "inkNavy",
+      "narration": "Water molecules have positive and negative ends. The waves tug them back and forth, billions of times a second.",
+      "onScreenText": [
+        "+",
+        "−",
+        "Schematic · not to scale"
+      ],
+      "visual": "Close-up. A few V-shaped water molecules, one marked + and −. Teal arrows show the wave pull switching direction; molecules twist part-way to follow, lagging and out of sync, never neat full spins.",
+      "components": [
+        "ScaleIndicator",
+        "Callout"
+      ],
+      "transition": "Twisting gets crowded and messy; continuous into SH05.",
+      "claims": [
+        "C05",
+        "C06",
+        "C07"
+      ]
+    },
+    {
+      "id": "SH05",
+      "name": "Energy becomes heat",
+      "start": 20.5,
+      "end": 29.5,
+      "startFrame": 615,
+      "endFrame": 885,
+      "background": "warmIvory",
+      "narration": "All that tugging and bumping turns the waves' energy into heat. The waves reach partway in — heat spreads the rest of the way.",
+      "onScreenText": [
+        "dielectric heating",
+        "Schematic · not to scale"
+      ],
+      "visual": "Close-up continues while background warms navy to ivory: tugged molecules knock into neighbors and tidy back-and-forth becomes random jiggling; a thermometer icon rises. Pull back to soup cross-section: teal waves enter and fade within a thick outer zone, which warms to orange as a soft band with real depth (not a thin skin); then the centre slowly warms as heat spreads inward.",
+      "components": [
+        "StepDiagram",
+        "TextReveal"
+      ],
+      "transition": "Cross-section tilts flat into a top-down view of the oven floor.",
+      "claims": [
+        "C07",
+        "C09",
+        "C16"
+      ]
+    },
+    {
+      "id": "SH06",
+      "name": "Hot spots and the turntable",
+      "start": 29.5,
+      "end": 36,
+      "startFrame": 885,
+      "endFrame": 1080,
+      "background": "inkNavy",
+      "narration": "Some spots get stronger waves, so the turntable keeps food moving. Still — give it a stir.",
+      "onScreenText": [
+        "hot",
+        "cold"
+      ],
+      "visual": "Top-down. Irregular brighter and dimmer teal areas mark stronger and weaker waves. Plate sits still ~2 s and heats in patches (orange beside mist blue). Turntable rotates; food passes through brighter and dimmer areas; patches soften but a few cooler spots remain. A spoon icon gives one quick stir. Areas drawn irregular, no exact spacing.",
+      "components": [
+        "Callout"
+      ],
+      "transition": "Turntable slows; cut to front view as the door swings open.",
+      "claims": [
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "id": "SH07",
+      "name": "Payoff and end card",
+      "start": 36,
+      "end": 42,
+      "startFrame": 1080,
+      "endFrame": 1260,
+      "background": "warmIvory",
+      "narration": "Waves in, hot food out — and nothing radioactive left behind.",
+      "onScreenText": [
+        "Waves in. Hot food out.",
+        "See what makes it work.",
+        "Luminexplain"
+      ],
+      "visual": "Bowl slides out with soft steam curls. Small teal wave icon turns into a raised thermometer icon. End card with tagline and wordmark holds ~2 s, no VO.",
+      "components": [
+        "TextReveal"
+      ],
+      "transition": "End.",
+      "claims": [
+        "C12"
+      ]
+    }
+  ]
+}
