@@ -5,8 +5,7 @@
   "fps": 30,
   "width": 1080,
   "height": 1920,
-  "durationInFrames": 1260,
-  "tagline": "See what makes it work.",
+  "durationInFrames": 1230,
   "palette": {
     "inkNavy": "#111827",
     "warmIvory": "#F4F1E8",
@@ -51,7 +50,7 @@
       "startFrame": 120,
       "endFrame": 255,
       "background": "inkNavy",
-      "narration": "Here, this part turns electricity into microwaves — a kind of radio wave.",
+      "narration": "This part turns electricity into microwaves — a kind of radio wave.",
       "onScreenText": [
         "magnetron"
       ],
@@ -99,8 +98,7 @@
       "narration": "Water molecules have positive and negative ends. The waves tug them back and forth, billions of times a second.",
       "onScreenText": [
         "+",
-        "−",
-        "Schematic · not to scale"
+        "−"
       ],
       "visual": "Close-up. A few V-shaped water molecules, one marked + and −. Teal arrows show the wave pull switching direction; molecules twist part-way to follow, lagging and out of sync, never neat full spins.",
       "components": [
@@ -124,8 +122,7 @@
       "background": "warmIvory",
       "narration": "All that tugging and bumping turns the waves' energy into heat. The waves reach partway in — heat spreads the rest of the way.",
       "onScreenText": [
-        "dielectric heating",
-        "Schematic · not to scale"
+        "dielectric heating"
       ],
       "visual": "Close-up continues while background warms navy to ivory: tugged molecules knock into neighbors and tidy back-and-forth becomes random jiggling; a thermometer icon rises. Pull back to soup cross-section: teal waves enter and fade within a thick outer zone, which warms to orange as a soft band with real depth (not a thin skin); then the centre slowly warms as heat spreads inward.",
       "components": [
@@ -164,23 +161,21 @@
     },
     {
       "id": "SH07",
-      "name": "Payoff and end card",
+      "name": "Payoff",
       "start": 36,
-      "end": 42,
+      "end": 41,
       "startFrame": 1080,
-      "endFrame": 1260,
+      "endFrame": 1230,
       "background": "warmIvory",
       "narration": "Waves in, hot food out — and nothing radioactive left behind.",
       "onScreenText": [
-        "Waves in. Hot food out.",
-        "See what makes it work.",
-        "Luminexplain"
+        "Waves in. Hot food out."
       ],
-      "visual": "Bowl slides out with soft steam curls. Small teal wave icon turns into a raised thermometer icon. End card with tagline and wordmark holds ~2 s, no VO.",
+      "visual": "Door opens; hot bowl slides out with soft steam curls while the last line plays. Small teal wave icon turns into a thermometer that keeps rising. The oven fades away and the view pushes in slowly, settling on the steaming bowl as the final frame.",
       "components": [
         "TextReveal"
       ],
-      "transition": "End.",
+      "transition": "End on the steaming bowl (no end card).",
       "claims": [
         "C12"
       ]

@@ -11,7 +11,7 @@ A **magnetron** turns electrical power into microwaves at ~2.45 GHz (C02, C13). 
 | --- | --- | --- | --- |
 | Magnetron | "This part" in narration; name on screen; simple labelled box | Electron paths, cavities, transformer voltage | Labelled as the source; nothing invented |
 | Waves | Teal waves bouncing in a 2-D side view, fading gradually as they go into the food | 3-D modes, broadband spectrum | Diagram style clearly signals a model |
-| Molecules | Water molecules with +/− ends tugged back and forth, twisting only part-way and out of sync, then bumping neighbours into random jiggling. "dielectric heating" shown as a small label, not narrated | Hydrogen-bond dynamics, other polar molecules | "Schematic · not to scale" badge whenever molecules show (C07) |
+| Molecules | Water molecules with +/− ends tugged back and forth, twisting only part-way and out of sync, then bumping neighbours into random jiggling. "dielectric heating" shown as a small label, not narrated | Hydrogen-bond dynamics, other polar molecules, true sizes and speeds | Simple drawing; partial, out-of-sync twists avoid implying neat full spins (C07) |
 | Heat | Colour change plus a thermometer icon. No particles moving between molecules | How energy moves at the molecular scale | Avoids teaching a false "heat particle" mechanism |
 | Heat location | A thick outer zone warms where the waves fade out, then the centre warms as heat spreads | Exact penetration depth (disputed, D02); thin foods that heat all the way through | No number given; the thick bowl matches "partway in" |
 | Hot/cold spots | Irregular stronger and weaker wave areas; still plate heats in patches; turntable keeps food moving; patches soften, some cooler spots remain; spoon stirs | Exact spacing (C17); how the food itself reshapes the pattern (D06) | Never shown fully even (C11) |
@@ -26,7 +26,7 @@ A **magnetron** turns electrical power into microwaves at ~2.45 GHz (C02, C13). 
 2. *Inside-out cooking*, and its opposite *surface-only heating* → waves fade into a thick outer zone, then heat spreads to the centre (SH03, SH05).
 3. *Turntable makes it even* → "Still — give it a stir" (SH06).
 4. *Radioactive food* → payoff line (C12).
-5. *Literal molecules* → schematic badge on SH04 and SH05's close-up; heat shown as colour, not particles.
+5. *Molecules spinning in lockstep* → partial, out-of-sync twists in SH04 and SH05's close-up; heat shown as colour, not particles.
 
 ## Open questions
 - Standing-wave hot-spot visuals rely on one verified source (S07). A second university source (e.g. TU Delft demo 49, unreachable today) would strengthen C10.
