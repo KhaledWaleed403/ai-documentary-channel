@@ -1,0 +1,420 @@
+{
+  "short": "CandyBarDiscovery",
+  "episode": "001",
+  "version": "v1",
+  "title": "The Candy Bar That Started the Microwave",
+  "format": "short",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "script": "episodes/episode-001/shorts/CandyBarDiscovery/v1/script.md",
+  "claimsFile": "research/episode-001/shorts/claims.md",
+  "music": "none (not approved)",
+  "timingBasis": "Built by scripts/audio/build-ep001-shorts.py from the measured narration takes: each shot = offsetFrames + approved take's speech end + tailFrames. Beat frames are estimated from the word's position in the take (punctuation pauses weighted).",
+  "shots": [
+    {
+      "id": "CB01",
+      "name": "A ruined snack",
+      "narration": "The microwave oven started with a ruined snack.",
+      "offsetFrames": 14,
+      "tailFrames": 8,
+      "claims": [
+        "X15"
+      ],
+      "visual": "Cold open, close on an illustrated lab-coat pocket (blueprint line art on navy). A plain wrapped bar peeks over the pocket edge and sags as it melts. Slow push in.",
+      "onScreenText": [
+        "1940s"
+      ],
+      "beats": [
+        {
+          "id": "bar",
+          "at": "start",
+          "delta": 4,
+          "frame": 4
+        },
+        {
+          "id": "sag",
+          "word": "ruined",
+          "delta": -4,
+          "frame": 61
+        }
+      ],
+      "sound": [
+        {
+          "id": "pocket rustle",
+          "file": "lf-pocket-rustle.wav",
+          "beat": "bar",
+          "volume": 0.3,
+          "durationInFrames": 60,
+          "fadeOut": 12,
+          "frame": 4
+        },
+        {
+          "id": "wrapper sag",
+          "file": "lf-wrapper-crinkle.wav",
+          "beat": "sag",
+          "volume": 0.32,
+          "frame": 61
+        }
+      ],
+      "startFrame": 0,
+      "endFrame": 101,
+      "start": 0.0,
+      "end": 3.37,
+      "speechStartFrame": 16,
+      "speechEndFrame": 93,
+      "take": "cb01-take01.wav",
+      "takeSeconds": 3.052,
+      "words": 8
+    },
+    {
+      "id": "CB02",
+      "name": "Beside the magnetron",
+      "narration": "In the mid-nineteen-forties, engineer Percy Spencer was working near a magnetron — the tube that makes radar's waves. Then he noticed the candy bar in his pocket had melted.",
+      "offsetFrames": 6,
+      "tailFrames": 10,
+      "claims": [
+        "L01",
+        "L04",
+        "L03"
+      ],
+      "visual": "Pull back to a full-height engineer silhouette (no likeness) in the lower half. Above him a glowing magnetron block, labelled, sends faint dashed teal ripples outward (conceptual). On 'melted' the small bar in his coat pocket warms to orange and droops.",
+      "onScreenText": [
+        "magnetron",
+        "Percy Spencer · Raytheon"
+      ],
+      "beats": [
+        {
+          "id": "name",
+          "word": "Percy",
+          "delta": 0,
+          "frame": 178
+        },
+        {
+          "id": "glow",
+          "word": "magnetron",
+          "delta": -4,
+          "frame": 228
+        },
+        {
+          "id": "melt",
+          "word": "melted",
+          "delta": -6,
+          "frame": 398
+        }
+      ],
+      "sound": [
+        {
+          "id": "tube hum",
+          "file": "lf-tube-hum.wav",
+          "beat": "glow",
+          "volume": 0.3,
+          "untilShotEnd": true,
+          "extra": 8,
+          "fadeIn": 20,
+          "fadeOut": 24,
+          "frame": 228,
+          "endFrame": 443
+        },
+        {
+          "id": "melt crinkle",
+          "file": "lf-wrapper-crinkle.wav",
+          "beat": "melt",
+          "volume": 0.24,
+          "frame": 398
+        }
+      ],
+      "startFrame": 101,
+      "endFrame": 435,
+      "start": 3.37,
+      "end": 14.5,
+      "speechStartFrame": 109,
+      "speechEndFrame": 425,
+      "take": "cb02-take01.wav",
+      "takeSeconds": 11.041,
+      "words": 29
+    },
+    {
+      "id": "CB03",
+      "name": "Testing on purpose",
+      "narration": "So he tested food on purpose. Popcorn kernels by the magnetron popped. An egg exploded.",
+      "offsetFrames": 6,
+      "tailFrames": 14,
+      "claims": [
+        "L05",
+        "L06"
+      ],
+      "visual": "Two stacked test cards, 'TEST 1' and 'TEST 2'. Top: kernels on a tray beside the magnetron; ripples reach them and they burst into white puffs on 'popped'. Bottom: an egg wobbles, then a bloodless cartoon burst freezes mid-air on 'exploded'.",
+      "onScreenText": [
+        "TEST 1 · popcorn",
+        "TEST 2 · egg"
+      ],
+      "beats": [
+        {
+          "id": "card1",
+          "word": "Popcorn",
+          "delta": -10,
+          "frame": 493
+        },
+        {
+          "id": "pop",
+          "word": "popped",
+          "delta": -2,
+          "frame": 556
+        },
+        {
+          "id": "card2",
+          "word": "egg",
+          "delta": -14,
+          "frame": 572
+        },
+        {
+          "id": "burst",
+          "word": "exploded",
+          "delta": 2,
+          "frame": 595
+        }
+      ],
+      "sound": [
+        {
+          "id": "tray set",
+          "file": "lf-dish-set.wav",
+          "beat": "card1",
+          "volume": 0.24,
+          "frame": 493
+        },
+        {
+          "id": "popcorn",
+          "file": "lf-popcorn-pops.wav",
+          "beat": "pop",
+          "volume": 0.5,
+          "frame": 556
+        },
+        {
+          "id": "egg",
+          "file": "lf-egg-burst.wav",
+          "beat": "burst",
+          "volume": 0.48,
+          "frame": 595
+        }
+      ],
+      "startFrame": 435,
+      "endFrame": 632,
+      "start": 14.5,
+      "end": 21.07,
+      "speechStartFrame": 443,
+      "speechEndFrame": 618,
+      "take": "cb03-take01.wav",
+      "takeSeconds": 6.321,
+      "words": 15
+    },
+    {
+      "id": "CB04",
+      "name": "Concentrate it",
+      "narration": "Then the key step: he concentrated the waves in a small space. Food placed there heated fast.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "L07"
+      ],
+      "visual": "Top half: ripples spread out in open space and fade (label 'spread out'). Bottom half: the same waves enter a small generic chamber in cross-section, reflect inside and build up (label 'concentrated'). A food shape inside warms from mist blue to orange on 'heated fast'.",
+      "onScreenText": [
+        "spread out",
+        "concentrated"
+      ],
+      "beats": [
+        {
+          "id": "spread",
+          "word": "key",
+          "delta": 0,
+          "frame": 653
+        },
+        {
+          "id": "chamber",
+          "word": "concentrated",
+          "delta": -4,
+          "frame": 676
+        },
+        {
+          "id": "heat",
+          "word": "heated",
+          "delta": -4,
+          "frame": 773
+        }
+      ],
+      "sound": [
+        {
+          "id": "reflect 1",
+          "file": "lf-wave-reflect-1.wav",
+          "beat": "chamber",
+          "delta": 14,
+          "volume": 0.18,
+          "frame": 690
+        },
+        {
+          "id": "reflect 2",
+          "file": "lf-wave-reflect-2.wav",
+          "beat": "chamber",
+          "delta": 24,
+          "volume": 0.15,
+          "frame": 700
+        },
+        {
+          "id": "reflect 3",
+          "file": "lf-wave-reflect-3.wav",
+          "beat": "chamber",
+          "delta": 34,
+          "volume": 0.15,
+          "frame": 710
+        }
+      ],
+      "startFrame": 632,
+      "endFrame": 816,
+      "start": 21.07,
+      "end": 27.2,
+      "speechStartFrame": 640,
+      "speechEndFrame": 804,
+      "take": "cb04-take01.wav",
+      "takeSeconds": 5.971,
+      "words": 17
+    },
+    {
+      "id": "CB05",
+      "name": "The patent",
+      "narration": "In October, nineteen forty-five, Raytheon filed a patent for cooking with microwaves.",
+      "offsetFrames": 6,
+      "tailFrames": 14,
+      "claims": [
+        "L08"
+      ],
+      "visual": "An ivory patent page slides up into frame: an original schematic (a box, a magnetron block, a food shape), not a copy of the patent figure. A date stamp lands: 'Filed Oct. 8, 1945'.",
+      "onScreenText": [
+        "PATENT",
+        "Filed Oct. 8, 1945"
+      ],
+      "beats": [
+        {
+          "id": "page",
+          "at": "start",
+          "delta": 2,
+          "frame": 818
+        },
+        {
+          "id": "stamp",
+          "word": "patent",
+          "delta": 0,
+          "frame": 917
+        }
+      ],
+      "sound": [
+        {
+          "id": "page slide",
+          "file": "lf-paper-slide.wav",
+          "beat": "page",
+          "volume": 0.34,
+          "frame": 818
+        },
+        {
+          "id": "date stamp",
+          "file": "lf-stamp.wav",
+          "beat": "stamp",
+          "volume": 0.3,
+          "frame": 917
+        }
+      ],
+      "startFrame": 816,
+      "endFrame": 997,
+      "start": 27.2,
+      "end": 33.23,
+      "speechStartFrame": 823,
+      "speechEndFrame": 983,
+      "take": "cb05-take01.wav",
+      "takeSeconds": 5.781,
+      "words": 12
+    },
+    {
+      "id": "CB06",
+      "name": "Press Start",
+      "narration": "Microwave ovens still work that way — a magnetron filling a metal box with waves. Every time you press Start, you're using the answer to the question a melted candy bar raised.",
+      "offsetFrames": 6,
+      "tailFrames": 42,
+      "claims": [
+        "L40",
+        "X15",
+        "L03"
+      ],
+      "visual": "A modern countertop microwave, front-on. Through the door, X-ray style: the magnetron glows and a soft teal lattice fills the box. A finger presses Start on 'Start'. On 'melted candy bar' the X-ray fades and the door glass dissolves into the pocket from CB01, with the sagging bar. Hold.",
+      "onScreenText": [
+        "melted snack → every kitchen"
+      ],
+      "beats": [
+        {
+          "id": "xray",
+          "word": "magnetron",
+          "delta": -6,
+          "frame": 1073
+        },
+        {
+          "id": "press",
+          "word": "Start",
+          "delta": -6,
+          "frame": 1188
+        },
+        {
+          "id": "pocket",
+          "word": "melted",
+          "delta": -10,
+          "frame": 1273
+        },
+        {
+          "id": "line",
+          "at": "end",
+          "delta": 0,
+          "frame": 1333
+        }
+      ],
+      "sound": [
+        {
+          "id": "oven run",
+          "file": "lf-oven-hum-loop.wav",
+          "beat": "xray",
+          "volume": 0.14,
+          "untilBeat": "pocket",
+          "extra": 20,
+          "loop": true,
+          "fadeIn": 20,
+          "fadeOut": 24,
+          "frame": 1073,
+          "endFrame": 1293
+        },
+        {
+          "id": "start beep",
+          "file": "lf-start-beep.wav",
+          "beat": "press",
+          "delta": 4,
+          "volume": 0.34,
+          "frame": 1192
+        },
+        {
+          "id": "final crinkle",
+          "file": "lf-wrapper-crinkle.wav",
+          "beat": "pocket",
+          "delta": 16,
+          "volume": 0.26,
+          "frame": 1289
+        }
+      ],
+      "startFrame": 997,
+      "endFrame": 1375,
+      "start": 33.23,
+      "end": 45.83,
+      "speechStartFrame": 1005,
+      "speechEndFrame": 1333,
+      "take": "cb06-take01.wav",
+      "takeSeconds": 11.435,
+      "words": 32
+    }
+  ],
+  "durationInFrames": 1375,
+  "draft": false
+}

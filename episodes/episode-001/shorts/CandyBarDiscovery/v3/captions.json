@@ -1,0 +1,169 @@
+{
+  "fps": 30,
+  "source": "scripts/audio/build-ep001-captions.py (aligned to narration takes)",
+  "video": "CandyBarDiscovery v3",
+  "cues": [
+    {
+      "start": 14,
+      "end": 105,
+      "text": "A candy bar melted in an engineer's pocket —",
+      "lines": [
+        "A candy bar melted",
+        "in an engineer's pocket —"
+      ]
+    },
+    {
+      "start": 105,
+      "end": 176,
+      "text": "and whatever melted it was invisible.",
+      "lines": [
+        "and whatever melted",
+        "it was invisible."
+      ]
+    },
+    {
+      "start": 176,
+      "end": 242,
+      "text": "It was the mid-1940s.",
+      "lines": [
+        "It was the mid-1940s."
+      ]
+    },
+    {
+      "start": 242,
+      "end": 338,
+      "text": "Percy Spencer had been standing beside a magnetron —",
+      "lines": [
+        "Percy Spencer had been standing",
+        "beside a magnetron —"
+      ]
+    },
+    {
+      "start": 338,
+      "end": 434,
+      "text": "the tube that sends out radar's invisible waves.",
+      "lines": [
+        "the tube that sends out",
+        "radar's invisible waves."
+      ]
+    },
+    {
+      "start": 434,
+      "end": 480,
+      "text": "Instead of shrugging it off,",
+      "lines": [
+        "Instead of shrugging it off,"
+      ]
+    },
+    {
+      "start": 480,
+      "end": 539,
+      "text": "he tested food on purpose.",
+      "lines": [
+        "he tested food on purpose."
+      ]
+    },
+    {
+      "start": 539,
+      "end": 620,
+      "text": "Popcorn kernels by the magnetron popped.",
+      "lines": [
+        "Popcorn kernels",
+        "by the magnetron popped."
+      ]
+    },
+    {
+      "start": 620,
+      "end": 662,
+      "text": "An egg exploded.",
+      "lines": [
+        "An egg exploded."
+      ]
+    },
+    {
+      "start": 674,
+      "end": 710,
+      "text": "Then the key step:",
+      "lines": [
+        "Then the key step:"
+      ]
+    },
+    {
+      "start": 710,
+      "end": 790,
+      "text": "he concentrated the waves in a small space.",
+      "lines": [
+        "he concentrated the waves",
+        "in a small space."
+      ]
+    },
+    {
+      "start": 790,
+      "end": 848,
+      "text": "Food placed there heated fast.",
+      "lines": [
+        "Food placed there heated fast."
+      ]
+    },
+    {
+      "start": 857,
+      "end": 933,
+      "text": "In October, 1945,",
+      "lines": [
+        "In October, 1945,"
+      ]
+    },
+    {
+      "start": 933,
+      "end": 1027,
+      "text": "Raytheon filed a patent for cooking with microwaves.",
+      "lines": [
+        "Raytheon filed a patent",
+        "for cooking with microwaves."
+      ]
+    },
+    {
+      "start": 1039,
+      "end": 1115,
+      "text": "Microwave ovens still work that way —",
+      "lines": [
+        "Microwave ovens",
+        "still work that way —"
+      ]
+    },
+    {
+      "start": 1115,
+      "end": 1204,
+      "text": "a magnetron filling a metal box with waves.",
+      "lines": [
+        "a magnetron filling",
+        "a metal box with waves."
+      ]
+    },
+    {
+      "start": 1212,
+      "end": 1261,
+      "text": "Every time you press Start,",
+      "lines": [
+        "Every time you press Start,"
+      ]
+    },
+    {
+      "start": 1261,
+      "end": 1298,
+      "text": "you're using the answer",
+      "lines": [
+        "you're using the answer"
+      ]
+    },
+    {
+      "start": 1298,
+      "end": 1377,
+      "text": "to the question a melted candy bar raised.",
+      "lines": [
+        "to the question a melted",
+        "candy bar raised."
+      ]
+    }
+  ]
+}

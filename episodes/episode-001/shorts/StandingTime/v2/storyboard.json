@@ -1,0 +1,390 @@
+{
+  "short": "StandingTime",
+  "episode": "001",
+  "version": "v2",
+  "title": "Your Microwave Stopped. Your Food Didn't.",
+  "format": "short",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "script": "episodes/episode-001/shorts/StandingTime/v2/script.md",
+  "claimsFile": "research/episode-001/shorts/claims.md",
+  "music": "none (not approved)",
+  "timingBasis": "Built by scripts/audio/build-ep001-shorts.py from the measured narration takes: each shot = offsetFrames + approved take's speech end + tailFrames. Beat frames are estimated from the word's position in the take (punctuation pauses weighted).",
+  "shots": [
+    {
+      "id": "ST01",
+      "name": "The beep",
+      "narration": "The microwave beeps. It's done — but your food isn't.",
+      "offsetFrames": 30,
+      "tailFrames": 10,
+      "claims": [
+        "L38"
+      ],
+      "visual": "A microwave front fills the upper frame; its display counts 0:03 → 0:00 and flashes 'END' before the first word. Below, a big plate of food with a probe thermometer whose reading is still climbing.",
+      "onScreenText": [
+        "0:00",
+        "done?"
+      ],
+      "beats": [
+        {
+          "id": "count",
+          "at": "start",
+          "delta": 0,
+          "frame": 0
+        },
+        {
+          "id": "end",
+          "at": "start",
+          "delta": 24,
+          "frame": 24
+        },
+        {
+          "id": "isnt",
+          "word": "isn't",
+          "delta": -6,
+          "frame": 100
+        }
+      ],
+      "sound": [
+        {
+          "id": "done beep",
+          "file": "lf-start-beep.wav",
+          "beat": "end",
+          "volume": 0.4,
+          "frame": 24
+        }
+      ],
+      "startFrame": 0,
+      "endFrame": 132,
+      "start": 0.0,
+      "end": 4.4,
+      "speechStartFrame": 32,
+      "speechEndFrame": 122,
+      "take": "st01-take01.wav",
+      "takeSeconds": 3.502,
+      "words": 10
+    },
+    {
+      "id": "ST02",
+      "name": "Hot outside, cool middle",
+      "narration": "In thick food, the waves mostly heat the outer layers. When they stop, the outside is hot — the middle is still catching up.",
+      "offsetFrames": 6,
+      "tailFrames": 10,
+      "claims": [
+        "L27"
+      ],
+      "visual": "Cut into a large cross-section of a thick mound of food on a plate. Faint teal waves enter from the sides and fade within a thick outer band, which glows orange. On 'stop' the waves vanish. Labels: 'outside: hot' and 'middle: still cool' (mist blue core).",
+      "onScreenText": [
+        "outside: hot",
+        "middle: still cool"
+      ],
+      "beats": [
+        {
+          "id": "waves",
+          "word": "waves",
+          "delta": -4,
+          "frame": 171
+        },
+        {
+          "id": "stop",
+          "word": "stop",
+          "delta": -2,
+          "frame": 251
+        },
+        {
+          "id": "labels",
+          "word": "outside",
+          "delta": -6,
+          "frame": 269
+        },
+        {
+          "id": "middle",
+          "word": "middle",
+          "delta": -6,
+          "frame": 308
+        }
+      ],
+      "sound": [
+        {
+          "id": "wave fade",
+          "file": "lf-wave-absorb.wav",
+          "beat": "waves",
+          "volume": 0.16,
+          "frame": 171
+        }
+      ],
+      "startFrame": 132,
+      "endFrame": 375,
+      "start": 4.4,
+      "end": 12.5,
+      "speechStartFrame": 139,
+      "speechEndFrame": 365,
+      "take": "st02-take01.wav",
+      "takeSeconds": 7.982,
+      "words": 24
+    },
+    {
+      "id": "ST03",
+      "name": "Heat flows inward",
+      "narration": "That heat keeps flowing inward, from the hot outside to the cooler center — no microwaves needed.",
+      "offsetFrames": 6,
+      "tailFrames": 10,
+      "claims": [
+        "X09",
+        "L27"
+      ],
+      "visual": "Same cross-section, waves gone. Orange heat arrows creep from the outer band toward the centre, and the core begins to warm. A small wave icon with a cross: 'microwaves: off'.",
+      "onScreenText": [
+        "microwaves: off"
+      ],
+      "beats": [
+        {
+          "id": "arrows",
+          "word": "flowing",
+          "delta": -6,
+          "frame": 400
+        },
+        {
+          "id": "off",
+          "word": "microwaves",
+          "delta": -6,
+          "frame": 506
+        }
+      ],
+      "sound": [],
+      "startFrame": 375,
+      "endFrame": 557,
+      "start": 12.5,
+      "end": 18.57,
+      "speechStartFrame": 383,
+      "speechEndFrame": 547,
+      "take": "st03-take01.wav",
+      "takeSeconds": 5.973,
+      "words": 17
+    },
+    {
+      "id": "ST04",
+      "name": "Standing time",
+      "narration": "That's standing time. Food keeps cooking after the oven stops — its temperature can climb several more degrees.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "L38"
+      ],
+      "visual": "Title chip 'STANDING TIME' with a clock face whose hand sweeps. A probe thermometer in the food's centre rises a few notches while the timer display stays at 0:00: '+ several degrees'.",
+      "onScreenText": [
+        "STANDING TIME",
+        "+ several °"
+      ],
+      "beats": [
+        {
+          "id": "chip",
+          "word": "standing",
+          "delta": -6,
+          "frame": 570
+        },
+        {
+          "id": "clock",
+          "word": "keeps",
+          "delta": -4,
+          "frame": 611
+        },
+        {
+          "id": "climb",
+          "word": "climb",
+          "delta": -6,
+          "frame": 702
+        }
+      ],
+      "sound": [
+        {
+          "id": "clock ticks",
+          "file": "lf-clock-ticks.wav",
+          "beat": "clock",
+          "volume": 0.26,
+          "frame": 611
+        }
+      ],
+      "startFrame": 557,
+      "endFrame": 770,
+      "start": 18.57,
+      "end": 25.67,
+      "speechStartFrame": 565,
+      "speechEndFrame": 758,
+      "take": "st04-take01.wav",
+      "takeSeconds": 6.922,
+      "words": 18
+    },
+    {
+      "id": "ST05",
+      "name": "Same heat, spreading",
+      "narration": "It's not extra heating. It's the same heat, spreading out.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "X09"
+      ],
+      "visual": "Two side-by-side columns: 'outside' and 'middle', each a vertical heat bar. The outside bar drops a little as the middle bar rises, linked by an arrow; a small 'no new energy' note under a crossed wave icon.",
+      "onScreenText": [
+        "same heat, spreading out",
+        "outside",
+        "middle"
+      ],
+      "beats": [
+        {
+          "id": "notMore",
+          "word": "not",
+          "delta": -4,
+          "frame": 781
+        },
+        {
+          "id": "bars",
+          "word": "same",
+          "delta": -6,
+          "frame": 827
+        },
+        {
+          "id": "giveUp",
+          "word": "spreading",
+          "delta": -4,
+          "frame": 851
+        },
+        {
+          "id": "warms",
+          "word": "out",
+          "delta": 0,
+          "frame": 869
+        }
+      ],
+      "sound": [],
+      "startFrame": 770,
+      "endFrame": 895,
+      "start": 25.67,
+      "end": 29.83,
+      "speechStartFrame": 778,
+      "speechEndFrame": 883,
+      "take": "st05-take01.wav",
+      "takeSeconds": 3.989,
+      "words": 10
+    },
+    {
+      "id": "ST06",
+      "name": "Stand, then check",
+      "narration": "Food-safety guides say let it stand at least three minutes — then check it with a food thermometer.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "X10"
+      ],
+      "visual": "Two numbered guide cards: '1 · stand ≥ 3 min' with the clock completing three ticks, and '2 · check with a food thermometer' as a probe slides into the food's centre.",
+      "onScreenText": [
+        "1 · stand ≥ 3 min",
+        "2 · check with a food thermometer"
+      ],
+      "beats": [
+        {
+          "id": "card1",
+          "word": "stand",
+          "delta": -6,
+          "frame": 939
+        },
+        {
+          "id": "card2",
+          "word": "check",
+          "delta": -6,
+          "frame": 994
+        },
+        {
+          "id": "probe",
+          "word": "thermometer",
+          "delta": -10,
+          "frame": 1019
+        }
+      ],
+      "sound": [
+        {
+          "id": "card click",
+          "file": "lf-click.wav",
+          "beat": "card1",
+          "volume": 0.22,
+          "frame": 939
+        },
+        {
+          "id": "probe in",
+          "file": "lf-fork-tap.wav",
+          "beat": "probe",
+          "delta": 10,
+          "volume": 0.28,
+          "frame": 1029
+        }
+      ],
+      "startFrame": 895,
+      "endFrame": 1065,
+      "start": 29.83,
+      "end": 35.5,
+      "speechStartFrame": 904,
+      "speechEndFrame": 1053,
+      "take": "st06-take01.wav",
+      "takeSeconds": 5.505,
+      "words": 18
+    },
+    {
+      "id": "ST07",
+      "name": "Finish the job",
+      "narration": "The beep means the waves are done. Standing time lets the heat finish the job.",
+      "offsetFrames": 6,
+      "tailFrames": 40,
+      "claims": [
+        "L38",
+        "X09"
+      ],
+      "visual": "Payoff: the microwave display reads 0:00 at the top with 'waves: done ✓'. Below, the food cross-section finishes evening out to orange as a second chip ticks on: 'heat: done ✓'. Hold.",
+      "onScreenText": [
+        "waves: done ✓",
+        "heat: done ✓"
+      ],
+      "beats": [
+        {
+          "id": "waves",
+          "word": "waves",
+          "delta": -4,
+          "frame": 1096
+        },
+        {
+          "id": "heat",
+          "word": "heat",
+          "delta": -4,
+          "frame": 1161
+        },
+        {
+          "id": "done",
+          "at": "end",
+          "delta": 0,
+          "frame": 1202
+        }
+      ],
+      "sound": [
+        {
+          "id": "done tick",
+          "file": "lf-click.wav",
+          "beat": "done",
+          "delta": 2,
+          "volume": 0.24,
+          "frame": 1204
+        }
+      ],
+      "startFrame": 1065,
+      "endFrame": 1242,
+      "start": 35.5,
+      "end": 41.4,
+      "speechStartFrame": 1073,
+      "speechEndFrame": 1202,
+      "take": "st07-take01.wav",
+      "takeSeconds": 4.8,
+      "words": 15
+    }
+  ],
+  "durationInFrames": 1242,
+  "draft": false
+}

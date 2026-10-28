@@ -1,0 +1,215 @@
+{
+  "fps": 30,
+  "source": "scripts/audio/build-ep001-captions.py (aligned to narration takes)",
+  "video": "MicrowaveSafeDishes v3",
+  "cues": [
+    {
+      "start": 14,
+      "end": 72,
+      "text": "If a microwave heats the food,",
+      "lines": [
+        "If a microwave heats the food,"
+      ]
+    },
+    {
+      "start": 72,
+      "end": 130,
+      "text": "why is the plate scorching?",
+      "lines": [
+        "why is the plate scorching?"
+      ]
+    },
+    {
+      "start": 130,
+      "end": 181,
+      "text": "Sometimes it's the food:",
+      "lines": [
+        "Sometimes it's the food:"
+      ]
+    },
+    {
+      "start": 181,
+      "end": 245,
+      "text": "hot food heats whatever it touches,",
+      "lines": [
+        "hot food heats",
+        "whatever it touches,"
+      ]
+    },
+    {
+      "start": 245,
+      "end": 318,
+      "text": "even a dish the waves pass through.",
+      "lines": [
+        "even a dish the waves",
+        "pass through."
+      ]
+    },
+    {
+      "start": 318,
+      "end": 411,
+      "text": "But sometimes the dish itself absorbs the energy.",
+      "lines": [
+        "But sometimes the dish",
+        "itself absorbs the energy."
+      ]
+    },
+    {
+      "start": 411,
+      "end": 464,
+      "text": "Most ceramics barely do —",
+      "lines": [
+        "Most ceramics barely do —"
+      ]
+    },
+    {
+      "start": 464,
+      "end": 520,
+      "text": "some get very hot on their own.",
+      "lines": [
+        "some get very",
+        "hot on their own."
+      ]
+    },
+    {
+      "start": 530,
+      "end": 629,
+      "text": "So ceramic, glass or plastic doesn't settle it.",
+      "lines": [
+        "So ceramic, glass or plastic",
+        "doesn't settle it."
+      ]
+    },
+    {
+      "start": 629,
+      "end": 661,
+      "text": "How the dish was made —",
+      "lines": [
+        "How the dish was made —"
+      ]
+    },
+    {
+      "start": 661,
+      "end": 695,
+      "text": "and what for — does.",
+      "lines": [
+        "and what for — does."
+      ]
+    },
+    {
+      "start": 704,
+      "end": 787,
+      "text": "That's what a microwave-safe label is for.",
+      "lines": [
+        "That's what a microwave-safe",
+        "label is for."
+      ]
+    },
+    {
+      "start": 787,
+      "end": 819,
+      "text": "On plastic,",
+      "lines": [
+        "On plastic,"
+      ]
+    },
+    {
+      "start": 819,
+      "end": 872,
+      "text": "it means the container passed",
+      "lines": [
+        "it means the container passed"
+      ]
+    },
+    {
+      "start": 872,
+      "end": 929,
+      "text": "tests to FDA standards.",
+      "lines": [
+        "tests to FDA standards."
+      ]
+    },
+    {
+      "start": 929,
+      "end": 985,
+      "text": "Not melting isn't passing.",
+      "lines": [
+        "Not melting isn't passing."
+      ]
+    },
+    {
+      "start": 995,
+      "end": 1028,
+      "text": "No label?",
+      "lines": [
+        "No label?"
+      ]
+    },
+    {
+      "start": 1028,
+      "end": 1061,
+      "text": "Heat the empty dish beside",
+      "lines": [
+        "Heat the empty dish beside"
+      ]
+    },
+    {
+      "start": 1061,
+      "end": 1112,
+      "text": "a cup of water for a minute.",
+      "lines": [
+        "a cup of water for a minute."
+      ]
+    },
+    {
+      "start": 1112,
+      "end": 1171,
+      "text": "Dish hot? Keep it out.",
+      "lines": [
+        "Dish hot? Keep it out."
+      ]
+    },
+    {
+      "start": 1171,
+      "end": 1218,
+      "text": "Dish cool? A good sign —",
+      "lines": [
+        "Dish cool? A good sign —"
+      ]
+    },
+    {
+      "start": 1218,
+      "end": 1262,
+      "text": "not a guarantee.",
+      "lines": [
+        "not a guarantee."
+      ]
+    },
+    {
+      "start": 1273,
+      "end": 1306,
+      "text": "Check the label,",
+      "lines": [
+        "Check the label,"
+      ]
+    },
+    {
+      "start": 1306,
+      "end": 1366,
+      "text": "follow the maker's instructions —",
+      "lines": [
+        "follow the maker's",
+        "instructions —"
+      ]
+    },
+    {
+      "start": 1366,
+      "end": 1435,
+      "text": "and the food should be the hottest thing out.",
+      "lines": [
+        "and the food should be",
+        "the hottest thing out."
+      ]
+    }
+  ]
+}

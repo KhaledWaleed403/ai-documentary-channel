@@ -1,0 +1,743 @@
+1
+00:00:01,200 --> 00:00:03,400
+Sometime in the mid-1940s,
+
+2
+00:00:03,400 --> 00:00:07,767
+an engineer named Percy Spencer reached
+into his pocket and found a mess.
+
+3
+00:00:08,033 --> 00:00:10,000
+His candy bar had melted.
+
+4
+00:00:10,000 --> 00:00:11,367
+That wouldn't be strange —
+
+5
+00:00:11,367 --> 00:00:13,300
+except for where he'd been standing.
+
+6
+00:00:13,567 --> 00:00:15,367
+Right next to a magnetron:
+
+7
+00:00:15,367 --> 00:00:17,033
+the heart of a radar set,
+
+8
+00:00:17,033 --> 00:00:19,333
+the part that makes invisible waves.
+
+9
+00:00:19,633 --> 00:00:24,600
+So how does a melted snack in a radar lab
+turn into the box on your kitchen counter?
+
+10
+00:00:24,600 --> 00:00:26,967
+What actually happens when you press Start?
+
+11
+00:00:26,967 --> 00:00:31,033
+And why does your food come out scalding
+in one spot and cold in the next?
+
+12
+00:00:33,533 --> 00:00:36,267
+Spencer wasn't a typical scientist.
+
+13
+00:00:36,267 --> 00:00:38,100
+He left school at about 12,
+
+14
+00:00:38,100 --> 00:00:40,133
+learned radio in the Navy,
+
+15
+00:00:40,133 --> 00:00:42,233
+and taught himself most of the rest.
+
+16
+00:00:42,533 --> 00:00:43,567
+During the war,
+
+17
+00:00:43,567 --> 00:00:46,100
+his production methods helped Raytheon build
+
+18
+00:00:46,100 --> 00:00:48,967
+radar magnetrons by the thousands every day.
+
+19
+00:00:49,267 --> 00:00:51,167
+So when his candy bar melted,
+
+20
+00:00:51,167 --> 00:00:52,500
+he didn't just shrug.
+
+21
+00:00:52,500 --> 00:00:53,700
+He started testing.
+
+22
+00:00:53,967 --> 00:00:56,767
+He set some popcorn
+kernels near the magnetron.
+
+23
+00:00:56,767 --> 00:00:57,767
+They popped.
+
+24
+00:00:58,633 --> 00:00:59,833
+He tried an egg.
+
+25
+00:00:59,833 --> 00:01:00,933
+It exploded.
+
+26
+00:01:01,633 --> 00:01:04,033
+Then came the step that mattered most.
+
+27
+00:01:04,033 --> 00:01:06,133
+Instead of letting the energy spread out,
+
+28
+00:01:06,133 --> 00:01:08,500
+he concentrated it into a small space.
+
+29
+00:01:08,800 --> 00:01:10,767
+Food placed there heated fast.
+
+30
+00:01:11,667 --> 00:01:14,033
+In October, 1945,
+
+31
+00:01:14,033 --> 00:01:17,800
+Raytheon filed a patent
+for cooking food with microwaves.
+
+32
+00:01:17,800 --> 00:01:21,433
+People had tried heating food
+with radio energy before,
+
+33
+00:01:21,433 --> 00:01:23,133
+but with much longer waves.
+
+34
+00:01:23,433 --> 00:01:25,800
+Spencer's idea was to go short —
+
+35
+00:01:25,800 --> 00:01:28,067
+waves about 10 centimeters long,
+
+36
+00:01:28,067 --> 00:01:30,233
+close to the size of the food itself.
+
+37
+00:01:30,933 --> 00:01:32,367
+A couple of years later,
+
+38
+00:01:32,367 --> 00:01:35,000
+the first microwave oven went on sale.
+
+39
+00:01:35,000 --> 00:01:36,800
+It was called the Radarange.
+
+40
+00:01:37,333 --> 00:01:39,633
+It stood nearly six feet tall,
+
+41
+00:01:39,633 --> 00:01:42,533
+and weighed about as much
+as four grown adults.
+
+42
+00:01:42,533 --> 00:01:45,933
+Its magnetron needed water
+piped in to keep it cool.
+
+43
+00:01:45,933 --> 00:01:47,867
+And it cost thousands of dollars —
+
+44
+00:01:47,867 --> 00:01:49,467
+so it went to restaurants,
+
+45
+00:01:49,467 --> 00:01:50,467
+not homes.
+
+46
+00:01:51,367 --> 00:01:52,667
+Twenty years later,
+
+47
+00:01:52,667 --> 00:01:54,600
+in 1967,
+
+48
+00:01:54,600 --> 00:01:57,533
+a countertop model arrived for home kitchens.
+
+49
+00:01:57,833 --> 00:02:00,000
+$495 —
+
+50
+00:02:00,000 --> 00:02:03,267
+still pricey, but no longer
+a restaurant machine.
+
+51
+00:02:03,267 --> 00:02:05,600
+And small enough to sit next to a toaster.
+
+52
+00:02:06,733 --> 00:02:08,900
+Even then, it took a while.
+
+53
+00:02:08,900 --> 00:02:10,467
+But by the late nineties,
+
+54
+00:02:10,467 --> 00:02:13,300
+about nine in ten American homes had one.
+
+55
+00:02:14,000 --> 00:02:15,300
+The machine shrank.
+
+56
+00:02:15,300 --> 00:02:17,533
+The idea inside it stayed the same.
+
+57
+00:02:17,533 --> 00:02:19,033
+So let's look inside.
+
+58
+00:02:19,933 --> 00:02:22,133
+Press Start, and a magnetron —
+
+59
+00:02:22,133 --> 00:02:24,467
+a descendant of Spencer's radar tube —
+
+60
+00:02:24,467 --> 00:02:27,133
+turns electricity into microwaves.
+
+61
+00:02:27,133 --> 00:02:29,100
+They're a kind of radio wave.
+
+62
+00:02:29,100 --> 00:02:32,933
+The metal walls bounce them
+around until the whole box is full of them.
+
+63
+00:02:33,867 --> 00:02:37,867
+A microwave is a ripple of electric
+and magnetic fields.
+
+64
+00:02:37,867 --> 00:02:40,833
+The part that matters here
+is the electric field.
+
+65
+00:02:40,833 --> 00:02:43,067
+It pushes on electric charges —
+
+66
+00:02:43,067 --> 00:02:47,567
+and it swings back and forth about
+2.5 billion times every second.
+
+67
+00:02:48,500 --> 00:02:51,467
+Most of the food we heat
+contains plenty of water.
+
+68
+00:02:51,467 --> 00:02:53,733
+And a water molecule is lopsided.
+
+69
+00:02:54,000 --> 00:02:56,700
+The oxygen end is slightly negative,
+
+70
+00:02:56,700 --> 00:02:59,467
+the hydrogen side slightly positive.
+
+71
+00:02:59,467 --> 00:03:01,433
+So every time the field flips,
+
+72
+00:03:01,433 --> 00:03:03,300
+it shoves the molecule one way —
+
+73
+00:03:03,300 --> 00:03:04,300
+then the other.
+
+74
+00:03:04,733 --> 00:03:06,533
+Here's a picture that helps.
+
+75
+00:03:06,533 --> 00:03:08,633
+Imagine a packed dance floor,
+
+76
+00:03:08,633 --> 00:03:11,500
+where the beat reverses
+billions of times a second.
+
+77
+00:03:11,500 --> 00:03:13,433
+Everyone tries to turn with it.
+
+78
+00:03:13,433 --> 00:03:15,867
+Nobody can — it's far too crowded.
+
+79
+00:03:15,867 --> 00:03:17,600
+So they bump into their neighbors,
+
+80
+00:03:17,600 --> 00:03:19,000
+who bump into theirs,
+
+81
+00:03:19,000 --> 00:03:21,700
+until the whole floor is a jostling mess.
+
+82
+00:03:22,600 --> 00:03:24,233
+That's only a picture.
+
+83
+00:03:24,233 --> 00:03:27,633
+Real molecules don't spin
+like tiny propellers.
+
+84
+00:03:27,633 --> 00:03:28,967
+They're jammed together,
+
+85
+00:03:28,967 --> 00:03:32,600
+and they barely manage part of a turn
+before the field reverses.
+
+86
+00:03:32,600 --> 00:03:34,500
+But the key idea holds.
+
+87
+00:03:34,500 --> 00:03:35,967
+The field keeps shoving,
+
+88
+00:03:35,967 --> 00:03:39,333
+and collisions scatter
+that shove into random jiggling.
+
+89
+00:03:39,333 --> 00:03:41,333
+And random jiggling of molecules —
+
+90
+00:03:41,333 --> 00:03:42,600
+that's what heat is.
+
+91
+00:03:44,133 --> 00:03:45,533
+A quick myth check.
+
+92
+00:03:45,533 --> 00:03:48,933
+This isn't a magic frequency
+that water is tuned to.
+
+93
+00:03:48,933 --> 00:03:51,933
+It's simply a frequency set aside for ovens.
+
+94
+00:03:51,933 --> 00:03:54,633
+And water isn't the only thing soaking it up.
+
+95
+00:03:54,633 --> 00:03:56,467
+Other molecules in food absorb some,
+
+96
+00:03:56,467 --> 00:03:57,467
+too.
+
+97
+00:03:58,100 --> 00:04:01,733
+One more: microwaves don't
+cook from the inside out.
+
+98
+00:04:01,733 --> 00:04:03,233
+In a thick bowl of soup,
+
+99
+00:04:03,233 --> 00:04:05,933
+they fade out within
+the first few centimeters.
+
+100
+00:04:05,933 --> 00:04:08,400
+The middle warms the old-fashioned way —
+
+101
+00:04:08,400 --> 00:04:11,133
+heat spreading
+in from the hotter outer layers.
+
+102
+00:04:12,233 --> 00:04:14,100
+Which brings us to the turntable.
+
+103
+00:04:14,633 --> 00:04:17,100
+Remember the waves bouncing off the walls?
+
+104
+00:04:17,100 --> 00:04:18,300
+Where they overlap,
+
+105
+00:04:18,300 --> 00:04:20,767
+some spots add up and get stronger.
+
+106
+00:04:20,767 --> 00:04:23,067
+Others cancel out and get weaker.
+
+107
+00:04:23,067 --> 00:04:27,367
+The result is a pattern of hot
+and cold spots that mostly stays put.
+
+108
+00:04:28,467 --> 00:04:30,167
+You can see it with —
+
+109
+00:04:30,167 --> 00:04:31,700
+fittingly — a bar of chocolate.
+
+110
+00:04:31,700 --> 00:04:33,133
+Take out the turntable,
+
+111
+00:04:33,133 --> 00:04:35,100
+put in a plain chocolate bar,
+
+112
+00:04:35,100 --> 00:04:36,400
+and heat it briefly.
+
+113
+00:04:36,400 --> 00:04:38,000
+It doesn't melt evenly.
+
+114
+00:04:38,000 --> 00:04:39,500
+It melts in patches,
+
+115
+00:04:39,500 --> 00:04:41,133
+a few centimeters apart.
+
+116
+00:04:43,033 --> 00:04:44,933
+That's what the turntable is for.
+
+117
+00:04:44,933 --> 00:04:48,100
+Picture one spoonful of soup
+riding around the plate.
+
+118
+00:04:48,100 --> 00:04:50,733
+It drifts into a strong spot and heats up,
+
+119
+00:04:50,733 --> 00:04:52,433
+slides through a weak one,
+
+120
+00:04:52,433 --> 00:04:54,033
+then into another strong one —
+
+121
+00:04:54,033 --> 00:04:55,400
+again and again.
+
+122
+00:04:55,733 --> 00:04:57,233
+Turn after turn,
+
+123
+00:04:57,233 --> 00:04:58,867
+the heating averages out.
+
+124
+00:05:01,167 --> 00:05:02,067
+Averages out —
+
+125
+00:05:02,067 --> 00:05:03,600
+but not perfectly.
+
+126
+00:05:03,600 --> 00:05:05,867
+The real pattern is three-dimensional,
+
+127
+00:05:05,867 --> 00:05:08,100
+and it shifts as the food heats.
+
+128
+00:05:08,100 --> 00:05:11,000
+And the very center of the plate
+barely moves at all.
+
+129
+00:05:11,000 --> 00:05:13,500
+That's why food-safety guides still say:
+
+130
+00:05:13,500 --> 00:05:14,867
+stir halfway through.
+
+131
+00:05:16,400 --> 00:05:19,167
+And then there's the classic
+microwave betrayal.
+
+132
+00:05:19,167 --> 00:05:20,800
+A plate too hot to touch —
+
+133
+00:05:20,800 --> 00:05:22,500
+and a bite that's still cold.
+
+134
+00:05:23,200 --> 00:05:24,900
+Part of that is the food.
+
+135
+00:05:24,900 --> 00:05:26,533
+The outside heats first,
+
+136
+00:05:26,533 --> 00:05:29,033
+the middle waits for heat to creep inward,
+
+137
+00:05:29,033 --> 00:05:29,933
+and the plate,
+
+138
+00:05:29,933 --> 00:05:31,733
+pressed against the hot outside,
+
+139
+00:05:31,733 --> 00:05:33,067
+soaks up plenty.
+
+140
+00:05:33,367 --> 00:05:37,033
+A few minutes of standing time lets
+the heat keep spreading inward.
+
+141
+00:05:37,733 --> 00:05:39,267
+Part of it can be the dish.
+
+142
+00:05:39,267 --> 00:05:42,233
+Some dishes let microwaves
+pass straight through,
+
+143
+00:05:42,233 --> 00:05:44,400
+and only get warm from the food.
+
+144
+00:05:44,400 --> 00:05:46,767
+Others absorb the energy themselves.
+
+145
+00:05:46,767 --> 00:05:48,333
+Here's a simple test.
+
+146
+00:05:48,333 --> 00:05:50,600
+Put the empty dish in next to a cup of water,
+
+147
+00:05:50,600 --> 00:05:52,000
+and run it for one minute.
+
+148
+00:05:52,000 --> 00:05:54,033
+Hot water and a cool dish?
+
+149
+00:05:54,033 --> 00:05:55,133
+It's fine.
+
+150
+00:05:55,133 --> 00:05:56,367
+If the dish is hot,
+
+151
+00:05:56,367 --> 00:05:57,967
+it isn't microwave-safe.
+
+152
+00:05:58,933 --> 00:06:01,200
+Frozen food has its own trick.
+
+153
+00:06:01,200 --> 00:06:03,733
+Ice is bad at absorbing microwaves —
+
+154
+00:06:03,733 --> 00:06:06,133
+its molecules are locked in place.
+
+155
+00:06:06,133 --> 00:06:08,800
+But once one patch thaws into liquid water,
+
+156
+00:06:08,800 --> 00:06:11,700
+it soaks up far more energy
+than the ice around it.
+
+157
+00:06:12,000 --> 00:06:13,400
+So it heats faster,
+
+158
+00:06:13,400 --> 00:06:14,733
+and faster still —
+
+159
+00:06:14,733 --> 00:06:18,733
+which is how one bite can be scalding
+while the next is frozen solid.
+
+160
+00:06:19,700 --> 00:06:21,433
+And one rare surprise.
+
+161
+00:06:21,433 --> 00:06:24,867
+Plain water, heated alone in a very clean cup,
+
+162
+00:06:24,867 --> 00:06:27,900
+can get hotter than boiling
+without a single bubble.
+
+163
+00:06:27,900 --> 00:06:29,033
+Then a small bump —
+
+164
+00:06:29,033 --> 00:06:30,833
+and it can erupt all at once.
+
+165
+00:06:32,767 --> 00:06:34,500
+So the next time you press Start,
+
+166
+00:06:34,500 --> 00:06:36,300
+picture what's really going on.
+
+167
+00:06:36,800 --> 00:06:41,700
+A descendant of a wartime radar tube
+fills a metal box with invisible waves.
+
+168
+00:06:41,967 --> 00:06:45,800
+Their electric field swings
+back and forth billions of times a second,
+
+169
+00:06:45,800 --> 00:06:48,333
+shoving at water molecules
+too crowded to keep up.
+
+170
+00:06:48,333 --> 00:06:50,833
+That jostling becomes heat,
+
+171
+00:06:50,833 --> 00:06:51,300
+spot by spot and layer by layer,
+
+172
+00:06:51,300 --> 00:06:56,267
+while the plate carries your dinner
+through a pattern you can't see.
+
+173
+00:06:57,200 --> 00:07:00,000
+Nothing in your food turns radioactive.
+
+174
+00:07:00,000 --> 00:07:01,300
+It's just waves,
+
+175
+00:07:01,300 --> 00:07:04,167
+water, and a very crowded dance floor —
+
+176
+00:07:04,167 --> 00:07:07,233
+all because one engineer
+found a melted candy bar,
+
+177
+00:07:07,533 --> 00:07:08,900
+and wanted to know why.

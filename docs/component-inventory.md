@@ -4,6 +4,8 @@ Reusable building blocks. Update this file when a component is created or change
 
 Episode 001 long-form drawings (16:9) live in `src/scenes/episode001Long/shared.tsx`; it also imports the Short's `Thermometer` and `bowlSectionPath` read-only.
 
+The Episode 001 Shorts batch (9:16; `CandyBarDiscovery`, `MicrowaveSafeDishes`, `StandingTime`, `SuperheatedWater`) uses a vertical stage and small helpers in `src/scenes/episode001Shorts/shared.tsx`: `VStage`, `T`, `Chip`, `Tick`/`Cross`, `WaveIcon` and `Clock`. It reuses the long-form drawings and the Short's `Thermometer` read-only. These helpers stay episode-specific until another episode needs them.
+
 Conventions: components live in `src/components/`, take data and style via props (no hardcoded episode content), are driven by `useCurrentFrame()`, and work at both 16:9 and 9:16. Timing helpers live in `src/animations/`, theme tokens in `src/styles/`.
 
 | Component | Purpose | Status |
@@ -15,6 +17,7 @@ Conventions: components live in `src/components/`, take data and style via props
 | `Callout` | SVG label with a leader line and dot pointing to a part of the scene. | done (ep. 001) |
 | `Badge` | Pill label readable on light and dark backgrounds. | done (not used in ep. 001 final) |
 | `AudioCue` | One sound on the timeline: `<Sequence>` + `<Audio>` with frame-based fade in/out, volume, loop and an optional per-frame `gain` (e.g. ducking under narration). | done (ep. 001) |
+| `Captions` | Burned-in Short captions: one cue (one or two lines) at a time from frame-timed cues, on a translucent backing, with optional accent-coloured words; the block's bottom edge is set by the caller to stay out of platform UI. HTML overlay. | done (ep. 001 Shorts) |
 | `CameraFrame` | Full-frame wrapper for one slow camera move (zoom about an origin, pan, tilt), driven by the caller's frame math. | done (ep. 001 long-form) |
 | `ScaleIndicator` | Ruler with a unit label that steps through a list (e.g. cm → nm) plus an optional caption (e.g. "slowed ~2,500,000,000×"). HTML overlay. | done (ep. 001 long-form) |
 

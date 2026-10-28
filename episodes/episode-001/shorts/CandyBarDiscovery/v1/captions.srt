@@ -1,0 +1,43 @@
+1
+00:00:00,533 --> 00:00:03,300
+The microwave oven started with a ruined snack.
+
+2
+00:00:03,633 --> 00:00:10,755
+In the mid-nineteen-forties, engineer Percy Spencer was working near a magnetron — the tube that makes radar's waves.
+
+3
+00:00:10,855 --> 00:00:14,367
+Then he noticed the candy bar in his pocket had melted.
+
+4
+00:00:14,767 --> 00:00:16,667
+So he tested food on purpose.
+
+5
+00:00:16,767 --> 00:00:19,278
+Popcorn kernels by the magnetron popped.
+
+6
+00:00:19,378 --> 00:00:20,800
+An egg exploded.
+
+7
+00:00:21,333 --> 00:00:24,903
+Then the key step: he concentrated the waves in a small space.
+
+8
+00:00:25,003 --> 00:00:27,000
+Food placed there heated fast.
+
+9
+00:00:27,433 --> 00:00:32,967
+In October, nineteen forty-five, Raytheon filed a patent for cooking with microwaves.
+
+10
+00:00:33,500 --> 00:00:38,534
+Microwave ovens still work that way — a magnetron filling a metal box with waves.
+
+11
+00:00:38,634 --> 00:00:44,633
+Every time you press Start, you're using the answer to the question a melted candy bar raised.

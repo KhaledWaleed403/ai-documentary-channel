@@ -1,0 +1,488 @@
+{
+  "short": "MicrowaveSafeDishes",
+  "episode": "001",
+  "version": "v3",
+  "title": "Why Is the Plate Hotter Than the Food?",
+  "format": "short",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "script": "episodes/episode-001/shorts/MicrowaveSafeDishes/v3/script.md",
+  "claimsFile": "research/episode-001/shorts/claims.md",
+  "music": "none (not approved)",
+  "timingBasis": "Built by scripts/audio/build-ep001-shorts.py from the measured narration takes: each shot = offsetFrames + approved take's speech end + tailFrames. Beat frames are estimated from the word's position in the take (punctuation pauses weighted).",
+  "shots": [
+    {
+      "id": "DS01",
+      "name": "The scorching plate",
+      "narration": "If a microwave heats the food, why is the plate scorching?",
+      "offsetFrames": 14,
+      "tailFrames": 10,
+      "claims": [],
+      "visual": "Navy counter. A plate of food slides in from the oven side and lands. A hand reaches for the rim and snaps back; the rim flushes orange. Big question text above.",
+      "onScreenText": [
+        "Why is the PLATE hot?"
+      ],
+      "beats": [
+        {
+          "id": "land",
+          "at": "start",
+          "delta": 10,
+          "frame": 10
+        },
+        {
+          "id": "touch",
+          "word": "plate",
+          "delta": 0,
+          "frame": 83
+        },
+        {
+          "id": "text",
+          "word": "scorching",
+          "delta": -6,
+          "frame": 85
+        }
+      ],
+      "sound": [
+        {
+          "id": "plate set",
+          "file": "lf-dish-set.wav",
+          "beat": "land",
+          "delta": 12,
+          "volume": 0.34,
+          "frame": 22
+        }
+      ],
+      "startFrame": 0,
+      "endFrame": 124,
+      "start": 0.0,
+      "end": 4.13,
+      "speechStartFrame": 16,
+      "speechEndFrame": 114,
+      "take": "ds01-take01.wav",
+      "takeSeconds": 3.766,
+      "words": 11
+    },
+    {
+      "id": "DS02",
+      "name": "Reason 1: the food",
+      "narration": "Sometimes it's the food: hot food heats whatever it touches, even a dish the waves pass through.",
+      "offsetFrames": 6,
+      "tailFrames": 10,
+      "claims": [
+        "L33"
+      ],
+      "visual": "Card '1 · heat from the food'. Cross-section: teal waves pass straight through the plate (it doesn't glow) and into the food, which turns orange. Orange heat arrows then run down from the food into the plate, which warms only where the food touches it.",
+      "onScreenText": [
+        "1 · heat from the food",
+        "waves pass through"
+      ],
+      "beats": [
+        {
+          "id": "card",
+          "at": "start",
+          "delta": 4,
+          "frame": 128
+        },
+        {
+          "id": "food",
+          "word": "hot",
+          "delta": -4,
+          "frame": 173
+        },
+        {
+          "id": "arrows",
+          "word": "touches",
+          "delta": -6,
+          "frame": 213
+        },
+        {
+          "id": "through",
+          "word": "pass",
+          "delta": -6,
+          "frame": 267
+        }
+      ],
+      "sound": [
+        {
+          "id": "card click",
+          "file": "lf-click.wav",
+          "beat": "card",
+          "volume": 0.22,
+          "frame": 128
+        }
+      ],
+      "startFrame": 124,
+      "endFrame": 312,
+      "start": 4.13,
+      "end": 10.4,
+      "speechStartFrame": 132,
+      "speechEndFrame": 302,
+      "take": "ds02-take01.wav",
+      "takeSeconds": 6.163,
+      "words": 17
+    },
+    {
+      "id": "DS03",
+      "name": "Reason 2: the dish",
+      "narration": "But sometimes the dish itself absorbs the energy. Most ceramics barely do — some get very hot on their own.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "L35",
+        "X01"
+      ],
+      "visual": "Card '2 · the dish absorbs energy'. Three empty ceramic dishes in a column-free row, no food. Teal waves wash over them. Two stay mist blue; on 'some' the third dish glows orange by itself, waves fading into it.",
+      "onScreenText": [
+        "2 · the dish absorbs energy",
+        "most",
+        "some"
+      ],
+      "beats": [
+        {
+          "id": "card",
+          "at": "start",
+          "delta": 4,
+          "frame": 316
+        },
+        {
+          "id": "waves",
+          "word": "absorbs",
+          "delta": -6,
+          "frame": 361
+        },
+        {
+          "id": "most",
+          "word": "Most",
+          "delta": -4,
+          "frame": 403
+        },
+        {
+          "id": "some",
+          "word": "some",
+          "delta": -4,
+          "frame": 450
+        }
+      ],
+      "sound": [
+        {
+          "id": "card click",
+          "file": "lf-click.wav",
+          "beat": "card",
+          "volume": 0.22,
+          "frame": 316
+        },
+        {
+          "id": "absorb",
+          "file": "lf-wave-absorb.wav",
+          "beat": "some",
+          "volume": 0.22,
+          "frame": 450
+        }
+      ],
+      "startFrame": 312,
+      "endFrame": 524,
+      "start": 10.4,
+      "end": 17.47,
+      "speechStartFrame": 320,
+      "speechEndFrame": 512,
+      "take": "ds03-take01.wav",
+      "takeSeconds": 6.881,
+      "words": 20
+    },
+    {
+      "id": "DS04",
+      "name": "The word doesn't settle it",
+      "narration": "So ceramic, glass or plastic doesn't settle it. How the dish was made — and what for — does.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "X02"
+      ],
+      "visual": "Three material tiles (ceramic, glass, plastic), each with a '?' instead of a tick. They slide up and a checklist draws on beneath: material · glaze · metal trim · intended use.",
+      "onScreenText": [
+        "ceramic ?",
+        "glass ?",
+        "plastic ?",
+        "material",
+        "glaze",
+        "metal trim",
+        "intended use"
+      ],
+      "beats": [
+        {
+          "id": "ceramic",
+          "word": "ceramic",
+          "delta": -4,
+          "frame": 532
+        },
+        {
+          "id": "glass",
+          "word": "glass",
+          "delta": -4,
+          "frame": 550
+        },
+        {
+          "id": "plastic",
+          "word": "plastic",
+          "delta": -4,
+          "frame": 562
+        },
+        {
+          "id": "list",
+          "word": "How",
+          "delta": -6,
+          "frame": 603
+        },
+        {
+          "id": "use",
+          "word": "what",
+          "delta": -4,
+          "frame": 648
+        }
+      ],
+      "sound": [
+        {
+          "id": "ceramic tap",
+          "file": "lf-mug-tap.wav",
+          "beat": "ceramic",
+          "volume": 0.3,
+          "frame": 532
+        },
+        {
+          "id": "glass tap",
+          "file": "lf-glass-clink.wav",
+          "beat": "glass",
+          "volume": 0.26,
+          "frame": 550
+        },
+        {
+          "id": "plastic tap",
+          "file": "lf-fork-tap.wav",
+          "beat": "plastic",
+          "volume": 0.22,
+          "frame": 562
+        }
+      ],
+      "startFrame": 524,
+      "endFrame": 699,
+      "start": 17.47,
+      "end": 23.3,
+      "speechStartFrame": 532,
+      "speechEndFrame": 687,
+      "take": "ds04-take01.wav",
+      "takeSeconds": 5.671,
+      "words": 19
+    },
+    {
+      "id": "DS05",
+      "name": "What the label means",
+      "narration": "That's what a microwave-safe label is for. On plastic, it means the container passed tests to FDA standards. Not melting isn't passing.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "X03",
+        "X04"
+      ],
+      "visual": "A generic microwave-safe symbol (a box with three wavy lines) stamps onto a plastic container. Small caption 'tested to FDA standards'. Then a second, unlabelled tub sits beside it, intact: 'didn't melt ≠ passed'.",
+      "onScreenText": [
+        "microwave-safe",
+        "tested to FDA standards",
+        "didn't melt ≠ passed"
+      ],
+      "beats": [
+        {
+          "id": "stamp",
+          "word": "label",
+          "delta": -4,
+          "frame": 753
+        },
+        {
+          "id": "tested",
+          "word": "passed",
+          "delta": -6,
+          "frame": 853
+        },
+        {
+          "id": "tub",
+          "word": "Not",
+          "delta": -6,
+          "frame": 916
+        },
+        {
+          "id": "neq",
+          "word": "passing",
+          "delta": -6,
+          "frame": 947
+        }
+      ],
+      "sound": [
+        {
+          "id": "label stamp",
+          "file": "lf-stamp.wav",
+          "beat": "stamp",
+          "delta": 6,
+          "volume": 0.26,
+          "frame": 759
+        },
+        {
+          "id": "tub set",
+          "file": "lf-dish-set.wav",
+          "beat": "tub",
+          "delta": 10,
+          "volume": 0.2,
+          "frame": 926
+        }
+      ],
+      "startFrame": 699,
+      "endFrame": 989,
+      "start": 23.3,
+      "end": 32.97,
+      "speechStartFrame": 707,
+      "speechEndFrame": 977,
+      "take": "ds05-take01.wav",
+      "takeSeconds": 9.502,
+      "words": 22
+    },
+    {
+      "id": "DS06",
+      "name": "The water-cup check",
+      "narration": "No label? Heat the empty dish beside a cup of water for a minute. Dish hot? Keep it out. Dish cool? A good sign — not a guarantee.",
+      "offsetFrames": 6,
+      "tailFrames": 14,
+      "claims": [
+        "X05",
+        "X06"
+      ],
+      "visual": "Inside a schematic oven box: an empty dish beside a glass cup of water. A one-minute bar fills while teal waves run. Then two outcome rows: 'dish hot → keep it out' (dish orange) and 'dish cool → good sign, not a guarantee' (dish mist blue, a soft dashed outline instead of a tick).",
+      "onScreenText": [
+        "unlabeled dish · 1 min",
+        "dish hot → keep it out",
+        "dish cool → good sign, not a guarantee"
+      ],
+      "beats": [
+        {
+          "id": "setup",
+          "word": "empty",
+          "delta": -10,
+          "frame": 1025
+        },
+        {
+          "id": "timer",
+          "word": "minute",
+          "delta": -8,
+          "frame": 1085
+        },
+        {
+          "id": "hot",
+          "word": "hot",
+          "delta": -8,
+          "frame": 1114
+        },
+        {
+          "id": "cool",
+          "word": "cool",
+          "delta": -8,
+          "frame": 1167
+        },
+        {
+          "id": "guarantee",
+          "word": "guarantee",
+          "delta": -10,
+          "frame": 1220
+        }
+      ],
+      "sound": [
+        {
+          "id": "start beep",
+          "file": "lf-start-beep.wav",
+          "beat": "timer",
+          "delta": -8,
+          "volume": 0.3,
+          "frame": 1077
+        },
+        {
+          "id": "test run",
+          "file": "lf-oven-hum-loop.wav",
+          "beat": "timer",
+          "volume": 0.12,
+          "untilBeat": "hot",
+          "extra": 6,
+          "loop": true,
+          "fadeIn": 14,
+          "fadeOut": 14,
+          "frame": 1085,
+          "endFrame": 1120
+        }
+      ],
+      "startFrame": 989,
+      "endFrame": 1268,
+      "start": 32.97,
+      "end": 42.27,
+      "speechStartFrame": 997,
+      "speechEndFrame": 1254,
+      "take": "ds06-take01.wav",
+      "takeSeconds": 9.064,
+      "words": 28
+    },
+    {
+      "id": "DS07",
+      "name": "Hottest thing out",
+      "narration": "Check the label, follow the maker's instructions — and the food should be the hottest thing out.",
+      "offsetFrames": 6,
+      "tailFrames": 40,
+      "claims": [
+        "X07",
+        "X08"
+      ],
+      "visual": "The plate of food from DS01 returns. Two small thermometers: the food's reads high (gold), labelled 'food'; the plate's lower (soft orange), labelled 'plate'. Two checklist chips draw on: 'check the label' · 'follow the maker's instructions'. Hold on the steaming food; the closing line is carried by the caption.",
+      "onScreenText": [
+        "✓ check the label",
+        "✓ follow the maker's instructions",
+        "food",
+        "plate"
+      ],
+      "beats": [
+        {
+          "id": "label",
+          "word": "label",
+          "delta": -6,
+          "frame": 1283
+        },
+        {
+          "id": "maker",
+          "word": "follow",
+          "delta": -4,
+          "frame": 1300
+        },
+        {
+          "id": "therm",
+          "word": "hottest",
+          "delta": -8,
+          "frame": 1386
+        }
+      ],
+      "sound": [
+        {
+          "id": "final set",
+          "file": "lf-dish-set.wav",
+          "beat": "therm",
+          "delta": 30,
+          "volume": 0.2,
+          "frame": 1416
+        }
+      ],
+      "startFrame": 1268,
+      "endFrame": 1467,
+      "start": 42.27,
+      "end": 48.9,
+      "speechStartFrame": 1275,
+      "speechEndFrame": 1427,
+      "take": "ds07-take01.wav",
+      "takeSeconds": 5.519,
+      "words": 17
+    }
+  ],
+  "durationInFrames": 1467,
+  "draft": false
+}

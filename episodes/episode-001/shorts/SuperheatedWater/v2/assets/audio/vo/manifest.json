@@ -1,0 +1,202 @@
+{
+  "episode": "episode-001",
+  "short": "SuperheatedWater",
+  "version": "v2",
+  "script": "episodes/episode-001/shorts/SuperheatedWater/v2/script.md",
+  "engine": "kokoro-onnx",
+  "model": "Kokoro-82M v1.0",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lang": "en-us",
+  "sentencePause": 0.4,
+  "clausePause": 0.3,
+  "generator": "C:/Users/Khaled/.luminexplain-kokoro/scripts/kokoro_snippet.py",
+  "snippets": [
+    {
+      "id": "SW01",
+      "shot": "SW01",
+      "text": "Water can get hotter than boiling — and still not boil.",
+      "approvedTake": "sw01-take01.wav",
+      "offsetFrames": 14,
+      "takes": [
+        {
+          "file": "sw01-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 3.287,
+          "speechStartSeconds": 0.07,
+          "speechEndSeconds": 2.84,
+          "samplePeakDBFS": -8.81,
+          "loudnessLUFS": -25.1,
+          "truePeakDBTP": -8.26,
+          "sha256": "5744d6f128300ebf524717f60493eb7701a826e37010764843f9d46fca0e1161",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "SW02",
+      "shot": "SW02",
+      "text": "Boiling needs somewhere to start. Bubbles usually form around tiny impurities in the water.",
+      "approvedTake": "sw02-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "sw02-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 5.781,
+          "speechStartSeconds": 0.09,
+          "speechEndSeconds": 5.35,
+          "samplePeakDBFS": -7.29,
+          "loudnessLUFS": -26.15,
+          "truePeakDBTP": -7.28,
+          "sha256": "da75f353460d9d259903b25049fb4774f08fa0f0be2d60099eabaf56c78d9614",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "SW03",
+      "shot": "SW03",
+      "text": "Heat plain water by itself in a very clean cup, and it can climb past boiling while looking completely calm.",
+      "approvedTake": "sw03-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "sw03-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 6.656,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 6.23,
+          "samplePeakDBFS": -7.09,
+          "loudnessLUFS": -25.79,
+          "truePeakDBTP": -6.97,
+          "sha256": "fc01ba084dfb36b50659359ba69d2b77e6833021699197e8c2bc972d2b471a4c",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "SW04",
+      "shot": "SW04",
+      "text": "Then a small disturbance — picking up the cup, adding a spoonful of coffee — and bubbles burst out all at once. Boiling water can erupt from the cup.",
+      "approvedTake": "sw04-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "sw04-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 9.008,
+          "speechStartSeconds": 0.07,
+          "speechEndSeconds": 8.57,
+          "samplePeakDBFS": -5.87,
+          "loudnessLUFS": -25.07,
+          "truePeakDBTP": -5.87,
+          "sha256": "769b329af792b9cb5f00efc5f26040ebbed427b4262b03312352dcfa1aec52bc",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 4.4
+    },
+    {
+      "id": "SW05",
+      "shot": "SW05",
+      "text": "So don't heat water longer than the instructions recommend. And adding instant coffee or sugar before heating greatly reduces the risk.",
+      "approvedTake": "sw05-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "sw05-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 8.683,
+          "speechStartSeconds": 0.04,
+          "speechEndSeconds": 8.25,
+          "samplePeakDBFS": -4.92,
+          "loudnessLUFS": -25.85,
+          "truePeakDBTP": -4.66,
+          "sha256": "1ce19dd7c91f3c1a5b7d569d4f6085e15e27503a1c90bfd51e31e8c63532391f",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 3.2
+    },
+    {
+      "id": "SW06",
+      "shot": "SW06",
+      "text": "Calm doesn't always mean below boiling. That water may just be waiting for a reason to boil.",
+      "approvedTake": "sw06-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "sw06-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 5.717,
+          "speechStartSeconds": 0.04,
+          "speechEndSeconds": 5.29,
+          "samplePeakDBFS": -7.52,
+          "loudnessLUFS": -26.18,
+          "truePeakDBTP": -7.43,
+          "sha256": "c0419b7e4ffd0693ea58f3144d9c939fd6bffe6514ee9742d7063e964b79d038",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    }
+  ]
+}

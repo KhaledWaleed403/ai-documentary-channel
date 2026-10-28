@@ -1,0 +1,233 @@
+{
+  "episode": "episode-001",
+  "short": "StandingTime",
+  "version": "v1",
+  "script": "episodes/episode-001/shorts/StandingTime/v1/script.md",
+  "engine": "kokoro-onnx",
+  "model": "Kokoro-82M v1.0",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lang": "en-us",
+  "sentencePause": 0.4,
+  "clausePause": 0.3,
+  "generator": "C:/Users/Khaled/.luminexplain-kokoro/scripts/kokoro_snippet.py",
+  "snippets": [
+    {
+      "id": "ST01",
+      "shot": "ST01",
+      "text": "The microwave beeps. It's done — but your food isn't.",
+      "approvedTake": "st01-take01.wav",
+      "offsetFrames": 30,
+      "takes": [
+        {
+          "file": "st01-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 3.502,
+          "speechStartSeconds": 0.06,
+          "speechEndSeconds": 3.06,
+          "samplePeakDBFS": -7.95,
+          "loudnessLUFS": -26.08,
+          "truePeakDBTP": -7.93,
+          "sha256": "a54be197516454e4ea21ce17d7fdfc960bead4952e079ca4ed42e789b389656a",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "ST02",
+      "shot": "ST02",
+      "text": "In thick food, the waves mostly heat the outer layers. When they stop, the outside is hot — the middle is still catching up.",
+      "approvedTake": "st02-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "st02-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 7.982,
+          "speechStartSeconds": 0.04,
+          "speechEndSeconds": 7.56,
+          "samplePeakDBFS": -3.88,
+          "loudnessLUFS": -25.44,
+          "truePeakDBTP": -3.79,
+          "sha256": "291dd99b902d279f434d287d388a3766bf59bf4855a98f445cdb285b43d936b0",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 2.3
+    },
+    {
+      "id": "ST03",
+      "shot": "ST03",
+      "text": "That heat keeps flowing inward, from the hot outside to the cooler center — no microwaves needed.",
+      "approvedTake": "st03-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "st03-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 5.973,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 5.54,
+          "samplePeakDBFS": -6.97,
+          "loudnessLUFS": -25.33,
+          "truePeakDBTP": -6.94,
+          "sha256": "0086a373f55796047d99c0d7837d54cf8e86ec92ad168d304a719e8f78637463",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.4
+    },
+    {
+      "id": "ST04",
+      "shot": "ST04",
+      "text": "That's standing time. Food keeps cooking after the oven stops — its temperature can climb several more degrees.",
+      "approvedTake": "st04-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "st04-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 6.922,
+          "speechStartSeconds": 0.07,
+          "speechEndSeconds": 6.5,
+          "samplePeakDBFS": -6.24,
+          "loudnessLUFS": -25.46,
+          "truePeakDBTP": -6.22,
+          "sha256": "1047fcf507225695818b8dfd94be7f6c5fb2c59093471ae6c3bd318a8e1c536d",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 4.7
+    },
+    {
+      "id": "ST05",
+      "shot": "ST05",
+      "text": "It's not extra heating. It's the same heat, spreading out.",
+      "approvedTake": "st05-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "st05-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 3.989,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 3.56,
+          "samplePeakDBFS": -6.73,
+          "loudnessLUFS": -25.43,
+          "truePeakDBTP": -6.51,
+          "sha256": "1d3e193297f4384dbc09519b22342372313ecd972f9fa830b9a0c6cd9433d87f",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.0
+    },
+    {
+      "id": "ST06",
+      "shot": "ST06",
+      "text": "Food-safety guides say let it stand at least three minutes — then check it with a food thermometer.",
+      "approvedTake": "st06-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "st06-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 5.505,
+          "speechStartSeconds": 0.09,
+          "speechEndSeconds": 5.08,
+          "samplePeakDBFS": -7.83,
+          "loudnessLUFS": -25.7,
+          "truePeakDBTP": -7.77,
+          "sha256": "84d14c46b5222953e7cbe667c05c580a1445b2a72daf33fadfd43c1768abef94",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "ST07",
+      "shot": "ST07",
+      "text": "The beep means the waves are done. Standing time lets the heat finish the job.",
+      "approvedTake": "st07-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "st07-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 4.8,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 4.38,
+          "samplePeakDBFS": -9.2,
+          "loudnessLUFS": -25.41,
+          "truePeakDBTP": -9.13,
+          "sha256": "c482105ec060390610842b0f49898075ecddba63d8ee54b84b577121d28520b8",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    }
+  ]
+}

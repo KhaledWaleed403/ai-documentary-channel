@@ -1,0 +1,170 @@
+{
+  "fps": 30,
+  "source": "scripts/audio/build-ep001-captions.py (aligned to narration takes)",
+  "video": "SuperheatedWater v2",
+  "cues": [
+    {
+      "start": 14,
+      "end": 68,
+      "text": "Water can get hotter than boiling —",
+      "lines": [
+        "Water can get hotter",
+        "than boiling —"
+      ]
+    },
+    {
+      "start": 68,
+      "end": 107,
+      "text": "and still not boil.",
+      "lines": [
+        "and still not boil."
+      ]
+    },
+    {
+      "start": 116,
+      "end": 182,
+      "text": "Boiling needs somewhere to start.",
+      "lines": [
+        "Boiling needs",
+        "somewhere to start."
+      ]
+    },
+    {
+      "start": 182,
+      "end": 214,
+      "text": "Bubbles usually form",
+      "lines": [
+        "Bubbles usually form"
+      ]
+    },
+    {
+      "start": 214,
+      "end": 284,
+      "text": "around tiny impurities in the water.",
+      "lines": [
+        "around tiny impurities",
+        "in the water."
+      ]
+    },
+    {
+      "start": 292,
+      "end": 372,
+      "text": "Heat plain water by itself in a very clean cup,",
+      "lines": [
+        "Heat plain water by itself",
+        "in a very clean cup,"
+      ]
+    },
+    {
+      "start": 372,
+      "end": 424,
+      "text": "and it can climb past boiling",
+      "lines": [
+        "and it can climb past boiling"
+      ]
+    },
+    {
+      "start": 424,
+      "end": 488,
+      "text": "while looking completely calm.",
+      "lines": [
+        "while looking completely calm."
+      ]
+    },
+    {
+      "start": 498,
+      "end": 539,
+      "text": "Then a small disturbance —",
+      "lines": [
+        "Then a small disturbance —"
+      ]
+    },
+    {
+      "start": 539,
+      "end": 578,
+      "text": "picking up the cup,",
+      "lines": [
+        "picking up the cup,"
+      ]
+    },
+    {
+      "start": 578,
+      "end": 629,
+      "text": "adding a spoonful of coffee —",
+      "lines": [
+        "adding a spoonful of coffee —"
+      ]
+    },
+    {
+      "start": 629,
+      "end": 698,
+      "text": "and bubbles burst out all at once.",
+      "lines": [
+        "and bubbles burst",
+        "out all at once."
+      ]
+    },
+    {
+      "start": 698,
+      "end": 763,
+      "text": "Boiling water can erupt from the cup.",
+      "lines": [
+        "Boiling water can erupt",
+        "from the cup."
+      ]
+    },
+    {
+      "start": 774,
+      "end": 811,
+      "text": "So don't heat water longer",
+      "lines": [
+        "So don't heat water longer"
+      ]
+    },
+    {
+      "start": 811,
+      "end": 875,
+      "text": "than the instructions recommend.",
+      "lines": [
+        "than the instructions",
+        "recommend."
+      ]
+    },
+    {
+      "start": 875,
+      "end": 942,
+      "text": "And adding instant coffee or sugar",
+      "lines": [
+        "And adding instant",
+        "coffee or sugar"
+      ]
+    },
+    {
+      "start": 942,
+      "end": 1030,
+      "text": "before heating greatly reduces the risk.",
+      "lines": [
+        "before heating greatly",
+        "reduces the risk."
+      ]
+    },
+    {
+      "start": 1040,
+      "end": 1122,
+      "text": "Calm doesn't always mean below boiling.",
+      "lines": [
+        "Calm doesn't always",
+        "mean below boiling."
+      ]
+    },
+    {
+      "start": 1122,
+      "end": 1208,
+      "text": "That water may just be waiting for a reason to boil.",
+      "lines": [
+        "That water may just be waiting",
+        "for a reason to boil."
+      ]
+    }
+  ]
+}

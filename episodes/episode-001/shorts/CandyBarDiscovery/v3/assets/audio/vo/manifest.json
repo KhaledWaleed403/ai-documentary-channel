@@ -1,0 +1,202 @@
+{
+  "episode": "episode-001",
+  "short": "CandyBarDiscovery",
+  "version": "v3",
+  "script": "episodes/episode-001/shorts/CandyBarDiscovery/v3/script.md",
+  "engine": "kokoro-onnx",
+  "model": "Kokoro-82M v1.0",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lang": "en-us",
+  "sentencePause": 0.4,
+  "clausePause": 0.3,
+  "generator": "C:/Users/Khaled/.luminexplain-kokoro/scripts/kokoro_snippet.py",
+  "snippets": [
+    {
+      "id": "CB01",
+      "shot": "CB01",
+      "text": "A candy bar melted in an engineer's pocket — and whatever melted it was invisible.",
+      "approvedTake": "cb01-take01.wav",
+      "offsetFrames": 14,
+      "takes": [
+        {
+          "file": "cb01-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 5.376,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 4.94,
+          "samplePeakDBFS": -7.61,
+          "loudnessLUFS": -25.38,
+          "truePeakDBTP": -7.6,
+          "sha256": "53949ebb1008a709a13ed6281cb383d2f005cb084d25126ac1e80615fcdde88a",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "CB02",
+      "shot": "CB02",
+      "text": "It was the mid-nineteen-forties. Percy Spencer had been standing beside a magnetron — the tube that sends out radar's invisible waves.",
+      "approvedTake": "cb02-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "cb02-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 8.501,
+          "speechStartSeconds": 0.06,
+          "speechEndSeconds": 8.09,
+          "samplePeakDBFS": -7.86,
+          "loudnessLUFS": -25.47,
+          "truePeakDBTP": -7.66,
+          "sha256": "5862fba34a599ee9f69517de94ab213c27eb3b07bedd332a56e60bed0f6682ee",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "CB03",
+      "shot": "CB03",
+      "text": "Instead of shrugging it off, he tested food on purpose. Popcorn kernels by the magnetron popped. An egg exploded.",
+      "approvedTake": "cb03-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "cb03-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 7.732,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 7.3,
+          "samplePeakDBFS": -7.9,
+          "loudnessLUFS": -25.56,
+          "truePeakDBTP": -7.82,
+          "sha256": "e8756e81ebd42ac12b01a92d8a804b6e6d62443cf48dd94f4a308af04043779f",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "CB04",
+      "shot": "CB04",
+      "text": "Then the key step: he concentrated the waves in a small space. Food placed there heated fast.",
+      "approvedTake": "cb04-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "cb04-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Byte copy of the v1 take (text unchanged in v2). Not reviewed by ear yet.",
+          "durationSeconds": 5.971,
+          "speechStartSeconds": 0.06,
+          "speechEndSeconds": 5.55,
+          "samplePeakDBFS": -8.3,
+          "loudnessLUFS": -25.47,
+          "truePeakDBTP": -8.22,
+          "sha256": "14ccde1cba712f258fe7f754aead230dc176d6b35912d182dfd9f5ffd9176d8b",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "CB05",
+      "shot": "CB05",
+      "text": "In October, nineteen forty-five, Raytheon filed a patent for cooking with microwaves.",
+      "approvedTake": "cb05-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "cb05-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Byte copy of the v1 take (text unchanged in v2). Not reviewed by ear yet.",
+          "durationSeconds": 5.781,
+          "speechStartSeconds": 0.03,
+          "speechEndSeconds": 5.37,
+          "samplePeakDBFS": -7.82,
+          "loudnessLUFS": -26.31,
+          "truePeakDBTP": -7.8,
+          "sha256": "999c4b50d9bda67156d8cea70e838fc1fe301b81d7e527085195405c6a10d125",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "CB06",
+      "shot": "CB06",
+      "text": "Microwave ovens still work that way — a magnetron filling a metal box with waves. Every time you press Start, you're using the answer to the question a melted candy bar raised.",
+      "approvedTake": "cb06-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "cb06-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Byte copy of the v1 take (text unchanged in v2). Not reviewed by ear yet.",
+          "durationSeconds": 11.435,
+          "speechStartSeconds": 0.06,
+          "speechEndSeconds": 11.01,
+          "samplePeakDBFS": -6.91,
+          "loudnessLUFS": -25.69,
+          "truePeakDBTP": -6.81,
+          "sha256": "dcfe55e240bd6ab677410d1cff1982bfbedf036ba715e63b7940a09ce7f592fc",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.3
+    }
+  ]
+}

@@ -7,7 +7,7 @@ Status: **assets partly generated, not yet in Remotion.**
 - **To be recorded by the user:** Foley S1, S2, S7 and S8.
 - **Not recorded yet:** the voiceover.
 
-**In Remotion (2026-10-27):** music and the generated effects are wired in through `src/data/episode001Audio.ts` and `AudioCue`, behind the `soundDesign` prop. There is no ducking yet, because it waits for the VO. Recorded Foley cues A2, A3, A12, A13 and A14 are silent until the files arrive. Review render: `renders/episode-001/v0-draft/episode-001-review-draft-sound.mp4`, measuring −17.5 LUFS and −6.0 dBTP before the VO.
+**In Remotion (2026-10-27):** music and the generated effects are wired in through `src/data/episode001Audio.ts` and `AudioCue`, behind the `soundDesign` prop. There is no ducking yet, because it waits for the VO. Recorded Foley cues A2, A3, A12, A13 and A14 are silent until the files arrive. Review render: `renders/episode-001/Shorts/HowMicrowavesWork/v0-draft/episode-001-review-draft-sound.mp4`, measuring −17.5 LUFS and −6.0 dBTP before the VO.
 Timeline: 1230 frames, 41.0 s, 30 fps. Frames below are absolute; in code each cue is stored as *shot + offset* so it follows any retiming in `storyboard.json`.
 
 ## Principles

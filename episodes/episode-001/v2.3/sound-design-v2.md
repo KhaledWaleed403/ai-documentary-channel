@@ -2,19 +2,19 @@
 
 Status: **implemented and rendered (2026-10-28).** Nobody has listened to it yet: it was checked only by measurement.
 
-- **Review file:** `renders/episode-001/v2/episode-001-sound-design-v2-master.mp4`. The raw Remotion render, before mastering, is `renders/episode-001/v2/episode-001-sound-design-v2.mp4`.
-- **Compare with:** `renders/episode-001/v1/episode-001-kokoro-no-music-v2-master.mp4`, the V1 effects master, which is unchanged.
+- **Review file:** `renders/episode-001/Shorts/HowMicrowavesWork/v2/episode-001-sound-design-v2-master.mp4`. The raw Remotion render, before mastering, is `renders/episode-001/Shorts/HowMicrowavesWork/v2/episode-001-sound-design-v2.mp4`.
+- **Compare with:** `renders/episode-001/Shorts/HowMicrowavesWork/v1/episode-001-kokoro-no-music-v2-master.mp4`, the V1 effects master, which is unchanged.
 - **Cue config:** `src/data/episode001AudioV2.ts`. V1 stays in `src/data/episode001Audio.ts`.
 - **Generator:** `scripts/audio/generate-ep001-sfx-v2.mjs`. It writes only `*-v2.wav` files.
 - **Switch:** the `sfx: "v1" | "v2"` prop on `Episode001`. The default is `"v1"`, so existing renders are unchanged. A separate composition, `Episode001SoundV2`, has the V2 review props preset: narration on, draft off, music off, `sfx: "v2"`.
 
 ## Revision 2.3 (2026-10-28) — current
 - **Finale:** the wave statement that opened the finale (38.07 s) is gone. The finale is now only the warm chord: `sfx/heat-finale-v2.wav`, from frame 1152 (38.4 s), as the view settles on the bowl. It's ducked under the last line and fades out by the last frame. The effects track is silent from 37.9 to 38.4 s.
-- **Episode folder:** everything for Episode 001 moved into `episodes/episode-001/v2.3/`, matching `renders/episode-001/v2.3/`. The `src/` imports and both generators point there.
+- **Episode folder:** everything for Episode 001 moved into `episodes/episode-001/v2.3/`, matching `renders/episode-001/Shorts/HowMicrowavesWork/v2.3/`. The `src/` imports and both generators point there.
 
 | File | Integrated | True peak | LRA |
 | --- | --- | --- | --- |
-| `renders/episode-001/v2.3/episode-001-sound-design-v2.3-master.mp4` | −14.26 LUFS | −1.61 dBTP | 2.6 LU |
+| `renders/episode-001/Shorts/HowMicrowavesWork/v2.3/episode-001-sound-design-v2.3-master.mp4` | −14.26 LUFS | −1.61 dBTP | 2.6 LU |
 
 The video is 1080×1920 at 30 fps, 1230 frames, with no clipped samples.
 
@@ -23,11 +23,11 @@ Same as 2.1, with the finale restored. `heat-reprise-v2.wav` plays from frame 11
 
 | File | Integrated | True peak | LRA |
 | --- | --- | --- | --- |
-| `renders/episode-001/v2.2/episode-001-sound-design-v2.2-master.mp4` | −14.28 LUFS | −1.61 dBTP | 2.6 LU |
+| `renders/episode-001/Shorts/HowMicrowavesWork/v2.2/episode-001-sound-design-v2.2-master.mp4` | −14.28 LUFS | −1.61 dBTP | 2.6 LU |
 
 The video is 1080×1920 at 30 fps, 1230 frames, with no clipped samples.
 
-Renders are grouped by version under `renders/episode-001/`:
+Renders are grouped by version under `renders/episode-001/Shorts/HowMicrowavesWork/`:
 - `v0-draft/`
 - `v1/` (Kokoro narration with the V1 effects)
 - `v2/`
@@ -53,7 +53,7 @@ The removed files stay on disk and in the generator but aren't referenced by the
 
 | File | Integrated | True peak | LRA |
 | --- | --- | --- | --- |
-| `renders/episode-001/v2.1/episode-001-sound-design-v2.1-master.mp4` | −14.31 LUFS | −1.61 dBTP | 2.6 LU |
+| `renders/episode-001/Shorts/HowMicrowavesWork/v2.1/episode-001-sound-design-v2.1-master.mp4` | −14.31 LUFS | −1.61 dBTP | 2.6 LU |
 
 The video is 1080×1920 at 30 fps, 1230 frames. Under speech, the remaining cues sit 7.5–15.7 dB below the voice.
 

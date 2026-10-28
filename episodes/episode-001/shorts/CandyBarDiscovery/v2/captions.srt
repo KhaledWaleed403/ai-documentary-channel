@@ -1,0 +1,43 @@
+1
+00:00:00,533 --> 00:00:05,600
+A candy bar melted in an engineer's pocket — and whatever melted it was invisible.
+
+2
+00:00:05,933 --> 00:00:07,915
+It was the mid-nineteen-forties.
+
+3
+00:00:08,015 --> 00:00:14,167
+Percy Spencer had been standing beside a magnetron — the tube that sends out radar's invisible waves.
+
+4
+00:00:14,567 --> 00:00:18,017
+Instead of shrugging it off, he tested food on purpose.
+
+5
+00:00:18,117 --> 00:00:20,526
+Popcorn kernels by the magnetron popped.
+
+6
+00:00:20,626 --> 00:00:22,000
+An egg exploded.
+
+7
+00:00:22,533 --> 00:00:26,103
+Then the key step: he concentrated the waves in a small space.
+
+8
+00:00:26,203 --> 00:00:28,200
+Food placed there heated fast.
+
+9
+00:00:28,633 --> 00:00:34,167
+In October, nineteen forty-five, Raytheon filed a patent for cooking with microwaves.
+
+10
+00:00:34,700 --> 00:00:39,734
+Microwave ovens still work that way — a magnetron filling a metal box with waves.
+
+11
+00:00:39,834 --> 00:00:45,833
+Every time you press Start, you're using the answer to the question a melted candy bar raised.

@@ -1,0 +1,186 @@
+{
+  "fps": 30,
+  "source": "scripts/audio/build-ep001-captions.py (aligned to narration takes)",
+  "video": "StandingTime v2",
+  "cues": [
+    {
+      "start": 30,
+      "end": 74,
+      "text": "The microwave beeps.",
+      "lines": [
+        "The microwave beeps."
+      ]
+    },
+    {
+      "start": 74,
+      "end": 137,
+      "text": "It's done — but your food isn't.",
+      "lines": [
+        "It's done — but",
+        "your food isn't."
+      ]
+    },
+    {
+      "start": 137,
+      "end": 169,
+      "text": "In thick food,",
+      "lines": [
+        "In thick food,"
+      ]
+    },
+    {
+      "start": 169,
+      "end": 246,
+      "text": "the waves mostly heat the outer layers.",
+      "lines": [
+        "the waves mostly heat",
+        "the outer layers."
+      ]
+    },
+    {
+      "start": 246,
+      "end": 277,
+      "text": "When they stop,",
+      "lines": [
+        "When they stop,"
+      ]
+    },
+    {
+      "start": 277,
+      "end": 320,
+      "text": "the outside is hot —",
+      "lines": [
+        "the outside is hot —"
+      ]
+    },
+    {
+      "start": 320,
+      "end": 380,
+      "text": "the middle is still catching up.",
+      "lines": [
+        "the middle is still",
+        "catching up."
+      ]
+    },
+    {
+      "start": 380,
+      "end": 439,
+      "text": "That heat keeps flowing inward,",
+      "lines": [
+        "That heat keeps",
+        "flowing inward,"
+      ]
+    },
+    {
+      "start": 439,
+      "end": 506,
+      "text": "from the hot outside to the cooler center —",
+      "lines": [
+        "from the hot outside",
+        "to the cooler center —"
+      ]
+    },
+    {
+      "start": 506,
+      "end": 563,
+      "text": "no microwaves needed.",
+      "lines": [
+        "no microwaves needed."
+      ]
+    },
+    {
+      "start": 563,
+      "end": 609,
+      "text": "That's standing time.",
+      "lines": [
+        "That's standing time."
+      ]
+    },
+    {
+      "start": 609,
+      "end": 682,
+      "text": "Food keeps cooking after the oven stops —",
+      "lines": [
+        "Food keeps cooking",
+        "after the oven stops —"
+      ]
+    },
+    {
+      "start": 682,
+      "end": 766,
+      "text": "its temperature can climb several more degrees.",
+      "lines": [
+        "its temperature can climb",
+        "several more degrees."
+      ]
+    },
+    {
+      "start": 776,
+      "end": 824,
+      "text": "It's not extra heating.",
+      "lines": [
+        "It's not extra heating."
+      ]
+    },
+    {
+      "start": 824,
+      "end": 865,
+      "text": "It's the same heat,",
+      "lines": [
+        "It's the same heat,"
+      ]
+    },
+    {
+      "start": 865,
+      "end": 891,
+      "text": "spreading out.",
+      "lines": [
+        "spreading out."
+      ]
+    },
+    {
+      "start": 902,
+      "end": 952,
+      "text": "Food-safety guides say let it stand",
+      "lines": [
+        "Food-safety guides",
+        "say let it stand"
+      ]
+    },
+    {
+      "start": 952,
+      "end": 1000,
+      "text": "at least three minutes —",
+      "lines": [
+        "at least three minutes —"
+      ]
+    },
+    {
+      "start": 1000,
+      "end": 1061,
+      "text": "then check it with a food thermometer.",
+      "lines": [
+        "then check it",
+        "with a food thermometer."
+      ]
+    },
+    {
+      "start": 1070,
+      "end": 1130,
+      "text": "The beep means the waves are done.",
+      "lines": [
+        "The beep means",
+        "the waves are done."
+      ]
+    },
+    {
+      "start": 1130,
+      "end": 1210,
+      "text": "Standing time lets the heat finish the job.",
+      "lines": [
+        "Standing time lets",
+        "the heat finish the job."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "episode": "episode-001",
+  "short": "MicrowaveSafeDishes",
+  "version": "v1",
+  "script": "episodes/episode-001/shorts/MicrowaveSafeDishes/v1/script.md",
+  "engine": "kokoro-onnx",
+  "model": "Kokoro-82M v1.0",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lang": "en-us",
+  "sentencePause": 0.4,
+  "clausePause": 0.3,
+  "generator": "C:/Users/Khaled/.luminexplain-kokoro/scripts/kokoro_snippet.py",
+  "snippets": [
+    {
+      "id": "DS01",
+      "shot": "DS01",
+      "text": "If a microwave heats the food, why is the plate scorching?",
+      "approvedTake": "ds01-take01.wav",
+      "offsetFrames": 14,
+      "takes": [
+        {
+          "file": "ds01-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 3.766,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 3.34,
+          "samplePeakDBFS": -8.44,
+          "loudnessLUFS": -25.81,
+          "truePeakDBTP": -8.44,
+          "sha256": "075a05c313a73dbf54c733de6ea3337ef5bb3659cd163c25a693b4637ae057c6",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "DS02",
+      "shot": "DS02",
+      "text": "Sometimes it's the food: hot food heats whatever it touches, even a dish the waves pass through.",
+      "approvedTake": "ds02-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "ds02-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 6.163,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 5.75,
+          "samplePeakDBFS": -8.8,
+          "loudnessLUFS": -25.32,
+          "truePeakDBTP": -8.79,
+          "sha256": "b9d73816e259f2f97ebc41d6611902161c3edc7f9340af3c86588579d67b934f",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "DS03",
+      "shot": "DS03",
+      "text": "But sometimes the dish itself absorbs the energy. Most ceramics barely do — some get very hot on their own.",
+      "approvedTake": "ds03-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "ds03-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 6.881,
+          "speechStartSeconds": 0.07,
+          "speechEndSeconds": 6.46,
+          "samplePeakDBFS": -8.6,
+          "loudnessLUFS": -25.51,
+          "truePeakDBTP": -8.6,
+          "sha256": "334726756a41f4cf189fde46ae6067a4fd5bd7ca6524e2b36324aea4513aa6aa",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "DS04",
+      "shot": "DS04",
+      "text": "So ceramic, glass or plastic doesn't settle it. How the dish was made — and what for — does.",
+      "approvedTake": "ds04-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "ds04-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 5.671,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 5.24,
+          "samplePeakDBFS": -9.33,
+          "loudnessLUFS": -25.58,
+          "truePeakDBTP": -9.3,
+          "sha256": "b55425d956feab0e0fd4de942990808d97ded0ebca4892ba8658dbdd788ac58b",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.5
+    },
+    {
+      "id": "DS05",
+      "shot": "DS05",
+      "text": "That's what a microwave-safe label is for. On plastic, it means the container passed tests to FDA standards. Not melting isn't passing.",
+      "approvedTake": "ds05-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "ds05-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 9.502,
+          "speechStartSeconds": 0.05,
+          "speechEndSeconds": 9.08,
+          "samplePeakDBFS": -5.83,
+          "loudnessLUFS": -25.33,
+          "truePeakDBTP": -5.57,
+          "sha256": "08e447cb5c58d52daf787ba67715b032d57ea1e60adc8181448b3f796efca1a9",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 4.1
+    },
+    {
+      "id": "DS06",
+      "shot": "DS06",
+      "text": "No label? Heat the empty dish beside a cup of water for a minute. Dish hot? Keep it out. Dish cool? A good sign — not a guarantee.",
+      "approvedTake": "ds06-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "ds06-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 9.064,
+          "speechStartSeconds": 0.06,
+          "speechEndSeconds": 8.64,
+          "samplePeakDBFS": -6.64,
+          "loudnessLUFS": -24.99,
+          "truePeakDBTP": -6.64,
+          "sha256": "a227bb78f6ecdb010614bab377826151df73abeded6ea25194d9b6f2155d0fe2",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 5.1
+    },
+    {
+      "id": "DS07",
+      "shot": "DS07",
+      "text": "Check the label, follow the maker's instructions — and the food should be the hottest thing out.",
+      "approvedTake": "ds07-take01.wav",
+      "offsetFrames": 6,
+      "takes": [
+        {
+          "file": "ds07-take01.wav",
+          "engine": "kokoro-onnx",
+          "model": "Kokoro-82M v1.0",
+          "voice": "af_heart",
+          "speed": 1.0,
+          "lang": "en-us",
+          "sentencePause": 0.4,
+          "clausePause": 0.3,
+          "generatedAt": "2026-10-28",
+          "status": "approved",
+          "notes": "Batch v1 take; text read from this manifest, which matches storyboard.json. Not reviewed by ear yet.",
+          "durationSeconds": 5.519,
+          "speechStartSeconds": 0.03,
+          "speechEndSeconds": 5.09,
+          "samplePeakDBFS": -5.85,
+          "loudnessLUFS": -25.53,
+          "truePeakDBTP": -5.79,
+          "sha256": "c00c8cbdbc82da7567db2f3e3c6b492b12df6e5f146a10c1f4d814cb624f7f9d",
+          "format": "wav pcm_s16le 24 kHz mono"
+        }
+      ],
+      "gainDb": 4.3
+    }
+  ]
+}

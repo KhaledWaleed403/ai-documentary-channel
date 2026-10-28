@@ -3,8 +3,10 @@
 **Date:** 2026-10-28
 
 ## Files
-- **Deliverable (mastered):** `renders/episode-001/long-v1/episode-001-long-first-cut-master.mp4`
-- **Raw Remotion render:** `renders/episode-001/long-v1/episode-001-long-first-cut.mp4`
+Renders are kept one folder per version in `renders/episode-001/Long/`: `v1/` first cut, `v2/` cut 2, `v3/` cut 3 (with its `.srt`). All three use the same narration and assets in this folder (`long-v1`).
+
+- **Deliverable (mastered):** `renders/episode-001/Long/v1/episode-001-long-first-cut-master.mp4`
+- **Raw Remotion render:** `renders/episode-001/Long/v1/episode-001-long-first-cut.mp4`
 - **Composition:** `Episode001Long`. `Episode001LongDraft` is the same cut with the shot ID and timecode burned in.
 
 ## Export check
@@ -56,7 +58,7 @@ Both files were checked with `ffprobe`. The master also decoded fully with no er
 ---
 
 ## Cut 2: changes from review notes (2026-10-28)
-Files: `renders/episode-001/long-v1/episode-001-long-cut2.mp4` (raw) and `episode-001-long-cut2-master.mp4` (mastered). The first-cut files are kept for comparison. The narration and timing haven't changed (12,979 frames, 7:12.6).
+Files: `renders/episode-001/Long/v2/episode-001-long-cut2.mp4` (raw) and `episode-001-long-cut2-master.mp4` (mastered). The first-cut files are kept for comparison. The narration and timing haven't changed (12,979 frames, 7:12.6).
 
 | Note | Change |
 | --- | --- |
@@ -75,7 +77,7 @@ Files: `renders/episode-001/long-v1/episode-001-long-cut2.mp4` (raw) and `episod
 **Accuracy note:** removing the on-screen "slowed", scale and "analogy" labels means those cues now rely on the narration ("billions of times a second", "Here's a picture that helps … That's only a picture") and on the dashed analogy frame. The "simplified" and "animated demo · spacing varies by oven" labels in Scene 5 are kept, since they weren't flagged.
 
 ## Cut 3: changes from review notes (2026-10-28)
-Files: `renders/episode-001/long-v1/episode-001-long-cut3.mp4` (raw) and `episode-001-long-cut3-master.mp4` (mastered). The narration and timing haven't changed.
+Files: `renders/episode-001/Long/v3/episode-001-long-cut3.mp4` (raw) and `episode-001-long-cut3-master.mp4` (mastered). The narration and timing haven't changed.
 
 | Note | Change |
 | --- | --- |

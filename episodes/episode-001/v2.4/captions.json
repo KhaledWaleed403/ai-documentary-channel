@@ -1,0 +1,152 @@
+{
+  "fps": 30,
+  "source": "scripts/audio/build-ep001-captions.py (aligned to narration takes)",
+  "video": "HowMicrowavesWork v2.4",
+  "cues": [
+    {
+      "start": 0,
+      "end": 62,
+      "text": "Your microwave doesn't heat the air.",
+      "lines": [
+        "Your microwave",
+        "doesn't heat the air."
+      ]
+    },
+    {
+      "start": 62,
+      "end": 109,
+      "text": "So what's heating your food?",
+      "lines": [
+        "So what's heating your food?"
+      ]
+    },
+    {
+      "start": 126,
+      "end": 212,
+      "text": "This part turns electricity into microwaves —",
+      "lines": [
+        "This part turns electricity",
+        "into microwaves —"
+      ]
+    },
+    {
+      "start": 212,
+      "end": 261,
+      "text": "a kind of radio wave.",
+      "lines": [
+        "a kind of radio wave."
+      ]
+    },
+    {
+      "start": 261,
+      "end": 346,
+      "text": "They bounce around the metal box and into your food.",
+      "lines": [
+        "They bounce around the metal box",
+        "and into your food."
+      ]
+    },
+    {
+      "start": 381,
+      "end": 484,
+      "text": "Water molecules have positive and negative ends.",
+      "lines": [
+        "Water molecules have",
+        "positive and negative ends."
+      ]
+    },
+    {
+      "start": 484,
+      "end": 545,
+      "text": "The waves tug them back and forth,",
+      "lines": [
+        "The waves tug them",
+        "back and forth,"
+      ]
+    },
+    {
+      "start": 545,
+      "end": 597,
+      "text": "billions of times a second.",
+      "lines": [
+        "billions of times a second."
+      ]
+    },
+    {
+      "start": 621,
+      "end": 667,
+      "text": "All that tugging and bumping",
+      "lines": [
+        "All that tugging and bumping"
+      ]
+    },
+    {
+      "start": 667,
+      "end": 740,
+      "text": "turns the waves' energy into heat.",
+      "lines": [
+        "turns the waves'",
+        "energy into heat."
+      ]
+    },
+    {
+      "start": 740,
+      "end": 774,
+      "text": "The waves reach partway in —",
+      "lines": [
+        "The waves reach partway in —"
+      ]
+    },
+    {
+      "start": 774,
+      "end": 842,
+      "text": "heat spreads the rest of the way.",
+      "lines": [
+        "heat spreads",
+        "the rest of the way."
+      ]
+    },
+    {
+      "start": 890,
+      "end": 951,
+      "text": "Some spots get stronger waves,",
+      "lines": [
+        "Some spots get stronger waves,"
+      ]
+    },
+    {
+      "start": 951,
+      "end": 1019,
+      "text": "so the turntable keeps food moving.",
+      "lines": [
+        "so the turntable",
+        "keeps food moving."
+      ]
+    },
+    {
+      "start": 1019,
+      "end": 1068,
+      "text": "Still — give it a stir.",
+      "lines": [
+        "Still — give it a stir."
+      ]
+    },
+    {
+      "start": 1086,
+      "end": 1148,
+      "text": "Waves in, hot food out —",
+      "lines": [
+        "Waves in, hot food out —"
+      ]
+    },
+    {
+      "start": 1148,
+      "end": 1220,
+      "text": "and nothing radioactive left behind.",
+      "lines": [
+        "and nothing radioactive",
+        "left behind."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "short": "SuperheatedWater",
+  "episode": "001",
+  "version": "v1",
+  "title": "Water Hotter Than Boiling That Won't Boil",
+  "format": "short",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "script": "episodes/episode-001/shorts/SuperheatedWater/v1/script.md",
+  "claimsFile": "research/episode-001/shorts/claims.md",
+  "music": "none (not approved)",
+  "timingBasis": "Built by scripts/audio/build-ep001-shorts.py from the measured narration takes: each shot = offsetFrames + approved take's speech end + tailFrames. Beat frames are estimated from the word's position in the take (punctuation pauses weighted).",
+  "shots": [
+    {
+      "id": "SW01",
+      "name": "Hotter than boiling",
+      "narration": "Water can get hotter than boiling — and still not boil.",
+      "offsetFrames": 14,
+      "tailFrames": 10,
+      "claims": [
+        "L36",
+        "X14"
+      ],
+      "visual": "A tall, plain glass cup of perfectly still water, centred. A thermometer beside it climbs past a gold '100 °C' line. The surface doesn't move; no bubbles. Small label 'no bubbles'.",
+      "onScreenText": [
+        "100 °C",
+        "no bubbles"
+      ],
+      "beats": [
+        {
+          "id": "cup",
+          "at": "start",
+          "delta": 4,
+          "frame": 4
+        },
+        {
+          "id": "rise",
+          "word": "hotter",
+          "delta": -6,
+          "frame": 28
+        },
+        {
+          "id": "still",
+          "word": "still",
+          "delta": -4,
+          "frame": 68
+        }
+      ],
+      "sound": [
+        {
+          "id": "cup set",
+          "file": "lf-mug-tap.wav",
+          "beat": "cup",
+          "delta": 8,
+          "volume": 0.3,
+          "frame": 12
+        }
+      ],
+      "startFrame": 0,
+      "endFrame": 109,
+      "start": 0.0,
+      "end": 3.63,
+      "speechStartFrame": 16,
+      "speechEndFrame": 99,
+      "take": "sw01-take01.wav",
+      "takeSeconds": 3.287,
+      "words": 11
+    },
+    {
+      "id": "SW02",
+      "name": "Boiling needs a start",
+      "narration": "Boiling needs somewhere to start. Bubbles usually form around tiny impurities in the water.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "X11"
+      ],
+      "visual": "Magnified inset of ordinary boiling water: a few tiny specks drift, and bubbles grow on each speck, detach and rise. Label 'bubbles start at tiny impurities'. Conceptual scale, no numbers.",
+      "onScreenText": [
+        "bubbles start at tiny impurities"
+      ],
+      "beats": [
+        {
+          "id": "zoom",
+          "at": "start",
+          "delta": 0,
+          "frame": 109
+        },
+        {
+          "id": "specks",
+          "word": "Bubbles",
+          "delta": -6,
+          "frame": 173
+        },
+        {
+          "id": "grow",
+          "word": "impurities",
+          "delta": -10,
+          "frame": 219
+        }
+      ],
+      "sound": [],
+      "startFrame": 109,
+      "endFrame": 287,
+      "start": 3.63,
+      "end": 9.57,
+      "speechStartFrame": 118,
+      "speechEndFrame": 275,
+      "take": "sw02-take01.wav",
+      "takeSeconds": 5.781,
+      "words": 14
+    },
+    {
+      "id": "SW03",
+      "name": "Clean cup, calm water",
+      "narration": "Heat plain water by itself in a very clean cup, and it can climb past boiling while looking completely calm.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "L36",
+        "X11"
+      ],
+      "visual": "The cup inside a schematic microwave (side cutaway), teal waves passing into the water. The inset's specks are gone: 'no place to start'. The thermometer climbs past 100 °C while the surface stays mirror-flat.",
+      "onScreenText": [
+        "plain water · clean cup",
+        "past 100 °C · calm"
+      ],
+      "beats": [
+        {
+          "id": "oven",
+          "at": "start",
+          "delta": 0,
+          "frame": 287
+        },
+        {
+          "id": "clean",
+          "word": "clean",
+          "delta": -4,
+          "frame": 349
+        },
+        {
+          "id": "past",
+          "word": "past",
+          "delta": -6,
+          "frame": 398
+        },
+        {
+          "id": "calm",
+          "word": "calm",
+          "delta": -6,
+          "frame": 457
+        }
+      ],
+      "sound": [
+        {
+          "id": "oven run",
+          "file": "lf-oven-hum-loop.wav",
+          "beat": "oven",
+          "volume": 0.13,
+          "untilShotEnd": true,
+          "extra": 4,
+          "loop": true,
+          "fadeIn": 16,
+          "fadeOut": 16,
+          "frame": 287,
+          "endFrame": 496
+        }
+      ],
+      "startFrame": 287,
+      "endFrame": 492,
+      "start": 9.57,
+      "end": 16.4,
+      "speechStartFrame": 295,
+      "speechEndFrame": 480,
+      "take": "sw03-take01.wav",
+      "takeSeconds": 6.656,
+      "words": 20
+    },
+    {
+      "id": "SW04",
+      "name": "The eruption",
+      "narration": "Then a small disturbance — picking up the cup, adding a spoonful of coffee — and bubbles burst out all at once. Boiling water can erupt from the cup.",
+      "offsetFrames": 6,
+      "tailFrames": 14,
+      "claims": [
+        "X12"
+      ],
+      "visual": "Out of the oven. A hand lifts the cup slightly, a spoon of coffee hovers — the surface trembles — then the water erupts upward in a burst of droplets, held as a freeze-frame. A warning chip: 'can scald'.",
+      "onScreenText": [
+        "can scald"
+      ],
+      "beats": [
+        {
+          "id": "lift",
+          "word": "picking",
+          "delta": -6,
+          "frame": 540
+        },
+        {
+          "id": "spoon",
+          "word": "spoonful",
+          "delta": -6,
+          "frame": 589
+        },
+        {
+          "id": "burst",
+          "word": "burst",
+          "delta": -4,
+          "frame": 646
+        },
+        {
+          "id": "warn",
+          "word": "erupt",
+          "delta": -6,
+          "frame": 712
+        }
+      ],
+      "sound": [
+        {
+          "id": "cup lift",
+          "file": "lf-mug-tap.wav",
+          "beat": "lift",
+          "volume": 0.26,
+          "frame": 540
+        },
+        {
+          "id": "eruption",
+          "file": "lf-water-burst.wav",
+          "beat": "burst",
+          "volume": 0.46,
+          "frame": 646
+        }
+      ],
+      "startFrame": 492,
+      "endFrame": 769,
+      "start": 16.4,
+      "end": 25.63,
+      "speechStartFrame": 500,
+      "speechEndFrame": 755,
+      "take": "sw04-take01.wav",
+      "takeSeconds": 9.008,
+      "words": 29
+    },
+    {
+      "id": "SW05",
+      "name": "How to avoid it",
+      "narration": "So don't heat water longer than the instructions recommend. And adding instant coffee or sugar before heating greatly reduces the risk.",
+      "offsetFrames": 6,
+      "tailFrames": 12,
+      "claims": [
+        "X13"
+      ],
+      "visual": "Two guide cards. '1 · don't overheat it / follow the recommended time' with a timer bar that stops at a 'stop here' mark. '2 · add coffee or sugar' then 'BEFORE heating' in gold, with a spoon tipping granules into a glass of cold water.",
+      "onScreenText": [
+        "1 · don't overheat it",
+        "follow the recommended time",
+        "stop here",
+        "2 · add coffee or sugar",
+        "BEFORE heating",
+        "cold water"
+      ],
+      "beats": [
+        {
+          "id": "card1",
+          "word": "heat",
+          "delta": -6,
+          "frame": 785
+        },
+        {
+          "id": "card2",
+          "word": "adding",
+          "delta": -4,
+          "frame": 890
+        },
+        {
+          "id": "before",
+          "word": "before",
+          "delta": -4,
+          "frame": 942
+        }
+      ],
+      "sound": [
+        {
+          "id": "card click 1",
+          "file": "lf-click.wav",
+          "beat": "card1",
+          "volume": 0.22,
+          "frame": 785
+        },
+        {
+          "id": "spoon stir",
+          "file": "lf-spoon-stir.wav",
+          "beat": "before",
+          "delta": 4,
+          "volume": 0.24,
+          "durationInFrames": 50,
+          "fadeOut": 16,
+          "frame": 946
+        }
+      ],
+      "startFrame": 769,
+      "endFrame": 1035,
+      "start": 25.63,
+      "end": 34.5,
+      "speechStartFrame": 776,
+      "speechEndFrame": 1023,
+      "take": "sw05-take01.wav",
+      "takeSeconds": 8.683,
+      "words": 21
+    },
+    {
+      "id": "SW06",
+      "name": "Calm isn't cool",
+      "narration": "Calm doesn't always mean below boiling. That water may just be waiting for a reason to boil.",
+      "offsetFrames": 6,
+      "tailFrames": 40,
+      "claims": [
+        "X14"
+      ],
+      "visual": "Back to the still cup, centred, with a slow push in. The thermometer sits above the 100 °C line. Text 'calm ≠ below boiling'. Ends on the motionless surface.",
+      "onScreenText": [
+        "calm ≠ below boiling"
+      ],
+      "beats": [
+        {
+          "id": "text",
+          "word": "calm",
+          "delta": -4,
+          "frame": 1038
+        },
+        {
+          "id": "waiting",
+          "word": "waiting",
+          "delta": -6,
+          "frame": 1141
+        }
+      ],
+      "sound": [],
+      "startFrame": 1035,
+      "endFrame": 1240,
+      "start": 34.5,
+      "end": 41.33,
+      "speechStartFrame": 1042,
+      "speechEndFrame": 1200,
+      "take": "sw06-take01.wav",
+      "takeSeconds": 5.717,
+      "words": 17
+    }
+  ],
+  "durationInFrames": 1240,
+  "draft": false
+}

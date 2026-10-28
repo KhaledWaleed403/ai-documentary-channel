@@ -1,0 +1,47 @@
+1
+00:00:01,067 --> 00:00:02,132
+The microwave beeps.
+
+2
+00:00:02,232 --> 00:00:04,267
+It's done — but your food isn't.
+
+3
+00:00:04,633 --> 00:00:07,834
+In thick food, the waves mostly heat the outer layers.
+
+4
+00:00:07,934 --> 00:00:12,367
+When they stop, the outside is hot — the middle is still catching up.
+
+5
+00:00:12,767 --> 00:00:18,433
+That heat keeps flowing inward, from the hot outside to the cooler center — no microwaves needed.
+
+6
+00:00:18,833 --> 00:00:20,146
+That's standing time.
+
+7
+00:00:20,246 --> 00:00:25,467
+Food keeps cooking after the oven stops — its temperature can climb several more degrees.
+
+8
+00:00:25,933 --> 00:00:25,833
+It's not extra heating.
+
+9
+00:00:25,933 --> 00:00:29,633
+It's the same heat, spreading out.
+
+10
+00:00:30,133 --> 00:00:35,300
+Food-safety guides say let it stand at least three minutes — then check it with a food thermometer.
+
+11
+00:00:35,767 --> 00:00:37,626
+The beep means the waves are done.
+
+12
+00:00:37,726 --> 00:00:40,267
+Standing time lets the heat finish the job.
