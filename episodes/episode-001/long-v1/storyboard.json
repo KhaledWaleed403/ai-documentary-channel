@@ -1,0 +1,2420 @@
+{
+  "episode": "001",
+  "version": "long-v1",
+  "title": "How Does a Microwave Actually Heat Food?",
+  "format": "long",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 12979,
+  "draft": true,
+  "script": "episodes/episode-001/long-v1/script.md (v2.1, approved 2026-10-28)",
+  "claimsFile": "research/episode-001/long-v1/claims.md",
+  "timingBasis": "Measured: each shot = offsetFrames lead-in + the approved take's speech end (assets/audio/vo/manifest.json) + the storyboard's visual tail. Retimed 2026-10-28 from the generated takes.",
+  "music": "none (not approved)",
+  "palette": {
+    "inkNavy": "#111827",
+    "warmIvory": "#F4F1E8",
+    "signalTeal": "#27B7C8",
+    "energyOrange": "#F28C45",
+    "mistBlue": "#DDEBF2",
+    "discoveryGold": "#F4C95D"
+  },
+  "colorRoles": {
+    "field": "signalTeal",
+    "heating": "energyOrange",
+    "hot": "discoveryGold",
+    "cold": "mistBlue",
+    "history": "warmIvory (paper layers only)"
+  },
+  "scenes": [
+    {
+      "n": 1,
+      "name": "The melted pocket",
+      "purpose": "Hook: the mystery, then the three questions the film answers.",
+      "startFrame": 0,
+      "endFrame": 1001,
+      "targetSeconds": 37,
+      "accuracy": [
+        "Magnetron drawn as a labelled schematic block with no invented internals.",
+        "Ripples from the magnetron are dashed and labelled conceptual: they mean 'invisible waves', not the real field shape or range.",
+        "The wrapper is plain, with no brand and no chocolate visible (D01).",
+        "The melting stays undramatic: a soft sag, no smoke or glow on the body. This avoids implying a dangerous beam or burning."
+      ]
+    },
+    {
+      "n": 2,
+      "name": "Popcorn, an egg and a box",
+      "purpose": "From accident to invention: curiosity, experiments, the decisive move, the patent's 'short waves' idea.",
+      "startFrame": 1001,
+      "endFrame": 2723,
+      "targetSeconds": 54,
+      "accuracy": [
+        "Concentrating the energy is shown as a generic shielded chamber, not a reconstruction of a specific apparatus (L07: the metal box rests on IEEE alone).",
+        "The egg explodes as a stylised freeze-frame with no bystander (L06; the colleague detail was cut).",
+        "The wavelength ruler is to scale: ~10 cm against a potato-sized outline, and the earlier long waves are clearly much longer (L09).",
+        "The 2,600/day counter is stated as wartime production output, not as microwave-oven numbers (L19)."
+      ]
+    },
+    {
+      "n": 3,
+      "name": "From restaurant giant to countertop",
+      "purpose": "The evolution through a few vivid comparisons: size, weight, restaurant against home.",
+      "startFrame": 2723,
+      "endFrame": 4193,
+      "targetSeconds": 50,
+      "accuracy": [
+        "No price shown for the Radarange and no price ratio (L16 cut; D04).",
+        "The cabinets are generic silhouettes, not copies of real Raytheon or Amana products.",
+        "The four-adults balance is a scale comparison (L12, derived, for 300–340 kg). The balance settles level 'about' even, not with an exact readout.",
+        "The adoption graphic shows only the verified late-1990s figure (L17). The 1986 figure is cut.",
+        "The shared outline ('the idea inside') is magnetron + metal box only (L40). No claim of identical design."
+      ]
+    },
+    {
+      "n": 4,
+      "name": "Press Start",
+      "purpose": "The hidden mechanism in one demonstration: analogy → honest physics → myths → where the heat goes.",
+      "startFrame": 4193,
+      "endFrame": 7561,
+      "targetSeconds": 114,
+      "accuracy": [
+        "Waves are shown as teal paths and a soft lattice inside a ghosted cavity. They're never drawn as particles or 'beams' hitting the food.",
+        "The field swing is slowed with an explicit indicator ('slowed ~2,500,000,000×'), so viewers know the real speed is far beyond the screen.",
+        "Molecules twist only part of the way, lag behind the field and stay out of sync. A propeller-spin version appears only crossed out (L23).",
+        "The dance-floor analogy lives in its own dashed, framed 'analogy' style and never shares a frame with physics shots. The narration says 'That's only a picture.'",
+        "Heat is colour and a thermometer only, never particles passing heat along between molecules.",
+        "No 'resonance' pulse, tuning-fork glow or 'water frequency' graphic. The tuning fork appears only to be stamped 'No' (L24).",
+        "The 'other molecules absorb' beat uses generic, unlabelled outlines. No fats or sugars are named (L43 cut).",
+        "The cross-section shows a thick, soft outer heating band with a later, slower warming of the centre: not inside-out, and not a thin surface skin. No depth number (L27, D05)."
+      ]
+    },
+    {
+      "n": 5,
+      "name": "The candy bar returns",
+      "purpose": "Why the food rotates, and why that can't make heating perfect. The candy-bar callback makes the hot spots visible.",
+      "startFrame": 7561,
+      "endFrame": 9486,
+      "targetSeconds": 68,
+      "accuracy": [
+        "The interference map is translucent and labelled 'simplified'. The real pattern is 3-D and shifts (L28).",
+        "Melt spacing is shown as '≈ 6 cm' (approximate; varies by oven) (L29).",
+        "The chocolate demo is animated and never presented as Spencer's pocket or as real footage.",
+        "The spoonful's ride shows warming *in steps*, and the final map is 'more even', never flat or uniform (L30).",
+        "The centre pin shows that the axis barely moves, with no claim about whether the centre is hot or cold (L31).",
+        "Some cooler spots remain until the stir. Stirring is shown as advice, not as perfect mixing."
+      ]
+    },
+    {
+      "n": 6,
+      "name": "Hot plate, cold bite",
+      "purpose": "Everyday surprises with useful payoffs: plate vs food, the dish test, frozen food, superheated water.",
+      "startFrame": 9486,
+      "endFrame": 11777,
+      "targetSeconds": 84,
+      "accuracy": [
+        "Heat arrows go from hot food into the plate and the cold centre, so the plate is shown warming from the food (L33).",
+        "In the dish test, waves pass through the safe dish. The unsafe dish glows *on its own* (L35 derived; captioned only as 'not microwave-safe', never naming a material).",
+        "Ice is a rigid lattice and thawed water is loose molecules. Runaway is shown as a loop arrow, and the frozen region stays frozen (L32, simplified).",
+        "Superheated water is labelled 'rare — but real'. The eruption is short and not gory, and isn't shown as the normal outcome (L36).",
+        "Standing time is shown as heat still spreading inward, not as molecules 'continuing to generate heat' (L38)."
+      ]
+    },
+    {
+      "n": 7,
+      "name": "Payoff",
+      "purpose": "Recombine everything into one image to remember, and close the candy-bar loop.",
+      "startFrame": 11777,
+      "endFrame": 12979,
+      "targetSeconds": 42,
+      "accuracy": [
+        "The X-ray layers reuse each scene's established proxies, so no new metaphor is introduced at the end.",
+        "The hot/cold map stays slightly uneven even while turning.",
+        "'Nothing … radioactive' plays as the layers fade, with no radiation symbols."
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1-01",
+      "scene": 1,
+      "name": "The pocket",
+      "startFrame": 0,
+      "endFrame": 294,
+      "speechStartFrame": 36,
+      "speechEndFrame": 288,
+      "start": 0.0,
+      "end": 9.8,
+      "background": "inkNavy",
+      "narration": "Sometime in the mid-nineteen-forties, an engineer named Percy Spencer reached into his pocket and found a mess. His candy bar had melted.",
+      "words": 22,
+      "speechSeconds": 8.41,
+      "take": "s1-01-take01.wav",
+      "takeSeconds": 8.833,
+      "offsetFrames": 36,
+      "camera": "Slow push-in (scale 1.0 → 1.12) on the pocket, over the whole shot.",
+      "visual": "Cold open from black (fade 0 → 1 over 0.8 s). Blueprint line art of a lab-coat pocket with a faint ivory paper grain. A hand lifts out a plain wrapped bar that sags softly, its ends drooping as it clears the pocket.",
+      "visualTimeline": [
+        {
+          "frame": 0,
+          "action": "Fade up from black on the pocket"
+        },
+        {
+          "frame": 96,
+          "action": "Hand enters frame"
+        },
+        {
+          "frame": 246,
+          "action": "The bar clears the pocket and sags on 'melted'"
+        }
+      ],
+      "onScreenText": [],
+      "components": [
+        "CameraFrame (new)"
+      ],
+      "transition": "Hard cut on the sag to the wider shot (match on the bar's position).",
+      "sound": [
+        {
+          "frame": 9,
+          "cue": "Soft cloth rustle as the hand moves in the pocket",
+          "source": "new",
+          "asset": "Foley, CC0: lab-coat fabric rustle",
+          "mix": "starts before speech, continues under it at −14 dB"
+        },
+        {
+          "frame": 249,
+          "cue": "Faint soft-wrapper crinkle as the bar sags",
+          "source": "new",
+          "asset": "Foley, CC0: soft candy-wrapper crinkle (no crisp foil)",
+          "mix": "on the visual sag, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "theme.ts palette",
+        "timing.ts easing"
+      ],
+      "assetsNew": [
+        "Pocket and hand line art",
+        "Plain wrapped candy bar with sag states"
+      ],
+      "claims": [
+        "L01",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "id": "S1-02",
+      "scene": 1,
+      "name": "Next to a magnetron",
+      "startFrame": 294,
+      "endFrame": 584,
+      "speechStartFrame": 300,
+      "speechEndFrame": 572,
+      "start": 9.8,
+      "end": 19.47,
+      "background": "inkNavy",
+      "narration": "That wouldn't be strange — except for where he'd been standing. Right next to a magnetron: the heart of a radar set, the part that makes invisible waves.",
+      "words": 28,
+      "speechSeconds": 9.05,
+      "take": "s1-02-take01.wav",
+      "takeSeconds": 9.469,
+      "offsetFrames": 6,
+      "camera": "Locked wide shot. A slow pull-back (scale 1.12 → 1.0) in the first 1.5 s reveals the bench.",
+      "visual": "The engineer's silhouette stands beside a bench-sized tube-and-magnet assembly drawn as a glowing schematic block labelled 'magnetron'. Dashed teal ripples spread outward from the block, fading with distance, and pass the silhouette's pocket.",
+      "visualTimeline": [
+        {
+          "frame": 294,
+          "action": "Pull back from the pocket to the silhouette"
+        },
+        {
+          "frame": 372,
+          "action": "The magnetron block glows on"
+        },
+        {
+          "frame": 402,
+          "action": "Dashed ripples begin, slow and continuous"
+        }
+      ],
+      "onScreenText": [
+        "magnetron"
+      ],
+      "components": [
+        "Callout",
+        "SignalPath (dashed variant)"
+      ],
+      "transition": "The ripples continue under the question icons (no cut).",
+      "sound": [
+        {
+          "frame": 372,
+          "cue": "Low electrical hum fades in with the glow (a radar-era tube, not an oven)",
+          "source": "new",
+          "asset": "Synth: low hum with audible 240–600 Hz harmonics (phone-safe), from the long-form generator",
+          "mix": "under narration, −15 dB, fades out by shot end"
+        },
+        {
+          "frame": 402,
+          "cue": "Wave motif: emit, soft, panning with the ripple",
+          "source": "reuse",
+          "asset": "sfx/wave-emit-v2.wav → long-v1 sfx/lf-wave-emit.wav",
+          "mix": "−14 dB under narration"
+        }
+      ],
+      "assetsReuse": [
+        "SignalPath",
+        "Callout"
+      ],
+      "assetsNew": [
+        "Engineer silhouette (no likeness)",
+        "Magnetron schematic block (bench-scale)"
+      ],
+      "claims": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "id": "S1-03",
+      "scene": 1,
+      "name": "Three questions + title",
+      "startFrame": 584,
+      "endFrame": 1001,
+      "speechStartFrame": 590,
+      "speechEndFrame": 923,
+      "start": 19.47,
+      "end": 33.37,
+      "background": "inkNavy",
+      "narration": "So how does a melted snack in a radar lab turn into the box on your kitchen counter? What actually happens when you press Start? And why does your food come out scalding in one spot and cold in the next?",
+      "words": 41,
+      "speechSeconds": 11.11,
+      "take": "s1-03-take01.wav",
+      "takeSeconds": 11.529,
+      "offsetFrames": 6,
+      "camera": "Locked. On the title, a gentle 2 % push-in.",
+      "visual": "Three small icons draw on in sequence, one per question: a radar dish → a kitchen microwave → a split plate (half orange, half mist blue). In the tail the icons fade and the title card rises. The teal ripple from S1-02 becomes the title's underline.",
+      "visualTimeline": [
+        {
+          "frame": 590,
+          "action": "Radar dish icon draws on"
+        },
+        {
+          "frame": 698,
+          "action": "Microwave icon draws on"
+        },
+        {
+          "frame": 788,
+          "action": "Split-plate icon draws on"
+        },
+        {
+          "frame": 929,
+          "action": "Icons fade; title rises with TextReveal"
+        },
+        {
+          "frame": 953,
+          "action": "Ripple settles into the underline"
+        }
+      ],
+      "onScreenText": [
+        "How does a microwave actually heat food?"
+      ],
+      "components": [
+        "TextReveal",
+        "SignalPath"
+      ],
+      "transition": "Title fades to navy; cut to the history line (S2-01).",
+      "sound": [
+        {
+          "frame": 953,
+          "cue": "Wave motif: a single soft emit as the ripple becomes the underline (the title signature)",
+          "source": "reuse",
+          "asset": "sfx/wave-emit-v2.wav (same copy as S1-02)",
+          "mix": "in the narration gap, −10 dB; tail faded by end"
+        }
+      ],
+      "assetsReuse": [
+        "TextReveal",
+        "SignalPath"
+      ],
+      "assetsNew": [
+        "Radar dish, microwave and split-plate icons",
+        "Title card layout (16:9)"
+      ],
+      "claims": []
+    },
+    {
+      "id": "S2-01",
+      "scene": 2,
+      "name": "Who Spencer was",
+      "startFrame": 1001,
+      "endFrame": 1473,
+      "speechStartFrame": 1007,
+      "speechEndFrame": 1461,
+      "start": 33.37,
+      "end": 49.1,
+      "background": "inkNavy",
+      "narration": "Spencer wasn't a typical scientist. He left school at about twelve, learned radio in the Navy, and taught himself most of the rest. During the war, his production methods helped Raytheon build radar magnetrons by the thousands every day.",
+      "words": 39,
+      "speechSeconds": 15.13,
+      "take": "s2-01-take01.wav",
+      "takeSeconds": 15.555,
+      "offsetFrames": 6,
+      "camera": "Slow lateral pan left → right along the timeline line.",
+      "visual": "A horizontal line with three vignettes that light in turn: a schoolhouse door ('about twelve'), a ship's radio key (Navy), a stack of books (self-taught). Then a conveyor of identical glowing magnetron blocks speeds up, with a counter ticking to '2,600 / day'.",
+      "visualTimeline": [
+        {
+          "frame": 1007,
+          "action": "Line draws on"
+        },
+        {
+          "frame": 1067,
+          "action": "Schoolhouse vignette"
+        },
+        {
+          "frame": 1127,
+          "action": "Radio-key vignette"
+        },
+        {
+          "frame": 1187,
+          "action": "Books vignette"
+        },
+        {
+          "frame": 1262,
+          "action": "Conveyor and counter (runs to the end)"
+        }
+      ],
+      "onScreenText": [
+        "2,600 magnetrons / day"
+      ],
+      "components": [
+        "StepDiagram (new)",
+        "Badge"
+      ],
+      "transition": "The conveyor stops; one magnetron block slides forward into the lab bench (S2-02).",
+      "sound": [
+        {
+          "frame": 1262,
+          "cue": "Soft mechanism ticks keeping time with the conveyor, accelerating, about 6 ticks",
+          "source": "new",
+          "asset": "Synth: mechanism clicks from the long-form generator",
+          "mix": "under narration, −15 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Badge",
+        "timing.ts"
+      ],
+      "assetsNew": [
+        "Three vignette icons",
+        "Conveyor of magnetron blocks",
+        "Counter"
+      ],
+      "claims": [
+        "L02",
+        "L19"
+      ]
+    },
+    {
+      "id": "S2-02",
+      "scene": 2,
+      "name": "He started testing",
+      "startFrame": 1473,
+      "endFrame": 1612,
+      "speechStartFrame": 1479,
+      "speechEndFrame": 1603,
+      "start": 49.1,
+      "end": 53.73,
+      "background": "inkNavy",
+      "narration": "So when his candy bar melted, he didn't just shrug. He started testing.",
+      "words": 13,
+      "speechSeconds": 4.12,
+      "take": "s2-02-take01.wav",
+      "takeSeconds": 4.553,
+      "offsetFrames": 6,
+      "camera": "Locked medium shot of the lab bench.",
+      "visual": "The bench: the magnetron block at left, the silhouette's hand placing a small dish at centre. The soft bar from Scene 1 sits on the bench edge as a continuity prop.",
+      "visualTimeline": [
+        {
+          "frame": 1485,
+          "action": "Hand sets down the dish"
+        }
+      ],
+      "onScreenText": [],
+      "components": [],
+      "transition": "Continuous: same bench in S2-03.",
+      "sound": [
+        {
+          "frame": 1491,
+          "cue": "Small ceramic dish set down on the bench",
+          "source": "new",
+          "asset": "Foley, CC0: small dish on a wooden bench",
+          "mix": "under narration, −14 dB"
+        }
+      ],
+      "assetsReuse": [],
+      "assetsNew": [
+        "Lab bench set"
+      ],
+      "claims": [
+        "L03"
+      ]
+    },
+    {
+      "id": "S2-03",
+      "scene": 2,
+      "name": "Popcorn",
+      "startFrame": 1612,
+      "endFrame": 1752,
+      "speechStartFrame": 1618,
+      "speechEndFrame": 1722,
+      "start": 53.73,
+      "end": 58.4,
+      "background": "inkNavy",
+      "narration": "He set some popcorn kernels near the magnetron. They popped.",
+      "words": 10,
+      "speechSeconds": 3.47,
+      "take": "s2-03-take01.wav",
+      "takeSeconds": 3.893,
+      "offsetFrames": 6,
+      "camera": "Locked, with a slight 3 % push-in on the kernels.",
+      "visual": "Kernels in the dish. Dashed teal ripples reach them, and after a beat they pop into white puffs, staggered, timed to land on and just after 'popped'.",
+      "visualTimeline": [
+        {
+          "frame": 1627,
+          "action": "Ripples reach the kernels"
+        },
+        {
+          "frame": 1713,
+          "action": "First pop"
+        },
+        {
+          "frame": 1725,
+          "action": "Staggered pops continue through the tail"
+        }
+      ],
+      "onScreenText": [],
+      "components": [
+        "SignalPath"
+      ],
+      "transition": "Cut on the last pop.",
+      "sound": [
+        {
+          "frame": 1713,
+          "cue": "Popcorn pops (4–6, staggered with the visual pops)",
+          "source": "new",
+          "asset": "Foley, CC0: individual popcorn pops (not a bag in a microwave)",
+          "mix": "first pop lands on 'popped', the rest follow after the line, −8 dB peak"
+        }
+      ],
+      "assetsReuse": [
+        "SignalPath"
+      ],
+      "assetsNew": [
+        "Kernel and popped-puff sprites"
+      ],
+      "claims": [
+        "L05"
+      ]
+    },
+    {
+      "id": "S2-04",
+      "scene": 2,
+      "name": "The egg",
+      "startFrame": 1752,
+      "endFrame": 1844,
+      "speechStartFrame": 1758,
+      "speechEndFrame": 1820,
+      "start": 58.4,
+      "end": 61.47,
+      "background": "inkNavy",
+      "narration": "He tried an egg. It exploded.",
+      "words": 6,
+      "speechSeconds": 2.07,
+      "take": "s2-04-take01.wav",
+      "takeSeconds": 2.527,
+      "offsetFrames": 6,
+      "camera": "Locked. On the burst, a 2-frame scale bump (1.0 → 1.02 → 1.0).",
+      "visual": "An egg wobbles in the dish (two small wobbles under 'He tried an egg'). On 'exploded' it bursts into a stylised cartoon splatter that freezes mid-air. Playful and bloodless, with no bystander.",
+      "visualTimeline": [
+        {
+          "frame": 1764,
+          "action": "First wobble"
+        },
+        {
+          "frame": 1782,
+          "action": "Second wobble"
+        },
+        {
+          "frame": 1814,
+          "action": "Burst, then freeze-frame"
+        }
+      ],
+      "onScreenText": [],
+      "components": [],
+      "transition": "The freeze-frame dissolves into the concentrating shot.",
+      "sound": [
+        {
+          "frame": 1814,
+          "cue": "A soft, muffled 'pop' with a short wet tail",
+          "source": "new",
+          "asset": "Foley, CC0: egg/wet burst, short; nothing gory",
+          "mix": "on the visual burst, −8 dB peak"
+        }
+      ],
+      "assetsReuse": [],
+      "assetsNew": [
+        "Egg with wobble and burst states"
+      ],
+      "claims": [
+        "L06"
+      ]
+    },
+    {
+      "id": "S2-05",
+      "scene": 2,
+      "name": "Concentrating the energy",
+      "startFrame": 1844,
+      "endFrame": 2145,
+      "speechStartFrame": 1850,
+      "speechEndFrame": 2115,
+      "start": 61.47,
+      "end": 71.5,
+      "background": "inkNavy",
+      "narration": "Then came the step that mattered most. Instead of letting the energy spread out, he concentrated it into a small space. Food placed there heated fast.",
+      "words": 26,
+      "speechSeconds": 8.83,
+      "take": "s2-05-take01.wav",
+      "takeSeconds": 9.252,
+      "offsetFrames": 6,
+      "camera": "Locked side-by-side composition: open space at left, chamber at right.",
+      "visual": "Left: ripples leave the magnetron into open space and fade with distance. Right: the same ripples are funnelled into a small chamber in cross-section (a generic enclosure), reflect off its walls and build into a brighter teal fill. A food shape inside turns orange on 'heated fast'.",
+      "visualTimeline": [
+        {
+          "frame": 1850,
+          "action": "Left: ripples spread and fade"
+        },
+        {
+          "frame": 1940,
+          "action": "Right: ripples funnel into the chamber"
+        },
+        {
+          "frame": 1976,
+          "action": "Reflections fill the chamber"
+        },
+        {
+          "frame": 2091,
+          "action": "Food shape warms orange"
+        }
+      ],
+      "onScreenText": [
+        "spread out",
+        "concentrated"
+      ],
+      "components": [
+        "SignalPath",
+        "Callout"
+      ],
+      "transition": "The chamber's outline flattens into the patent page's frame (S2-06).",
+      "sound": [
+        {
+          "frame": 1976,
+          "cue": "Wave motif: reflect pings, 3 rising, on the first three wall bounces",
+          "source": "reuse",
+          "asset": "sfx/wave-reflect-1/2/3-v2.wav → lf-wave-reflect-1/2/3.wav",
+          "mix": "under narration, −14 dB"
+        },
+        {
+          "frame": 2115,
+          "cue": "Energy → heat motif: short warm swell as the food turns orange",
+          "source": "reuse",
+          "asset": "sfx/heat-transition-v2.wav → lf-heat-swell-short.wav (trimmed copy)",
+          "mix": "in the gap, −10 dB"
+        }
+      ],
+      "assetsReuse": [
+        "SignalPath",
+        "Callout"
+      ],
+      "assetsNew": [
+        "Generic shielded chamber cross-section",
+        "Food shape"
+      ],
+      "claims": [
+        "L07"
+      ]
+    },
+    {
+      "id": "S2-06",
+      "scene": 2,
+      "name": "The patent and short waves",
+      "startFrame": 2145,
+      "endFrame": 2723,
+      "speechStartFrame": 2151,
+      "speechEndFrame": 2699,
+      "start": 71.5,
+      "end": 90.77,
+      "background": "inkNavy",
+      "narration": "In October, nineteen forty-five, Raytheon filed a patent for cooking food with microwaves. People had tried heating food with radio energy before, but with much longer waves. Spencer's idea was to go short — waves about ten centimeters long, close to the size of the food itself.",
+      "words": 47,
+      "speechSeconds": 18.28,
+      "take": "s2-06-take01.wav",
+      "takeSeconds": 18.767,
+      "offsetFrames": 6,
+      "camera": "Locked. The patent page slides in from the right; then a slow 1.0 → 1.06 push-in on the ruler.",
+      "visual": "An ivory patent page traced as line art from the public-domain figure of US 2,495,429, stamped 'Filed Oct. 8, 1945'. Below, a wavelength ruler: a long wave labelled 'earlier: much longer waves' spans the frame. Then a short ~10 cm wave lies beside a potato-sized outline.",
+      "visualTimeline": [
+        {
+          "frame": 2151,
+          "action": "Patent page slides in"
+        },
+        {
+          "frame": 2211,
+          "action": "Filing date stamps on"
+        },
+        {
+          "frame": 2316,
+          "action": "Long wave draws across the frame"
+        },
+        {
+          "frame": 2421,
+          "action": "Short ~10 cm wave and potato outline"
+        }
+      ],
+      "onScreenText": [
+        "Patent filed Oct. 8, 1945",
+        "earlier: much longer waves",
+        "~10 cm"
+      ],
+      "components": [
+        "SignalPath",
+        "Callout"
+      ],
+      "transition": "The patent page folds down into the side of the tall first oven (match on shape) → S3-01.",
+      "sound": [
+        {
+          "frame": 2151,
+          "cue": "Paper slide as the page enters",
+          "source": "new",
+          "asset": "Foley, CC0: single sheet of paper sliding on a desk",
+          "mix": "under narration, −14 dB"
+        },
+        {
+          "frame": 2211,
+          "cue": "Soft rubber-stamp thud on the date",
+          "source": "new",
+          "asset": "Foley, CC0: rubber stamp on paper (same file reused in S4-06)",
+          "mix": "under narration, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "SignalPath",
+        "Callout"
+      ],
+      "assetsNew": [
+        "Patent figure line art (trace from the public-domain US 2,495,429 drawing; source image still to be downloaded)",
+        "Wavelength ruler",
+        "Potato outline"
+      ],
+      "claims": [
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "id": "S3-01",
+      "scene": 3,
+      "name": "The Radarange",
+      "startFrame": 2723,
+      "endFrame": 2914,
+      "speechStartFrame": 2729,
+      "speechEndFrame": 2896,
+      "start": 90.77,
+      "end": 97.13,
+      "background": "inkNavy",
+      "narration": "A couple of years later, the first microwave oven went on sale. It was called the Radarange.",
+      "words": 17,
+      "speechSeconds": 5.58,
+      "take": "s3-01-take01.wav",
+      "takeSeconds": 5.995,
+      "offsetFrames": 6,
+      "camera": "Low-angle reveal: tilt up from the base of the cabinet to its top (the only tilt in the film).",
+      "visual": "The patent page folds into the side of a tall generic cabinet oven on a navy stage with a subtle floor line. A small ivory title card reads 'Radarange · c. 1947'.",
+      "visualTimeline": [
+        {
+          "frame": 2729,
+          "action": "Fold transition completes"
+        },
+        {
+          "frame": 2765,
+          "action": "Tilt up"
+        },
+        {
+          "frame": 2878,
+          "action": "Title card"
+        }
+      ],
+      "onScreenText": [
+        "Radarange · c. 1947"
+      ],
+      "components": [
+        "TextReveal",
+        "CameraFrame (new)"
+      ],
+      "transition": "The tilt ends locked on the line-up composition (S3-02).",
+      "sound": [
+        {
+          "frame": 2735,
+          "cue": "Heavy cabinet settling, a low wooden/metal thud with audible upper harmonics",
+          "source": "new",
+          "asset": "Foley, CC0: heavy appliance set down",
+          "mix": "under narration, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "TextReveal"
+      ],
+      "assetsNew": [
+        "Generic tall cabinet oven (1940s styling, no brand)"
+      ],
+      "claims": [
+        "L10"
+      ]
+    },
+    {
+      "id": "S3-02",
+      "scene": 3,
+      "name": "Six feet, four adults, water, restaurants",
+      "startFrame": 2914,
+      "endFrame": 3336,
+      "speechStartFrame": 2920,
+      "speechEndFrame": 3306,
+      "start": 97.13,
+      "end": 111.2,
+      "background": "inkNavy",
+      "narration": "It stood nearly six feet tall, and weighed about as much as four grown adults. Its magnetron needed water piped in to keep it cool. And it cost thousands of dollars — so it went to restaurants, not homes.",
+      "words": 39,
+      "speechSeconds": 12.86,
+      "take": "s3-02-take01.wav",
+      "takeSeconds": 13.271,
+      "offsetFrames": 6,
+      "camera": "Locked line-up composition (fixed for all of Scene 3).",
+      "visual": "A human silhouette stands beside the cabinet; a height bar draws to '≈ 1.8 m'. Four adult silhouettes step onto a balance opposite it, and it tips to about level. Thin teal pipes on the cabinet's side carry a flowing water texture. A restaurant awning fades in behind it, while a small house icon beside it stays dark.",
+      "visualTimeline": [
+        {
+          "frame": 2920,
+          "action": "Height bar"
+        },
+        {
+          "frame": 2992,
+          "action": "Four adults step on; balance levels"
+        },
+        {
+          "frame": 3076,
+          "action": "Water flow in the pipes"
+        },
+        {
+          "frame": 3160,
+          "action": "Awning on; house icon stays dark"
+        }
+      ],
+      "onScreenText": [
+        "≈ 1.8 m"
+      ],
+      "components": [
+        "Callout",
+        "Badge"
+      ],
+      "transition": "A calendar strip slides in at the top (S3-03).",
+      "sound": [
+        {
+          "frame": 3022,
+          "cue": "Balance beam settling: one dry mechanical click",
+          "source": "new",
+          "asset": "Synth: mechanism click",
+          "mix": "under narration, −14 dB"
+        },
+        {
+          "frame": 3076,
+          "cue": "A faint trickle of water in the pipes",
+          "source": "new",
+          "asset": "Foley, CC0: thin water flow in a pipe, very low",
+          "mix": "under narration, −18 dB, 2 s"
+        }
+      ],
+      "assetsReuse": [
+        "Callout",
+        "Badge"
+      ],
+      "assetsNew": [
+        "Human and adult silhouettes",
+        "Balance",
+        "Cooling pipes with flow texture",
+        "Restaurant awning",
+        "House icon"
+      ],
+      "claims": [
+        "L11",
+        "L12",
+        "L13",
+        "L10"
+      ]
+    },
+    {
+      "id": "S3-03",
+      "scene": 3,
+      "name": "1967: a countertop for home kitchens",
+      "startFrame": 3336,
+      "endFrame": 3796,
+      "speechStartFrame": 3342,
+      "speechEndFrame": 3760,
+      "start": 111.2,
+      "end": 126.53,
+      "background": "inkNavy",
+      "narration": "Twenty years later, in nineteen sixty-seven, a countertop model arrived for home kitchens. Four hundred and ninety-five dollars — still pricey, but no longer a restaurant machine. And small enough to sit next to a toaster.",
+      "words": 36,
+      "speechSeconds": 13.94,
+      "take": "s3-03-take01.wav",
+      "takeSeconds": 14.364,
+      "offsetFrames": 6,
+      "camera": "Locked line-up.",
+      "visual": "A calendar strip flicks forward to 1967 ('twenty years'). A countertop box drops in beside the giant at true relative scale (~40 cm vs ~180 cm), next to a toaster outline. Its tag swings in with '$495', and the house icon lights up warm. The giant has no price and there's no ratio.",
+      "visualTimeline": [
+        {
+          "frame": 3342,
+          "action": "Calendar flicks"
+        },
+        {
+          "frame": 3426,
+          "action": "Countertop box drops in"
+        },
+        {
+          "frame": 3474,
+          "action": "'$495' tag"
+        },
+        {
+          "frame": 3552,
+          "action": "House icon lights"
+        },
+        {
+          "frame": 3718,
+          "action": "Toaster outline draws beside it"
+        }
+      ],
+      "onScreenText": [
+        "1967 · $495"
+      ],
+      "components": [
+        "Badge"
+      ],
+      "transition": "The house icon duplicates into a row of ten (S3-04).",
+      "sound": [
+        {
+          "frame": 3342,
+          "cue": "Paper calendar flick (a few leaves)",
+          "source": "new",
+          "asset": "Foley, CC0: calendar pages flipping",
+          "mix": "under narration, −14 dB"
+        },
+        {
+          "frame": 3429,
+          "cue": "Light countertop set-down, smaller than the S3-01 thud",
+          "source": "new",
+          "asset": "Foley, CC0: small appliance on countertop",
+          "mix": "under narration, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Badge"
+      ],
+      "assetsNew": [
+        "1967 countertop oven (generic)",
+        "Toaster outline",
+        "Calendar strip",
+        "Price tag"
+      ],
+      "claims": [
+        "L41",
+        "L15"
+      ]
+    },
+    {
+      "id": "S3-04",
+      "scene": 3,
+      "name": "Nine in ten homes",
+      "startFrame": 3796,
+      "endFrame": 4015,
+      "speechStartFrame": 3802,
+      "speechEndFrame": 3991,
+      "start": 126.53,
+      "end": 133.83,
+      "background": "inkNavy",
+      "narration": "Even then, it took a while. But by the late nineties, about nine in ten American homes had one.",
+      "words": 19,
+      "speechSeconds": 6.3,
+      "take": "s3-04-take01.wav",
+      "takeSeconds": 6.731,
+      "offsetFrames": 6,
+      "camera": "Locked.",
+      "visual": "A row of ten house icons. Nine fill with warm light one after another under 'late 1990s', and one stays dark.",
+      "visualTimeline": [
+        {
+          "frame": 3838,
+          "action": "Houses light in sequence over about 2.5 s"
+        }
+      ],
+      "onScreenText": [
+        "US homes, late 1990s: ~9 in 10"
+      ],
+      "components": [
+        "Badge"
+      ],
+      "transition": "The houses fade; the line-up remains (S3-05).",
+      "sound": [],
+      "assetsReuse": [
+        "House icon (from S3-02)"
+      ],
+      "assetsNew": [],
+      "claims": [
+        "L17"
+      ]
+    },
+    {
+      "id": "S3-05",
+      "scene": 3,
+      "name": "The idea inside",
+      "startFrame": 4015,
+      "endFrame": 4193,
+      "speechStartFrame": 4021,
+      "speechEndFrame": 4163,
+      "start": 133.83,
+      "end": 139.77,
+      "background": "inkNavy",
+      "narration": "The machine shrank. The idea inside it stayed the same. So let's look inside.",
+      "words": 14,
+      "speechSeconds": 4.73,
+      "take": "s3-05-take01.wav",
+      "takeSeconds": 5.169,
+      "offsetFrames": 6,
+      "camera": "On 'let's look inside', push in through the modern oven's ghost outline (scale 1 → 3, ease-in-out) into Scene 4.",
+      "visual": "Every oven in the line-up fades to a ghost, leaving one shared outline: a metal box with one magnetron block. A modern countertop oven materialises in that outline.",
+      "visualTimeline": [
+        {
+          "frame": 4021,
+          "action": "Ovens ghost; shared outline remains"
+        },
+        {
+          "frame": 4099,
+          "action": "Modern oven materialises"
+        },
+        {
+          "frame": 4145,
+          "action": "Push-in begins"
+        }
+      ],
+      "onScreenText": [],
+      "components": [
+        "CameraFrame (new)",
+        "ComponentCutaway (new)"
+      ],
+      "transition": "The push-in passes through the door into the cutaway (S4-01).",
+      "sound": [],
+      "assetsReuse": [
+        "MicrowaveFront (src/scenes/episode001/shared.tsx) as reference; rebuilt for 16:9"
+      ],
+      "assetsNew": [
+        "Modern countertop oven (16:9 front and cutaway)"
+      ],
+      "claims": [
+        "L40"
+      ]
+    },
+    {
+      "id": "S4-01",
+      "scene": 4,
+      "name": "4a · Waves fill the box",
+      "startFrame": 4193,
+      "endFrame": 4610,
+      "speechStartFrame": 4199,
+      "speechEndFrame": 4580,
+      "start": 139.77,
+      "end": 153.67,
+      "background": "inkNavy",
+      "narration": "Press Start, and a magnetron — a descendant of Spencer's radar tube — turns electricity into microwaves. They're a kind of radio wave. The metal walls bounce them around until the whole box is full of them.",
+      "words": 37,
+      "speechSeconds": 12.71,
+      "take": "s4-01-take01.wav",
+      "takeSeconds": 13.131,
+      "offsetFrames": 6,
+      "camera": "Locked cutaway, slightly off-axis (3/4 side view).",
+      "visual": "Modern oven cutaway with a ghosted ivory outline. A finger presses Start and the magnetron block glows (a label only, no internals). Teal paths leave it through a short channel, reflect off the walls and multiply until the cavity holds a soft teal lattice. A cold (mist-blue) bowl of soup sits on the turntable.",
+      "visualTimeline": [
+        {
+          "frame": 4193,
+          "action": "The finger presses Start (in the lead-in)"
+        },
+        {
+          "frame": 4217,
+          "action": "Magnetron glows"
+        },
+        {
+          "frame": 4295,
+          "action": "First teal path leaves"
+        },
+        {
+          "frame": 4379,
+          "action": "Reflections multiply"
+        },
+        {
+          "frame": 4565,
+          "action": "Lattice fills the cavity"
+        }
+      ],
+      "onScreenText": [
+        "magnetron"
+      ],
+      "components": [
+        "ComponentCutaway (new)",
+        "SignalPath",
+        "Callout"
+      ],
+      "transition": "Freeze the lattice, then zoom to one wave segment (S4-02).",
+      "sound": [
+        {
+          "frame": 4193,
+          "cue": "Start button press, then the start beep",
+          "source": "reuse",
+          "asset": "sfx/s3-start-beep.wav → lf-start-beep.wav (unused in the Short; a keypad is visible here)",
+          "mix": "in the lead-in before speech, −10 dB"
+        },
+        {
+          "frame": 4199,
+          "cue": "Oven start-up (relay, hum, fan) into a continuous run",
+          "source": "reuse",
+          "asset": "sfx/oven-startup-run-v2.wav → lf-oven-run.wav",
+          "mix": "ducked to −16 dB under narration"
+        },
+        {
+          "frame": 4295,
+          "cue": "Wave motif: emit",
+          "source": "reuse",
+          "asset": "lf-wave-emit.wav",
+          "mix": "−14 dB"
+        },
+        {
+          "frame": 4379,
+          "cue": "Two reflect pings on visible bounces",
+          "source": "reuse",
+          "asset": "lf-wave-reflect-1/2.wav",
+          "mix": "−15 dB"
+        }
+      ],
+      "assetsReuse": [
+        "SignalPath",
+        "Callout",
+        "BowlFront / bowlSectionPath (shared.tsx) for the bowl",
+        "MicrowaveFront as reference"
+      ],
+      "assetsNew": [
+        "16:9 oven cutaway (cavity, channel, turntable)"
+      ],
+      "claims": [
+        "L40",
+        "L20",
+        "L26"
+      ]
+    },
+    {
+      "id": "S4-02",
+      "scene": 4,
+      "name": "4b · The swinging field",
+      "startFrame": 4610,
+      "endFrame": 5049,
+      "speechStartFrame": 4616,
+      "speechEndFrame": 5019,
+      "start": 153.67,
+      "end": 168.3,
+      "background": "inkNavy",
+      "narration": "A microwave is a ripple of electric and magnetic fields. The part that matters here is the electric field. It pushes on electric charges — and it swings back and forth about two and a half billion times every second.",
+      "words": 40,
+      "speechSeconds": 13.44,
+      "take": "s4-02-take01.wav",
+      "takeSeconds": 13.867,
+      "offsetFrames": 6,
+      "camera": "Zoom from the cavity into one wave segment (scale 1 → 4 over 1.2 s), then locked.",
+      "visual": "The wave freezes. A row of teal arrows (the electric field) swings one way and back at ~1 cycle/s. A faint perpendicular ghost marks the magnetic field, then dims away. A slow-motion badge reads 'slowed ~2,500,000,000×'.",
+      "visualTimeline": [
+        {
+          "frame": 4616,
+          "action": "Freeze and zoom"
+        },
+        {
+          "frame": 4694,
+          "action": "Magnetic-field ghost appears, then dims"
+        },
+        {
+          "frame": 4766,
+          "action": "Arrows begin swinging"
+        },
+        {
+          "frame": 4856,
+          "action": "Slow-motion badge"
+        }
+      ],
+      "onScreenText": [
+        "electric field",
+        "slowed ~2,500,000,000×"
+      ],
+      "components": [
+        "SignalPath",
+        "Badge",
+        "ScaleIndicator (new)"
+      ],
+      "transition": "Scale indicator ticks 'cm → nm' as we zoom to one molecule (S4-03).",
+      "sound": [
+        {
+          "frame": 4616,
+          "cue": "The oven run ducks to silence with the freeze (time stopped)",
+          "source": "reuse",
+          "asset": "lf-oven-run.wav, fade out over 0.4 s",
+          "mix": "silence under narration"
+        },
+        {
+          "frame": 4766,
+          "cue": "Slow wave-motif tone that pans gently left/right with the arrows' swing (no rhythm, no melody)",
+          "source": "new",
+          "asset": "Synth: sustained wave-motif variant with slow pan, long-form generator",
+          "mix": "−18 dB under narration"
+        }
+      ],
+      "assetsReuse": [
+        "fieldAt() swing timing from molecules.tsx as reference",
+        "Badge"
+      ],
+      "assetsNew": [
+        "Field-arrow row (16:9)"
+      ],
+      "claims": [
+        "L20",
+        "L21"
+      ]
+    },
+    {
+      "id": "S4-03",
+      "scene": 4,
+      "name": "4c · The lopsided molecule",
+      "startFrame": 5049,
+      "endFrame": 5537,
+      "speechStartFrame": 5055,
+      "speechEndFrame": 5519,
+      "start": 168.3,
+      "end": 184.57,
+      "background": "inkNavy",
+      "narration": "Most of the food we heat contains plenty of water. And a water molecule is lopsided. The oxygen end is slightly negative, the hydrogen side slightly positive. So every time the field flips, it shoves the molecule one way — then the other.",
+      "words": 43,
+      "speechSeconds": 15.47,
+      "take": "s4-03-take01.wav",
+      "takeSeconds": 15.908,
+      "offsetFrames": 6,
+      "camera": "Locked close-up, centred.",
+      "visual": "A scale indicator ticks 'cm → nm'. A single V-shaped water molecule, '−' on the oxygen and '+' on the hydrogens. The field arrows (the same row, now above it) flip, and the molecule twists part of the way toward them, then back. It lags each flip and never completes a turn.",
+      "visualTimeline": [
+        {
+          "frame": 5049,
+          "action": "Scale indicator cm → nm"
+        },
+        {
+          "frame": 5145,
+          "action": "Molecule draws on"
+        },
+        {
+          "frame": 5220,
+          "action": "± labels"
+        },
+        {
+          "frame": 5325,
+          "action": "Partial twists begin"
+        }
+      ],
+      "onScreenText": [
+        "−",
+        "+"
+      ],
+      "components": [
+        "ScaleIndicator (new)",
+        "Callout"
+      ],
+      "transition": "Hard cut into the framed analogy (S4-04).",
+      "sound": [],
+      "assetsReuse": [
+        "Water molecule drawing and MoleculeField (molecules.tsx), imported read-only"
+      ],
+      "assetsNew": [],
+      "claims": [
+        "L39",
+        "L22"
+      ]
+    },
+    {
+      "id": "S4-04",
+      "scene": 4,
+      "name": "4d · Analogy: the dance floor",
+      "startFrame": 5537,
+      "endFrame": 6073,
+      "speechStartFrame": 5543,
+      "speechEndFrame": 6043,
+      "start": 184.57,
+      "end": 202.43,
+      "background": "inkNavy",
+      "narration": "Here's a picture that helps. Imagine a packed dance floor, where the beat reverses billions of times a second. Everyone tries to turn with it. Nobody can — it's far too crowded. So they bump into their neighbors, who bump into theirs, until the whole floor is a jostling mess.",
+      "words": 50,
+      "speechSeconds": 16.67,
+      "take": "s4-04-take01.wav",
+      "takeSeconds": 17.08,
+      "offsetFrames": 6,
+      "camera": "Locked top-down view inside a rounded frame inset at 80 % of the screen.",
+      "visual": "ANALOGY FRAME: rounded dashed border, an 'analogy' tag, sketchy line style. A crowded floor of simple round figures. A teal beat-bar flashes left/right. The figures start to turn, collide and ricochet, and the jostling spreads outward until it's random. The floor's tint warms from mist blue to orange.",
+      "visualTimeline": [
+        {
+          "frame": 5543,
+          "action": "Frame and tag draw on"
+        },
+        {
+          "frame": 5633,
+          "action": "Beat-bar flashing"
+        },
+        {
+          "frame": 5738,
+          "action": "Figures attempt turns and collide"
+        },
+        {
+          "frame": 5828,
+          "action": "Jostling spreads; tint warms"
+        }
+      ],
+      "onScreenText": [
+        "analogy"
+      ],
+      "components": [
+        "Badge"
+      ],
+      "transition": "The frame shrinks away to a point, back to the molecule style (S4-05).",
+      "sound": [
+        {
+          "frame": 5738,
+          "cue": "Soft felt-like bumps as figures collide: sparse at first, then a dense, irregular patter (deliberately non-rhythmic, so it doesn't read as music)",
+          "source": "new",
+          "asset": "Synth: soft muted bumps, randomised timing",
+          "mix": "−18 dB under narration"
+        }
+      ],
+      "assetsReuse": [
+        "Badge"
+      ],
+      "assetsNew": [
+        "Analogy frame style",
+        "Crowd of round figures with collision motion"
+      ],
+      "claims": [
+        "L23"
+      ]
+    },
+    {
+      "id": "S4-05",
+      "scene": 4,
+      "name": "4e · The real thing",
+      "startFrame": 6073,
+      "endFrame": 6718,
+      "speechStartFrame": 6079,
+      "speechEndFrame": 6670,
+      "start": 202.43,
+      "end": 223.93,
+      "background": "inkNavy",
+      "narration": "That's only a picture. Real molecules don't spin like tiny propellers. They're jammed together, and they barely manage part of a turn before the field reverses. But the key idea holds. The field keeps shoving, and collisions scatter that shove into random jiggling. And random jiggling of molecules — that's what heat is.",
+      "words": 53,
+      "speechSeconds": 19.69,
+      "take": "s4-05-take01.wav",
+      "takeSeconds": 20.117,
+      "offsetFrames": 6,
+      "camera": "Locked close-up of the molecule cluster.",
+      "visual": "Back to the precise style. A dense cluster of water molecules, with hydrogen-bond links drawn faintly. On 'tiny propellers', a ghosted propeller-spin version appears and is crossed out with '✕'. Each real molecule twists a little, out of sync with its neighbours. The ordered back-and-forth dissolves into random jiggling; the cluster shifts from mist blue to orange while a thermometer rises. A small label reads 'dielectric heating'.",
+      "visualTimeline": [
+        {
+          "frame": 6079,
+          "action": "Cluster appears"
+        },
+        {
+          "frame": 6127,
+          "action": "Ghost propeller, crossed out"
+        },
+        {
+          "frame": 6229,
+          "action": "Partial, lagging twists"
+        },
+        {
+          "frame": 6409,
+          "action": "Jiggling becomes random"
+        },
+        {
+          "frame": 6610,
+          "action": "Colour warms; thermometer rises; label"
+        }
+      ],
+      "onScreenText": [
+        "✕",
+        "dielectric heating"
+      ],
+      "components": [
+        "Callout"
+      ],
+      "transition": "Cut to the myth card (S4-06).",
+      "sound": [
+        {
+          "frame": 6670,
+          "cue": "Energy → heat motif: warm swell as the cluster turns orange (wave motif bends down into a warm chord)",
+          "source": "reuse",
+          "asset": "sfx/heat-transition-v2.wav → lf-heat-swell.wav",
+          "mix": "in the gap, −10 dB"
+        }
+      ],
+      "assetsReuse": [
+        "MoleculeField (jitter 0 → 1), imported read-only",
+        "Thermometer (shared.tsx)"
+      ],
+      "assetsNew": [
+        "Ghost propeller animation"
+      ],
+      "claims": [
+        "L23"
+      ]
+    },
+    {
+      "id": "S4-06",
+      "scene": 4,
+      "name": "4f · Myth check",
+      "startFrame": 6718,
+      "endFrame": 7137,
+      "speechStartFrame": 6724,
+      "speechEndFrame": 7113,
+      "start": 223.93,
+      "end": 237.9,
+      "background": "inkNavy",
+      "narration": "A quick myth check. This isn't a magic frequency that water is tuned to. It's simply a frequency set aside for ovens. And water isn't the only thing soaking it up. Other molecules in food absorb some, too.",
+      "words": 38,
+      "speechSeconds": 12.96,
+      "take": "s4-06-take01.wav",
+      "takeSeconds": 13.385,
+      "offsetFrames": 6,
+      "camera": "Locked card layout.",
+      "visual": "Myth card: a tuning-fork icon labelled 'tuned to water?' is stamped NO. A radio-dial strip shows a small band marked 'ovens · 2.45 GHz' among other marked bands. Then a few other, unlabelled molecule outlines glow faintly beside the water molecule.",
+      "visualTimeline": [
+        {
+          "frame": 6724,
+          "action": "Myth card"
+        },
+        {
+          "frame": 6784,
+          "action": "NO stamp"
+        },
+        {
+          "frame": 6844,
+          "action": "Dial strip with the oven band"
+        },
+        {
+          "frame": 6949,
+          "action": "Other molecule outlines glow"
+        }
+      ],
+      "onScreenText": [
+        "tuned to water?",
+        "NO",
+        "ovens · 2.45 GHz"
+      ],
+      "components": [
+        "Badge"
+      ],
+      "transition": "Cut back to the bowl, now in cross-section (S4-07).",
+      "sound": [
+        {
+          "frame": 6784,
+          "cue": "Rubber-stamp thud on NO",
+          "source": "new",
+          "asset": "same Foley file as S2-06 stamp",
+          "mix": "under narration, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Badge"
+      ],
+      "assetsNew": [
+        "Tuning-fork icon",
+        "Radio-dial band strip",
+        "Generic molecule outlines"
+      ],
+      "claims": [
+        "L24",
+        "L25"
+      ]
+    },
+    {
+      "id": "S4-07",
+      "scene": 4,
+      "name": "4g · Not inside-out",
+      "startFrame": 7137,
+      "endFrame": 7561,
+      "speechStartFrame": 7143,
+      "speechEndFrame": 7525,
+      "start": 237.9,
+      "end": 252.03,
+      "background": "inkNavy",
+      "narration": "One more: microwaves don't cook from the inside out. In a thick bowl of soup, they fade out within the first few centimeters. The middle warms the old-fashioned way — heat spreading in from the hotter outer layers.",
+      "words": 38,
+      "speechSeconds": 12.75,
+      "take": "s4-07-take01.wav",
+      "takeSeconds": 13.167,
+      "offsetFrames": 6,
+      "camera": "Locked cross-section of the bowl.",
+      "visual": "Bowl in cross-section. Teal waves enter from several sides and fade gradually inside a thick outer band, which glows orange. Then, more slowly, orange creeps toward the mist-blue centre. 'Inside-out?' is stamped NO. No depth number is shown.",
+      "visualTimeline": [
+        {
+          "frame": 7143,
+          "action": "'Inside-out?' and NO stamp"
+        },
+        {
+          "frame": 7245,
+          "action": "Waves enter and fade in a thick band"
+        },
+        {
+          "frame": 7323,
+          "action": "Band warms orange"
+        },
+        {
+          "frame": 7450,
+          "action": "Heat creeps inward to the centre (continues into the tail)"
+        }
+      ],
+      "onScreenText": [
+        "Inside-out?",
+        "NO"
+      ],
+      "components": [
+        "SignalPath",
+        "Callout"
+      ],
+      "transition": "The cross-section tilts flat into a top-down view of the oven floor (S5-01).",
+      "sound": [
+        {
+          "frame": 7245,
+          "cue": "Wave motif: absorb (darkens into the food)",
+          "source": "reuse",
+          "asset": "sfx/wave-absorb-a-v2.wav → lf-wave-absorb.wav",
+          "mix": "−15 dB under narration"
+        },
+        {
+          "frame": 7525,
+          "cue": "Slow heat-spread swell as the centre warms",
+          "source": "reuse",
+          "asset": "sfx/heat-spread-v2.wav → lf-heat-spread.wav",
+          "mix": "in the gap, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "bowlSectionPath (shared.tsx)",
+        "Short's SH05 cross-section approach as reference"
+      ],
+      "assetsNew": [],
+      "claims": [
+        "L27"
+      ]
+    },
+    {
+      "id": "S5-01",
+      "scene": 5,
+      "name": "Which brings us to the turntable",
+      "startFrame": 7561,
+      "endFrame": 7633,
+      "speechStartFrame": 7567,
+      "speechEndFrame": 7615,
+      "start": 252.03,
+      "end": 254.43,
+      "background": "inkNavy",
+      "narration": "Which brings us to the turntable.",
+      "words": 6,
+      "speechSeconds": 1.59,
+      "take": "s5-01-take01.wav",
+      "takeSeconds": 2.011,
+      "offsetFrames": 6,
+      "camera": "Tilt from section to top-down (3-D flip over 1 s), then locked.",
+      "visual": "The oven floor seen from above, with the turntable at centre and the soup bowl lifted out of frame.",
+      "visualTimeline": [
+        {
+          "frame": 7561,
+          "action": "Tilt to top-down"
+        }
+      ],
+      "onScreenText": [],
+      "components": [
+        "CameraFrame (new)"
+      ],
+      "transition": "Continuous.",
+      "sound": [],
+      "assetsReuse": [
+        "Short's SH06 turntable drawing as reference"
+      ],
+      "assetsNew": [
+        "Top-down oven floor and turntable (16:9)"
+      ],
+      "claims": []
+    },
+    {
+      "id": "S5-02",
+      "scene": 5,
+      "name": "Strong and weak spots",
+      "startFrame": 7633,
+      "endFrame": 8049,
+      "speechStartFrame": 7639,
+      "speechEndFrame": 8013,
+      "start": 254.43,
+      "end": 268.3,
+      "background": "inkNavy",
+      "narration": "Remember the waves bouncing off the walls? Where they overlap, some spots add up and get stronger. Others cancel out and get weaker. The result is a pattern of hot and cold spots that mostly stays put.",
+      "words": 37,
+      "speechSeconds": 12.48,
+      "take": "s5-02-take01.wav",
+      "takeSeconds": 12.909,
+      "offsetFrames": 6,
+      "camera": "Locked top-down.",
+      "visual": "Two teal wave trains cross the floor. Where crests meet, the overlap brightens; where crest meets trough, it dims. A tiny inset shows the two waves adding and cancelling. The pattern builds into an irregular, translucent map of bright and dim patches labelled 'simplified'.",
+      "visualTimeline": [
+        {
+          "frame": 7639,
+          "action": "Two wave trains cross"
+        },
+        {
+          "frame": 7729,
+          "action": "Inset: add and cancel"
+        },
+        {
+          "frame": 7834,
+          "action": "Map builds"
+        },
+        {
+          "frame": 7983,
+          "action": "'simplified' tag"
+        }
+      ],
+      "onScreenText": [
+        "stronger",
+        "weaker",
+        "simplified"
+      ],
+      "components": [
+        "SignalPath",
+        "Callout",
+        "Badge"
+      ],
+      "transition": "Continuous: the map stays for the chocolate demo.",
+      "sound": [
+        {
+          "frame": 7729,
+          "cue": "Two wave-motif tones: in the 'add' inset they reinforce (brighter, louder); in the 'cancel' inset the tone dips away (sound mirrors the physics)",
+          "source": "new",
+          "asset": "Synth: wave-motif interference pair, long-form generator",
+          "mix": "−15 dB under narration"
+        }
+      ],
+      "assetsReuse": [
+        "SignalPath",
+        "Callout",
+        "Badge"
+      ],
+      "assetsNew": [
+        "Interference inset",
+        "Bright/dim map (irregular, translucent)"
+      ],
+      "claims": [
+        "L28"
+      ]
+    },
+    {
+      "id": "S5-03",
+      "scene": 5,
+      "name": "The candy bar returns: chocolate demo",
+      "startFrame": 8049,
+      "endFrame": 8485,
+      "speechStartFrame": 8055,
+      "speechEndFrame": 8425,
+      "start": 268.3,
+      "end": 282.83,
+      "background": "inkNavy",
+      "narration": "You can see it with — fittingly — a bar of chocolate. Take out the turntable, put in a plain chocolate bar, and heat it briefly. It doesn't melt evenly. It melts in patches, a few centimeters apart.",
+      "words": 38,
+      "speechSeconds": 12.35,
+      "take": "s5-03-take01.wav",
+      "takeSeconds": 12.781,
+      "offsetFrames": 6,
+      "camera": "Slow 1.0 → 1.08 push-in on the bar during the melt.",
+      "visual": "The turntable lifts out. A plain, unbranded chocolate bar slides onto the map. It melts in glossy patches over the bright spots and stays matte elsewhere. A ruler draws between two patches: '≈ 6 cm'. Hold on the melted bar for a beat, the visual rhyme with Scene 1's pocket.",
+      "visualTimeline": [
+        {
+          "frame": 8127,
+          "action": "Turntable lifts out"
+        },
+        {
+          "frame": 8193,
+          "action": "Bar slides on"
+        },
+        {
+          "frame": 8271,
+          "action": "Patches melt (staggered)"
+        },
+        {
+          "frame": 8401,
+          "action": "Ruler '≈ 6 cm'"
+        },
+        {
+          "frame": 8437,
+          "action": "Hold"
+        }
+      ],
+      "onScreenText": [
+        "≈ 6 cm"
+      ],
+      "components": [
+        "Callout"
+      ],
+      "transition": "The turntable drops back in, carrying a bowl (S5-04).",
+      "sound": [
+        {
+          "frame": 8127,
+          "cue": "Glass turntable plate lifted out: a soft glass clink",
+          "source": "new",
+          "asset": "Foley, CC0: glass plate lifted / small clink",
+          "mix": "under narration, −14 dB"
+        },
+        {
+          "frame": 8193,
+          "cue": "Bar slid onto the oven floor (dry paper/wrapper slide)",
+          "source": "new",
+          "asset": "Foley, CC0: wrapper slide on a smooth surface",
+          "mix": "−14 dB"
+        },
+        {
+          "frame": 8431,
+          "cue": "Soft wrapper crinkle: the audio callback to Scene 1's pocket",
+          "source": "new",
+          "asset": "same Foley file as S1-01 crinkle",
+          "mix": "in the gap, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Callout",
+        "Candy-bar wrapper style from S1-01"
+      ],
+      "assetsNew": [
+        "Plain chocolate bar with melt-patch states",
+        "Ruler"
+      ],
+      "claims": [
+        "L29"
+      ]
+    },
+    {
+      "id": "S5-04",
+      "scene": 5,
+      "name": "One spoonful's ride",
+      "startFrame": 8485,
+      "endFrame": 9030,
+      "speechStartFrame": 8491,
+      "speechEndFrame": 8958,
+      "start": 282.83,
+      "end": 301.0,
+      "background": "inkNavy",
+      "narration": "That's what the turntable is for. Picture one spoonful of soup riding around the plate. It drifts into a strong spot and heats up, slides through a weak one, then into another strong one — again and again. Turn after turn, the heating averages out.",
+      "words": 45,
+      "speechSeconds": 15.57,
+      "take": "s5-04-take01.wav",
+      "takeSeconds": 16.003,
+      "offsetFrames": 6,
+      "camera": "Locked top-down, with a small trace-graph inset at top right.",
+      "visual": "The turntable drops back in with the bowl. One spoonful-sized region is ringed in gold and tracked as the plate turns. Over bright patches it pulses warmer (orange); over dim ones it holds. The inset graph climbs in steps: up, flat, up, flat. In the tail, the whole bowl's patchy heat map softens toward a more even (still mottled) orange.",
+      "visualTimeline": [
+        {
+          "frame": 8485,
+          "action": "Turntable and bowl drop in"
+        },
+        {
+          "frame": 8539,
+          "action": "Gold ring around one spoonful"
+        },
+        {
+          "frame": 8581,
+          "action": "Rotation starts; ride through patches"
+        },
+        {
+          "frame": 8611,
+          "action": "Step graph builds"
+        },
+        {
+          "frame": 8958,
+          "action": "Map softens (still mottled)"
+        }
+      ],
+      "onScreenText": [],
+      "components": [
+        "Callout",
+        "StepDiagram-style graph (new)"
+      ],
+      "transition": "Continuous into S5-05 (rotation keeps going).",
+      "sound": [
+        {
+          "frame": 8485,
+          "cue": "Turntable motor engages, whirs and runs",
+          "source": "reuse",
+          "asset": "sfx/turntable-motor-v2.wav → lf-turntable.wav",
+          "mix": "engages in the lead-in, then −16 dB under narration"
+        },
+        {
+          "frame": 8581,
+          "cue": "Tiny heat-motif blips each time the ringed spoonful crosses a bright patch (3–4, synced)",
+          "source": "new",
+          "asset": "Synth: short heat-motif blip, long-form generator",
+          "mix": "−17 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Turntable from S5-01",
+        "Callout"
+      ],
+      "assetsNew": [
+        "Tracked-spoonful ring",
+        "Step trace graph"
+      ],
+      "claims": [
+        "L30"
+      ]
+    },
+    {
+      "id": "S5-05",
+      "scene": 5,
+      "name": "But not perfectly",
+      "startFrame": 9030,
+      "endFrame": 9486,
+      "speechStartFrame": 9036,
+      "speechEndFrame": 9438,
+      "start": 301.0,
+      "end": 316.2,
+      "background": "inkNavy",
+      "narration": "Averages out — but not perfectly. The real pattern is three-dimensional, and it shifts as the food heats. And the very center of the plate barely moves at all. That's why food-safety guides still say: stir halfway through.",
+      "words": 38,
+      "speechSeconds": 13.4,
+      "take": "s5-05-take01.wav",
+      "takeSeconds": 13.829,
+      "offsetFrames": 6,
+      "camera": "Tilt the map into 3-D layers (ease-in-out 1.2 s), then back to top-down for the stir.",
+      "visual": "The map separates into stacked 3-D layers that wobble slightly as the food warms. A pin at the turntable's centre traces nothing, while a pin at the rim traces a big circle. A few mist-blue cooler spots remain in the food. A spoon gives one stir and the bowl settles.",
+      "visualTimeline": [
+        {
+          "frame": 9036,
+          "action": "Tilt into layers; slight wobble"
+        },
+        {
+          "frame": 9192,
+          "action": "Centre pin vs rim pin"
+        },
+        {
+          "frame": 9276,
+          "action": "Cooler spots highlighted"
+        },
+        {
+          "frame": 9408,
+          "action": "Spoon stirs"
+        }
+      ],
+      "onScreenText": [],
+      "components": [
+        "CameraFrame (new)",
+        "Callout"
+      ],
+      "transition": "The stir swirls into a steaming plate on a table (S6-01).",
+      "sound": [
+        {
+          "frame": 9396,
+          "cue": "Turntable slows and stops: motor fades, soft stop click",
+          "source": "reuse",
+          "asset": "lf-turntable.wav tail + synth stop click",
+          "mix": "−16 dB"
+        },
+        {
+          "frame": 9408,
+          "cue": "Spoon stirs",
+          "source": "reuse",
+          "asset": "foley/spoon-stir-v2.wav → lf-spoon-stir.wav",
+          "mix": "on the visual stir, −12 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Spoon icon (from the Short's SH06, as reference)"
+      ],
+      "assetsNew": [
+        "3-D layered map"
+      ],
+      "claims": [
+        "L28",
+        "L31",
+        "L30"
+      ]
+    },
+    {
+      "id": "S6-01",
+      "scene": 6,
+      "name": "The classic microwave betrayal",
+      "startFrame": 9486,
+      "endFrame": 9691,
+      "speechStartFrame": 9492,
+      "speechEndFrame": 9667,
+      "start": 316.2,
+      "end": 323.03,
+      "background": "inkNavy",
+      "narration": "And then there's the classic microwave betrayal. A plate too hot to touch — and a bite that's still cold.",
+      "words": 20,
+      "speechSeconds": 5.84,
+      "take": "s6-01-take01.wav",
+      "takeSeconds": 6.273,
+      "offsetFrames": 6,
+      "camera": "Locked medium close-up of a plate on a table.",
+      "visual": "A steaming plate of food. A fork lifts a bite, and a probe thermometer in it reads cold (mist blue). A hand reaches for the plate's rim, which glows orange, and recoils. A short comic beat.",
+      "visualTimeline": [
+        {
+          "frame": 9492,
+          "action": "Fork lifts a bite; thermometer cold"
+        },
+        {
+          "frame": 9622,
+          "action": "Hand touches the rim and recoils"
+        }
+      ],
+      "onScreenText": [],
+      "components": [],
+      "transition": "Cut to the cross-section of food on the plate (S6-02).",
+      "sound": [
+        {
+          "frame": 9498,
+          "cue": "Fork tap on a ceramic plate",
+          "source": "new",
+          "asset": "Foley, CC0: fork on plate",
+          "mix": "under narration, −14 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Thermometer style (shared.tsx)"
+      ],
+      "assetsNew": [
+        "Plate of food (table setting)",
+        "Probe thermometer",
+        "Hand"
+      ],
+      "claims": [
+        "L33",
+        "L27"
+      ]
+    },
+    {
+      "id": "S6-02",
+      "scene": 6,
+      "name": "The food heats the plate",
+      "startFrame": 9691,
+      "endFrame": 10127,
+      "speechStartFrame": 9697,
+      "speechEndFrame": 10103,
+      "start": 323.03,
+      "end": 337.57,
+      "background": "inkNavy",
+      "narration": "Part of that is the food. The outside heats first, the middle waits for heat to creep inward, and the plate, pressed against the hot outside, soaks up plenty. A few minutes of standing time lets the heat keep spreading inward.",
+      "words": 41,
+      "speechSeconds": 13.52,
+      "take": "s6-02-take01.wav",
+      "takeSeconds": 13.944,
+      "offsetFrames": 6,
+      "camera": "Locked cross-section.",
+      "visual": "Cross-section of food on a plate. The outer food glows orange, and heat arrows flow from it both into the cold centre and down into the plate, which warms. A 'standing time' clock ticks off a few minutes (time-lapse) while the centre catches up.",
+      "visualTimeline": [
+        {
+          "frame": 9697,
+          "action": "Outer food orange"
+        },
+        {
+          "frame": 9775,
+          "action": "Arrows into the centre and the plate"
+        },
+        {
+          "frame": 9853,
+          "action": "Plate warms"
+        },
+        {
+          "frame": 9952,
+          "action": "Standing-time clock; centre catches up"
+        }
+      ],
+      "onScreenText": [
+        "standing time"
+      ],
+      "components": [
+        "Callout",
+        "Badge"
+      ],
+      "transition": "Wipe to the split-screen dish test (S6-03).",
+      "sound": [
+        {
+          "frame": 9952,
+          "cue": "Soft clock ticks, 4, at a time-lapse rate",
+          "source": "new",
+          "asset": "Synth: dry tick, long-form generator",
+          "mix": "−16 dB under narration"
+        }
+      ],
+      "assetsReuse": [
+        "Thermometer",
+        "Callout",
+        "Badge"
+      ],
+      "assetsNew": [
+        "Food-on-plate cross-section"
+      ],
+      "claims": [
+        "L27",
+        "L33",
+        "L38"
+      ]
+    },
+    {
+      "id": "S6-03",
+      "scene": 6,
+      "name": "The dish test",
+      "startFrame": 10127,
+      "endFrame": 10761,
+      "speechStartFrame": 10133,
+      "speechEndFrame": 10731,
+      "start": 337.57,
+      "end": 358.7,
+      "background": "inkNavy",
+      "narration": "Part of it can be the dish. Some dishes let microwaves pass straight through, and only get warm from the food. Others absorb the energy themselves. Here's a simple test. Put the empty dish in next to a cup of water, and run it for one minute. Hot water and a cool dish? It's fine. If the dish is hot, it isn't microwave-safe.",
+      "words": 63,
+      "speechSeconds": 19.94,
+      "take": "s6-03-take01.wav",
+      "takeSeconds": 20.435,
+      "offsetFrames": 6,
+      "camera": "Locked split screen.",
+      "visual": "Left and right: each an empty dish beside a glass cup of water inside an oven outline, with a one-minute timer spanning both. Left: teal waves pass straight through the dish (it stays mist blue) and into the water, which turns orange, then a tick. Right: the dish itself glows orange, with a 'not microwave-safe' tag.",
+      "visualTimeline": [
+        {
+          "frame": 10133,
+          "action": "Two dishes come in"
+        },
+        {
+          "frame": 10313,
+          "action": "Cup of water placed; the timer starts"
+        },
+        {
+          "frame": 10463,
+          "action": "Left: water warms, dish stays cool, tick"
+        },
+        {
+          "frame": 10568,
+          "action": "Right: dish glows, tag"
+        }
+      ],
+      "onScreenText": [
+        "1 min",
+        "microwave-safe?",
+        "not microwave-safe"
+      ],
+      "components": [
+        "Badge",
+        "SignalPath"
+      ],
+      "transition": "Cut to the frozen block (S6-04).",
+      "sound": [
+        {
+          "frame": 10313,
+          "cue": "Oven run, quiet",
+          "source": "reuse",
+          "asset": "lf-oven-run.wav",
+          "mix": "−18 dB under narration"
+        },
+        {
+          "frame": 10731,
+          "cue": "End-of-cycle beep as the timer reaches 1:00",
+          "source": "reuse",
+          "asset": "lf-start-beep.wav (or a new 3-beep done tone)",
+          "mix": "in the gap, −10 dB"
+        }
+      ],
+      "assetsReuse": [
+        "Badge",
+        "SignalPath"
+      ],
+      "assetsNew": [
+        "Split-screen dish test layout",
+        "Two dishes and a glass cup"
+      ],
+      "claims": [
+        "L33",
+        "L35",
+        "L34"
+      ]
+    },
+    {
+      "id": "S6-04",
+      "scene": 6,
+      "name": "Frozen food runaway",
+      "startFrame": 10761,
+      "endFrame": 11384,
+      "speechStartFrame": 10767,
+      "speechEndFrame": 11354,
+      "start": 358.7,
+      "end": 379.47,
+      "background": "inkNavy",
+      "narration": "Frozen food has its own trick. Ice is bad at absorbing microwaves — its molecules are locked in place. But once one patch thaws into liquid water, it soaks up far more energy than the ice around it. So it heats faster, and faster still — which is how one bite can be scalding while the next is frozen solid.",
+      "words": 60,
+      "speechSeconds": 19.56,
+      "take": "s6-04-take01.wav",
+      "takeSeconds": 19.993,
+      "offsetFrames": 6,
+      "camera": "Slow 1.0 → 1.1 push-in on the thawing patch.",
+      "visual": "An ice-blue block drawn as a rigid lattice. Teal waves mostly slide through with little glow. One patch turns to liquid (loose, moving molecules) and lights up orange, then brighter, then brighter still, while the rest stays icy. A loop arrow: 'thawed → absorbs more → heats faster'.",
+      "visualTimeline": [
+        {
+          "frame": 10767,
+          "action": "Rigid ice lattice; waves pass with little glow"
+        },
+        {
+          "frame": 10902,
+          "action": "One patch thaws"
+        },
+        {
+          "frame": 11007,
+          "action": "The patch brightens in two steps"
+        },
+        {
+          "frame": 11082,
+          "action": "Loop arrow"
+        },
+        {
+          "frame": 11339,
+          "action": "Contrast: scalding patch next to an icy region"
+        }
+      ],
+      "onScreenText": [
+        "thawed → absorbs more → heats faster"
+      ],
+      "components": [
+        "Callout"
+      ],
+      "transition": "Cut to the clean cup (S6-05).",
+      "sound": [
+        {
+          "frame": 10902,
+          "cue": "Faint ice crackle as the patch thaws",
+          "source": "new",
+          "asset": "Foley, CC0: ice cracking softly",
+          "mix": "−16 dB under narration"
+        },
+        {
+          "frame": 11007,
+          "cue": "Heat motif rising in two steps (escalating with the brightening)",
+          "source": "new",
+          "asset": "Synth: stepped heat-motif variant",
+          "mix": "−16 dB"
+        }
+      ],
+      "assetsReuse": [
+        "MoleculeField style for loose liquid molecules"
+      ],
+      "assetsNew": [
+        "Ice lattice and thawed-patch states",
+        "Loop arrow"
+      ],
+      "claims": [
+        "L32"
+      ]
+    },
+    {
+      "id": "S6-05",
+      "scene": 6,
+      "name": "Superheated water",
+      "startFrame": 11384,
+      "endFrame": 11777,
+      "speechStartFrame": 11390,
+      "speechEndFrame": 11717,
+      "start": 379.47,
+      "end": 392.57,
+      "background": "inkNavy",
+      "narration": "And one rare surprise. Plain water, heated alone in a very clean cup, can get hotter than boiling without a single bubble. Then a small bump — and it can erupt all at once.",
+      "words": 34,
+      "speechSeconds": 10.89,
+      "take": "s6-05-take01.wav",
+      "takeSeconds": 11.3,
+      "offsetFrames": 6,
+      "camera": "Locked. On the eruption, a freeze-frame.",
+      "visual": "A very clean cup of perfectly calm water. The thermometer above reads past '100 °C' with no bubbles. A spoon taps it and it erupts in a burst, held as a freeze-frame. Small text: 'rare — but real'. In the tail, the steam drifts up and becomes faint teal ripples.",
+      "visualTimeline": [
+        {
+          "frame": 11390,
+          "action": "Calm cup; thermometer rises past 100 °C"
+        },
+        {
+          "frame": 11681,
+          "action": "Spoon taps"
+        },
+        {
+          "frame": 11690,
+          "action": "Eruption, then freeze"
+        },
+        {
+          "frame": 11735,
+          "action": "'rare — but real'"
+        },
+        {
+          "frame": 11741,
+          "action": "Steam becomes teal ripples"
+        }
+      ],
+      "onScreenText": [
+        "100 °C",
+        "rare — but real"
+      ],
+      "components": [
+        "Badge"
+      ],
+      "transition": "Steam → ripples carries into the kitchen microwave (S7-01).",
+      "sound": [
+        {
+          "frame": 11681,
+          "cue": "Spoon tap on a ceramic cup",
+          "source": "new",
+          "asset": "Foley, CC0: spoon tap on mug",
+          "mix": "−12 dB"
+        },
+        {
+          "frame": 11690,
+          "cue": "Short, sharp water burst that cuts to near-silence on the freeze",
+          "source": "new",
+          "asset": "Foley, CC0: short water splash/burst",
+          "mix": "on the visual, −8 dB peak, fade 0.3 s"
+        }
+      ],
+      "assetsReuse": [
+        "Thermometer",
+        "Badge"
+      ],
+      "assetsNew": [
+        "Clean cup with calm-water and eruption states"
+      ],
+      "claims": [
+        "L36"
+      ]
+    },
+    {
+      "id": "S7-01",
+      "scene": 7,
+      "name": "Next time you press Start",
+      "startFrame": 11777,
+      "endFrame": 11899,
+      "speechStartFrame": 11783,
+      "speechEndFrame": 11881,
+      "start": 392.57,
+      "end": 396.63,
+      "background": "inkNavy",
+      "narration": "So the next time you press Start, picture what's really going on.",
+      "words": 12,
+      "speechSeconds": 3.26,
+      "take": "s7-01-take01.wav",
+      "takeSeconds": 3.699,
+      "offsetFrames": 6,
+      "camera": "Begins the film's final continuous move: a slow push-in on the kitchen microwave (1.0 → 1.15 across all of Scene 7).",
+      "visual": "An ordinary kitchen microwave, front-on, door closed, on a dark counter. The teal ripples from S6-05 settle into its door glass.",
+      "visualTimeline": [
+        {
+          "frame": 11777,
+          "action": "Ripples settle into the door"
+        }
+      ],
+      "onScreenText": [],
+      "components": [
+        "CameraFrame (new)"
+      ],
+      "transition": "Continuous move.",
+      "sound": [
+        {
+          "frame": 11789,
+          "cue": "Oven run fades up softly",
+          "source": "reuse",
+          "asset": "lf-oven-run.wav",
+          "mix": "−18 dB under narration"
+        }
+      ],
+      "assetsReuse": [
+        "Modern oven (from S3-05/S4)"
+      ],
+      "assetsNew": [],
+      "claims": []
+    },
+    {
+      "id": "S7-02",
+      "scene": 7,
+      "name": "The whole picture, X-ray",
+      "startFrame": 11899,
+      "endFrame": 12510,
+      "speechStartFrame": 11905,
+      "speechEndFrame": 12480,
+      "start": 396.63,
+      "end": 417.0,
+      "background": "inkNavy",
+      "narration": "A descendant of a wartime radar tube fills a metal box with invisible waves. Their electric field swings back and forth billions of times a second, shoving at water molecules too crowded to keep up. That jostling becomes heat, spot by spot and layer by layer, while the plate carries your dinner through a pattern you can't see.",
+      "words": 58,
+      "speechSeconds": 19.17,
+      "take": "s7-02-take01.wav",
+      "takeSeconds": 19.594,
+      "offsetFrames": 6,
+      "camera": "Continuous push-in.",
+      "visual": "As each clause plays, a layer appears through the door like an X-ray: the magnetron glow → the teal lattice → (circular inset) jostling molecules turning orange → the faint, still-uneven hot/cold map on the turning plate. A single line appears on 'jostling becomes heat': 'Waves → molecules → heat'.",
+      "visualTimeline": [
+        {
+          "frame": 11905,
+          "action": "Magnetron glow"
+        },
+        {
+          "frame": 11995,
+          "action": "Teal lattice"
+        },
+        {
+          "frame": 12091,
+          "action": "Molecule inset"
+        },
+        {
+          "frame": 12190,
+          "action": "'Waves → molecules → heat'"
+        },
+        {
+          "frame": 12265,
+          "action": "Uneven map on the turning plate"
+        }
+      ],
+      "onScreenText": [
+        "Waves → molecules → heat"
+      ],
+      "components": [
+        "ComponentCutaway (new)",
+        "TextReveal"
+      ],
+      "transition": "The layers hold, then fade at the start of S7-03.",
+      "sound": [
+        {
+          "frame": 11995,
+          "cue": "Wave motif: emit, faint",
+          "source": "reuse",
+          "asset": "lf-wave-emit.wav",
+          "mix": "−16 dB"
+        },
+        {
+          "frame": 12480,
+          "cue": "Energy → heat motif: closing reprise (warm chord) as the X-ray completes",
+          "source": "reuse",
+          "asset": "sfx/heat-finale-v2.wav → lf-heat-finale.wav",
+          "mix": "in the gap, −10 dB; tail ducked under S7-03"
+        }
+      ],
+      "assetsReuse": [
+        "Scene 4–5 layers",
+        "MoleculeField inset"
+      ],
+      "assetsNew": [
+        "X-ray layer compositing"
+      ],
+      "claims": [
+        "L40",
+        "L20",
+        "L26",
+        "L21",
+        "L23",
+        "L28",
+        "L30"
+      ]
+    },
+    {
+      "id": "S7-03",
+      "scene": 7,
+      "name": "A melted candy bar, and why",
+      "startFrame": 12510,
+      "endFrame": 12979,
+      "speechStartFrame": 12516,
+      "speechEndFrame": 12859,
+      "start": 417.0,
+      "end": 432.63,
+      "background": "inkNavy",
+      "narration": "Nothing in your food turns radioactive. It's just waves, water, and a very crowded dance floor — all because one engineer found a melted candy bar, and wanted to know why.",
+      "words": 31,
+      "speechSeconds": 11.44,
+      "take": "s7-03-take01.wav",
+      "takeSeconds": 11.873,
+      "offsetFrames": 6,
+      "camera": "Push-in completes; a slow dissolve to the Scene 1 pocket, then locked on the end card.",
+      "visual": "The layers fade and the oven's timer shows 0:00 (in the lead-in). On 'a melted candy bar', a slow dissolve brings back the illustrated pocket from Scene 1 and the soft bar. Tail: end card with the title and a slot linking to the Short.",
+      "visualTimeline": [
+        {
+          "frame": 12510,
+          "action": "Timer reaches 0:00 (before speech); layers fade"
+        },
+        {
+          "frame": 12744,
+          "action": "Dissolve to the pocket and bar"
+        },
+        {
+          "frame": 12877,
+          "action": "End card"
+        }
+      ],
+      "onScreenText": [
+        "end card: title + Short link slot"
+      ],
+      "components": [
+        "TextReveal"
+      ],
+      "transition": "Fade to black.",
+      "sound": [
+        {
+          "frame": 12510,
+          "cue": "Done beep as the timer hits 0:00 (before the line, not under it)",
+          "source": "reuse",
+          "asset": "lf-start-beep.wav",
+          "mix": "in the lead-in, −12 dB"
+        },
+        {
+          "frame": 12744,
+          "cue": "Soft wrapper crinkle on the dissolve (the S1-01 callback)",
+          "source": "new",
+          "asset": "same Foley file as S1-01",
+          "mix": "−14 dB under narration"
+        },
+        {
+          "frame": 12877,
+          "cue": "End card: silence. No music, no sting",
+          "source": "new",
+          "asset": "—",
+          "mix": "—"
+        }
+      ],
+      "assetsReuse": [
+        "Pocket and bar art from S1-01",
+        "TextReveal"
+      ],
+      "assetsNew": [
+        "End card (16:9)"
+      ],
+      "claims": [
+        "L37",
+        "L23",
+        "L03"
+      ]
+    }
+  ]
+}
