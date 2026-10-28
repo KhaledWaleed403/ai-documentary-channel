@@ -9,3 +9,6 @@ out
 # Rendered outputs
 renders/*
 !renders/.gitkeep
+
+# Decode caches written by scripts/audio builders (regenerated on each run)
+episodes/**/*.decoded.wav
