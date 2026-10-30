@@ -1,0 +1,106 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 7,
+   "end": 81,
+   "lines": [
+    "A nuclear submarine makes",
+    "its own oxygen"
+   ]
+  },
+  {
+   "start": 81,
+   "end": 117,
+   "lines": [
+    "by splitting water."
+   ]
+  },
+  {
+   "start": 137,
+   "end": 224,
+   "lines": [
+    "An electrolyser runs",
+    "electric current through"
+   ]
+  },
+  {
+   "start": 224,
+   "end": 311,
+   "lines": [
+    "water and splits it into",
+    "oxygen and hydrogen."
+   ]
+  },
+  {
+   "start": 331,
+   "end": 418,
+   "lines": [
+    "The oxygen goes into the",
+    "air. The hydrogen is"
+   ]
+  },
+  {
+   "start": 418,
+   "end": 491,
+   "lines": [
+    "explosive in enough",
+    "quantity, so on US"
+   ]
+  },
+  {
+   "start": 491,
+   "end": 538,
+   "lines": [
+    "submarines it's sent out"
+   ]
+  },
+  {
+   "start": 538,
+   "end": 588,
+   "lines": [
+    "of the boat, into the sea."
+   ]
+  },
+  {
+   "start": 610,
+   "end": 680,
+   "lines": [
+    "And oxygen is held close to",
+    "normal air:"
+   ]
+  },
+  {
+   "start": 680,
+   "end": 735,
+   "lines": [
+    "too little dulls thinking,",
+    "too"
+   ]
+  },
+  {
+   "start": 735,
+   "end": 793,
+   "lines": [
+    "much makes fires more",
+    "dangerous."
+   ]
+  },
+  {
+   "start": 813,
+   "end": 889,
+   "lines": [
+    "Water and electricity",
+    "that's how a nuclear"
+   ]
+  },
+  {
+   "start": 889,
+   "end": 971,
+   "lines": [
+    "submarine makes the oxygen",
+    "its crew breathes."
+   ]
+  }
+ ]
+}

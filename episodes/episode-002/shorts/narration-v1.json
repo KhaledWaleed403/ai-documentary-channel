@@ -1,0 +1,90 @@
+{
+  "episode": "episode-002",
+  "version": "shorts-v1",
+  "script": "research/topic-discovery-longform/shorts-scripts-v1.md (approved 2026-10-29, football-field wording applied)",
+  "note": "Display text is the approved Shorts wording. Spoken text is derived by scripts/audio/generate-ep002-vo.py and recorded in vo/manifest.json.",
+  "shorts": [
+    {
+      "name": "SubmarineOtherGas",
+      "number": 1,
+      "title": "The Other Gas a Submarine Has to Fight",
+      "lines": [
+        { "id": "SH1-1", "text": "Seal a hundred and forty-five people in a steel tube, and the air goes bad in two separate ways — and making oxygen only fixes one of them." },
+        { "id": "SH1-2", "text": "The other is carbon dioxide — and the biggest source on board is the crew's own breath." },
+        { "id": "SH1-3", "text": "So air is pushed through a scrubber containing an amine, which grabs carbon dioxide. Heat it, and the gas is released and pumped out of the boat." },
+        { "id": "SH1-4", "text": "Even then, it's never zero: in data reported in 2003, US nuclear submarines averaged several times the carbon dioxide of outdoor air." },
+        { "id": "SH1-5", "text": "The oxygen half — and the rest of the machines — is in our full submarine video." }
+      ]
+    },
+    {
+      "name": "SubmarineNoGPS",
+      "number": 2,
+      "title": "How a Submarine Knows Where It Is With No GPS",
+      "lines": [
+        { "id": "SH2-1", "text": "Once a submarine dives, GPS is gone." },
+        { "id": "SH2-2", "text": "GPS works by radio, and seawater soaks up radio — its signals can't reach a submerged submarine." },
+        { "id": "SH2-3", "text": "So the boat keeps track of itself. Gyroscopes sense every turn, accelerometers sense every push and pull, and a computer adds it all up." },
+        { "id": "SH2-4", "text": "The catch: tiny errors add up too, and the estimate slowly drifts." },
+        { "id": "SH2-5", "text": "So every so often it checks against something outside — for example, coming up near the surface for a GPS fix, or matching the seafloor below to a map. Methods vary between navies and boats." },
+        { "id": "SH2-6", "text": "Navigation is just one of the hidden systems in our full submarine video." }
+      ]
+    },
+    {
+      "name": "SubmarineMessages",
+      "number": 3,
+      "title": "How Do You Send a Message to a Hidden Submarine?",
+      "lines": [
+        { "id": "SH3-1", "text": "Seawater soaks up radio — so how does a hidden submarine get a message?" },
+        { "id": "SH3-2", "text": "The higher the frequency, the faster it disappears. Very-low-frequency radio gets in — but, according to the US Navy, only tens of feet." },
+        { "id": "SH3-3", "text": "So to listen, a submarine has to get an antenna up near the surface — which limits how deep and fast it can go, and makes it easier to spot." },
+        { "id": "SH3-4", "text": "The US also ran an extremely-low-frequency system, at about 76 hertz, that reached submarines hundreds of feet down — but only one way, slowly. It was shut down in 2004." },
+        { "id": "SH3-5", "text": "The rest of the chain that keeps the crew alive is in our full submarine video." }
+      ]
+    },
+    {
+      "name": "SubmarineOxygen",
+      "number": 4,
+      "title": "How Submarines Make Air Out of Water",
+      "lines": [
+        { "id": "SH4-1", "text": "A nuclear submarine makes its own oxygen — by splitting water." },
+        { "id": "SH4-2", "text": "An electrolyser runs electric current through water and splits it into oxygen and hydrogen." },
+        { "id": "SH4-3", "text": "The oxygen goes into the air. The hydrogen is explosive in enough quantity, so on US submarines it's sent out of the boat, into the sea." },
+        { "id": "SH4-4", "text": "And oxygen is held close to normal air: too little dulls thinking, too much makes fires more dangerous." },
+        { "id": "SH4-5", "text": "But oxygen is only half the air problem — the other half is in our full submarine video." }
+      ]
+    },
+    {
+      "name": "SubmarinePressureHull",
+      "number": 5,
+      "title": "What Holds Back the Ocean on a Submarine",
+      "lines": [
+        { "id": "SH5-1", "text": "Every ten metres of seawater adds roughly another atmosphere of pressure." },
+        { "id": "SH5-2", "text": "So the part of a submarine that holds the sea back — the pressure hull — is a round steel tube, braced by rings of steel frames." },
+        { "id": "SH5-3", "text": "Engineers design it so the shell can't buckle inward or crumple." },
+        { "id": "SH5-4", "text": "How deep real submarines go isn't published — and holding back the sea is only the first of the problems in our full submarine video." }
+      ]
+    },
+    {
+      "name": "SubmarineStealth",
+      "number": 7,
+      "title": "How Do You Hide Something the Length of a Football Field Underwater?",
+      "lines": [
+        { "id": "SH7-1", "text": "A US Virginia-class submarine is three hundred and seventy-seven feet long — about the length of a football field. So how does something that big stay hidden underwater?" },
+        { "id": "SH7-2", "text": "Water carries sound remarkably well. Low-frequency sound loses very little energy to absorption, so low rumbles can be detected a long way off; higher-pitched sounds fade much sooner." },
+        { "id": "SH7-3", "text": "Many submarines are wrapped in special coatings. Some soak up incoming sonar pings, so less sound echoes back. Others muffle the noise the boat itself makes." },
+        { "id": "SH7-4", "text": "It doesn't make a submarine silent. It makes it harder to hear — and harder to find. More of the hidden machines are in our full submarine video." }
+      ]
+    },
+    {
+      "name": "SubmarineEnduranceLimits",
+      "number": 8,
+      "title": "What Actually Limits How Long a Nuclear Sub Stays Down?",
+      "lines": [
+        { "id": "SH8-1", "text": "A nuclear submarine cleans its own air, and today's reactor cores are rated for over a million miles — so why does it ever come home?" },
+        { "id": "SH8-2", "text": "Unlike surface warships, submarines are almost never resupplied at sea. Everything the crew will eat is loaded before they leave." },
+        { "id": "SH8-3", "text": "Crews and machines need time ashore too: US ballistic-missile submarines average 77 days at sea, then 35 in port for maintenance, with two crews taking turns." },
+        { "id": "SH8-4", "text": "Food, maintenance, the people aboard and the mission — those set the clock. The machines behind everything else are in our full submarine video." }
+      ]
+    }
+  ]
+}

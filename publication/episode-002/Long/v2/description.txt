@@ -1,0 +1,46 @@
+Close the hatch on 145 people and dive — from that moment, every breath they take changes the air they have left. So what keeps a submarine crew alive for weeks, even months, without coming up?
+
+This video goes inside a nuclear-powered submarine to show the hidden machines that solve one problem after another: holding back the sea, scrubbing carbon dioxide out of the air, making oxygen from water, cleaning out every other gas, finding the way without GPS, staying hard to hear, receiving messages through seawater, and powering all of it.
+
+Questions this video answers:
+• How does a submarine make oxygen underwater?
+• Where does the crew's carbon dioxide go?
+• How does a submarine know where it is with no GPS?
+• How do you send a message to a submarine that's hiding?
+• If the air and power can last, what actually brings a nuclear submarine home?
+
+Chapters
+00:00 The hatch closes
+00:14 A sealed world
+00:44 Holding back the sea
+01:15 Two air problems
+02:27 Splitting water for air
+03:04 The invisible cleaners
+03:47 Lost without GPS
+04:37 Hiding in a sea of sound
+05:21 A message through the sea
+06:12 The reactor: the hidden heart
+06:48 What brings it home
+07:23 The chain
+
+Sources and further reading
+• National Research Council (2007), Submarine contaminants — carbon dioxide: https://www.nationalacademies.org/read/11170/chapter/5
+• National Research Council (2007), Submarine atmosphere and air systems: https://www.nationalacademies.org/read/11170/chapter/3
+• Institute of Marine Engineering, Science & Technology — submarine atmosphere control: https://library.imarest.org/record/9222/files/v22b2p11a.pdf
+• Collins Aerospace — submarine life support and atmosphere monitoring: https://www.rtx.com/collinsaerospace/what-we-do/Industries/military-and-defense/submarines-and-surface-ships/submarine-life-support-and-atmospheric-monitoring-technology/
+• U.S. Navy — Attack submarines (SSN) fact file: https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169558/attack-submarines-ssn/
+• U.S. Navy — Fleet ballistic-missile submarines (SSBN) fact file: https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169580/fleet-ballistic-missile-submarines-ssbn/
+• NOAA — How does pressure change with ocean depth?: https://oceanservice.noaa.gov/facts/pressure.html
+• DARPA — Positioning System for Deep Ocean Navigation: https://www.darpa.mil/research/programs/positioning-system-for-deep-ocean-navigation
+• Localization Uncertainty Estimation for AUV Navigation, J. Mar. Sci. Eng. (2023): https://www.mdpi.com/2077-1312/11/8/1540
+• DOSITS — Sound travel in the SOFAR channel: https://dosits.org/science/movement/sofar-channel/sound-travel-in-the-sofar-channel/
+• U.S. Navy — ELF Transmitter Site, Clam Lake, Wisconsin (fact sheet): https://www.navy-radio.com/commsta/elf/clam_lake_elf2003-1.pdf
+• Naval Nuclear Propulsion Program — Report NT-26-2: https://www.energy.gov/sites/default/files/2026-08/NT-26-2%2C%20Occupational%20Radiation%20Exposure%20from%20U.S.%20Naval%20Nuclear%20Plants%20and%20Their%20Support%20Facilities.pdf
+• NNSA — Powering the Navy: https://www.energy.gov/nnsa/powering-navy
+• National Research Council (1996), Shipboard Pollution Control, Ch. 7: https://nap.nationalacademies.org/read/9190/chapter/10
+
+Luminexplain makes invisible processes visible: animated explainers of how machines actually work, built from checked sources. Subscribe for the next one.
+
+Animation and script: Luminexplain. Narration: synthetic voice (Kokoro-82M). No music.
+
+#submarine #howitworks #engineering

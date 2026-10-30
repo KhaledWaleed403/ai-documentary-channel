@@ -1,0 +1,294 @@
+{
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "shorts": [
+  {
+   "name": "SubmarineOtherGas",
+   "number": 1,
+   "title": "The Other Gas a Submarine Has to Fight",
+   "durationInFrames": 1325,
+   "lines": [
+    {
+     "id": "SH1-1",
+     "start": 6,
+     "end": 271,
+     "speechStart": 7,
+     "speechEnd": 258
+    },
+    {
+     "id": "SH1-2",
+     "start": 276,
+     "end": 437,
+     "speechStart": 278,
+     "speechEnd": 421
+    },
+    {
+     "id": "SH1-3",
+     "start": 442,
+     "end": 721,
+     "speechStart": 443,
+     "speechEnd": 708
+    },
+    {
+     "id": "SH1-4",
+     "start": 726,
+     "end": 1043,
+     "speechStart": 727,
+     "speechEnd": 1029
+    },
+    {
+     "id": "SH1-5",
+     "start": 1048,
+     "end": 1280,
+     "speechStart": 1050,
+     "speechEnd": 1267
+    }
+   ]
+  },
+  {
+   "name": "SubmarineNoGPS",
+   "number": 2,
+   "title": "How a Submarine Knows Where It Is With No GPS",
+   "durationInFrames": 1367,
+   "lines": [
+    {
+     "id": "SH2-1",
+     "start": 6,
+     "end": 101,
+     "speechStart": 8,
+     "speechEnd": 88
+    },
+    {
+     "id": "SH2-2",
+     "start": 106,
+     "end": 322,
+     "speechStart": 108,
+     "speechEnd": 309
+    },
+    {
+     "id": "SH2-3",
+     "start": 327,
+     "end": 592,
+     "speechStart": 329,
+     "speechEnd": 578
+    },
+    {
+     "id": "SH2-4",
+     "start": 597,
+     "end": 735,
+     "speechStart": 598,
+     "speechEnd": 722
+    },
+    {
+     "id": "SH2-5",
+     "start": 740,
+     "end": 1122,
+     "speechStart": 742,
+     "speechEnd": 1109
+    },
+    {
+     "id": "SH2-6",
+     "start": 1127,
+     "end": 1322,
+     "speechStart": 1129,
+     "speechEnd": 1309
+    }
+   ]
+  },
+  {
+   "name": "SubmarineMessages",
+   "number": 3,
+   "title": "How Do You Send a Message to a Hidden Submarine?",
+   "durationInFrames": 1384,
+   "lines": [
+    {
+     "id": "SH3-1",
+     "start": 6,
+     "end": 138,
+     "speechStart": 7,
+     "speechEnd": 125
+    },
+    {
+     "id": "SH3-2",
+     "start": 143,
+     "end": 436,
+     "speechStart": 145,
+     "speechEnd": 422
+    },
+    {
+     "id": "SH3-3",
+     "start": 441,
+     "end": 713,
+     "speechStart": 442,
+     "speechEnd": 700
+    },
+    {
+     "id": "SH3-4",
+     "start": 718,
+     "end": 1116,
+     "speechStart": 720,
+     "speechEnd": 1102
+    },
+    {
+     "id": "SH3-5",
+     "start": 1121,
+     "end": 1339,
+     "speechStart": 1123,
+     "speechEnd": 1324
+    }
+   ]
+  },
+  {
+   "name": "SubmarineOxygen",
+   "number": 4,
+   "title": "How Submarines Make Air Out of Water",
+   "durationInFrames": 1029,
+   "lines": [
+    {
+     "id": "SH4-1",
+     "start": 6,
+     "end": 130,
+     "speechStart": 7,
+     "speechEnd": 117
+    },
+    {
+     "id": "SH4-2",
+     "start": 135,
+     "end": 324,
+     "speechStart": 137,
+     "speechEnd": 311
+    },
+    {
+     "id": "SH4-3",
+     "start": 329,
+     "end": 602,
+     "speechStart": 331,
+     "speechEnd": 588
+    },
+    {
+     "id": "SH4-4",
+     "start": 607,
+     "end": 806,
+     "speechStart": 610,
+     "speechEnd": 793
+    },
+    {
+     "id": "SH4-5",
+     "start": 811,
+     "end": 984,
+     "speechStart": 813,
+     "speechEnd": 971
+    }
+   ]
+  },
+  {
+   "name": "SubmarinePressureHull",
+   "number": 5,
+   "title": "What Holds Back the Ocean on a Submarine",
+   "durationInFrames": 781,
+   "lines": [
+    {
+     "id": "SH5-1",
+     "start": 6,
+     "end": 141,
+     "speechStart": 7,
+     "speechEnd": 128
+    },
+    {
+     "id": "SH5-2",
+     "start": 146,
+     "end": 384,
+     "speechStart": 148,
+     "speechEnd": 371
+    },
+    {
+     "id": "SH5-3",
+     "start": 389,
+     "end": 509,
+     "speechStart": 391,
+     "speechEnd": 496
+    },
+    {
+     "id": "SH5-4",
+     "start": 514,
+     "end": 736,
+     "speechStart": 516,
+     "speechEnd": 723
+    }
+   ]
+  },
+  {
+   "name": "SubmarineStealth",
+   "number": 7,
+   "title": "How Do You Hide Something the Length of a Football Field Underwater?",
+   "durationInFrames": 1231,
+   "lines": [
+    {
+     "id": "SH7-1",
+     "start": 6,
+     "end": 331,
+     "speechStart": 8,
+     "speechEnd": 317
+    },
+    {
+     "id": "SH7-2",
+     "start": 336,
+     "end": 709,
+     "speechStart": 337,
+     "speechEnd": 696
+    },
+    {
+     "id": "SH7-3",
+     "start": 714,
+     "end": 1028,
+     "speechStart": 716,
+     "speechEnd": 1015
+    },
+    {
+     "id": "SH7-4",
+     "start": 1033,
+     "end": 1186,
+     "speechStart": 1035,
+     "speechEnd": 1173
+    }
+   ]
+  },
+  {
+   "name": "SubmarineEnduranceLimits",
+   "number": 8,
+   "title": "What Actually Limits How Long a Nuclear Sub Stays Down?",
+   "durationInFrames": 1053,
+   "lines": [
+    {
+     "id": "SH8-1",
+     "start": 6,
+     "end": 251,
+     "speechStart": 7,
+     "speechEnd": 238
+    },
+    {
+     "id": "SH8-2",
+     "start": 256,
+     "end": 502,
+     "speechStart": 259,
+     "speechEnd": 489
+    },
+    {
+     "id": "SH8-3",
+     "start": 507,
+     "end": 865,
+     "speechStart": 508,
+     "speechEnd": 852
+    },
+    {
+     "id": "SH8-4",
+     "start": 870,
+     "end": 1008,
+     "speechStart": 872,
+     "speechEnd": 994
+    }
+   ]
+  }
+ ]
+}

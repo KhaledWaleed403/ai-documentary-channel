@@ -13,7 +13,7 @@ YouTube explainer channel built with Remotion 4 (React + TypeScript). Explains i
 - `src/compositions/` registered `<Composition>`s (one per episode/short) · `src/scenes/` episode-specific scenes · `src/components/` reusable visual components · `src/animations/` timing/easing helpers · `src/data/` typed episode data · `src/styles/` theme tokens.
 - `docs/` specs (read the relevant one before working): `project-brief.md`, `visual-style.md`, `component-inventory.md`, `production-workflow.md`.
 - `research/episode-NNN/` sources, claims, notes · `episodes/episode-NNN/<version>/` script, storyboard, captions, assets (one folder per version, matching `renders/episode-NNN/<version>/`).
-- `renders/`, `analytics/` — production outputs. `thumbnails/episode-NNN/` — YouTube thumbnails, laid out like `renders/`: `Long/<version>/` and `Shorts/<ShortName>/<version>/`. `publication/episode-NNN/<version>/` — YouTube publication packages (title, description, chapters, upload `.srt`, settings, compliance review); Shorts in `publication/episode-NNN/shorts/<version>/`. `Assets/` — channel branding (banner, logo, watermark).
+- `renders/`, `analytics/` — production outputs. `thumbnails/episode-NNN/` — YouTube thumbnails, laid out like `renders/`: `Long/<version>/` and `Shorts/<ShortName>/<version>/`. `publication/episode-NNN/` — publication packages laid out like `renders/`: `Long/<version>/` (YouTube: title, description, tags, chapters, upload `.srt`, settings) and `Shorts/<ShortName>/<version>/` (YouTube, Instagram Reels and TikTok), one step-by-step `publication.md` each (Episode 001 predates this layout). `Assets/` — channel branding (banner, logo, watermark).
 
 ## Rules
 - Every factual claim in a script must trace to `research/.../claims.md` with a verified source.

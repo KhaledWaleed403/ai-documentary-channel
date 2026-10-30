@@ -1,0 +1,68 @@
+1
+00:00:00,267 --> 00:00:02,933
+Once a submarine dives, GPS
+is gone.
+
+2
+00:00:03,600 --> 00:00:06,967
+GPS works by radio, and
+seawater soaks up radio
+
+3
+00:00:06,967 --> 00:00:10,300
+its signals can't reach a
+submerged submarine.
+
+4
+00:00:10,967 --> 00:00:13,067
+So the boat keeps track of
+itself.
+
+5
+00:00:13,067 --> 00:00:16,500
+Gyroscopes sense every turn,
+accelerometers sense every
+
+6
+00:00:16,500 --> 00:00:19,267
+push and pull, and a
+computer adds it all up.
+
+7
+00:00:19,933 --> 00:00:22,100
+The catch: tiny errors add
+up too,
+
+8
+00:00:22,100 --> 00:00:24,067
+and the estimate slowly
+drifts.
+
+9
+00:00:24,733 --> 00:00:28,233
+So every so often it checks
+against something outside
+
+10
+00:00:28,233 --> 00:00:31,800
+for example, coming up near
+the surface for a GPS fix,
+
+11
+00:00:31,800 --> 00:00:34,467
+or matching the seafloor
+below to a map.
+
+12
+00:00:34,467 --> 00:00:36,967
+Methods vary between navies
+and boats.
+
+13
+00:00:37,633 --> 00:00:40,767
+Navigation is just one of
+the hidden systems in our
+
+14
+00:00:40,767 --> 00:00:42,067
+full submarine video.

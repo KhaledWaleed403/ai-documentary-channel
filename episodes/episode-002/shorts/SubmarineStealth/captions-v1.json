@@ -1,0 +1,130 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 8,
+   "end": 100,
+   "lines": [
+    "A US Virginia-class",
+    "submarine is three hundred"
+   ]
+  },
+  {
+   "start": 100,
+   "end": 199,
+   "lines": [
+    "and seventy-seven feet long",
+    "about the length of a"
+   ]
+  },
+  {
+   "start": 199,
+   "end": 302,
+   "lines": [
+    "football field. So how does",
+    "something that big stay"
+   ]
+  },
+  {
+   "start": 302,
+   "end": 338,
+   "lines": [
+    "hidden underwater?"
+   ]
+  },
+  {
+   "start": 357,
+   "end": 429,
+   "lines": [
+    "Water carries sound",
+    "remarkably well."
+   ]
+  },
+  {
+   "start": 429,
+   "end": 523,
+   "lines": [
+    "Low-frequency sound loses",
+    "very little energy to"
+   ]
+  },
+  {
+   "start": 523,
+   "end": 628,
+   "lines": [
+    "absorption, so low rumbles",
+    "can be detected a long way"
+   ]
+  },
+  {
+   "start": 628,
+   "end": 716,
+   "lines": [
+    "off; higher-pitched sounds",
+    "fade much sooner."
+   ]
+  },
+  {
+   "start": 736,
+   "end": 829,
+   "lines": [
+    "Many submarines are wrapped",
+    "in special coatings."
+   ]
+  },
+  {
+   "start": 829,
+   "end": 895,
+   "lines": [
+    "Some soak up incoming sonar",
+    "pings,"
+   ]
+  },
+  {
+   "start": 895,
+   "end": 1000,
+   "lines": [
+    "so less sound echoes back.",
+    "Others muffle the noise the"
+   ]
+  },
+  {
+   "start": 1000,
+   "end": 1035,
+   "lines": [
+    "boat itself makes."
+   ]
+  },
+  {
+   "start": 1055,
+   "end": 1118,
+   "lines": [
+    "It doesn't make a submarine",
+    "silent."
+   ]
+  },
+  {
+   "start": 1118,
+   "end": 1201,
+   "lines": [
+    "It makes it harder to hear",
+    "and harder to find."
+   ]
+  },
+  {
+   "start": 1201,
+   "end": 1257,
+   "lines": [
+    "More of the hidden machines",
+    "are"
+   ]
+  },
+  {
+   "start": 1257,
+   "end": 1308,
+   "lines": [
+    "in our full submarine video."
+   ]
+  }
+ ]
+}

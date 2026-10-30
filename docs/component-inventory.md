@@ -6,6 +6,11 @@ Episode 001 long-form drawings (16:9) live in `src/scenes/episode001Long/shared.
 
 The Episode 001 Shorts batch (9:16; `CandyBarDiscovery`, `MicrowaveSafeDishes`, `StandingTime`, `SuperheatedWater`) uses a vertical stage and small helpers in `src/scenes/episode001Shorts/shared.tsx`: `VStage`, `T`, `Chip`, `Tick`/`Cross`, `WaveIcon` and `Clock`. It reuses the long-form drawings and the Short's `Thermometer` read-only. These helpers stay episode-specific until another episode needs them.
 
+Episode 002 (submarine life support, long-form 16:9 plus seven 9:16 Shorts) keeps its drawings in `src/scenes/episode002/`. Each panel draws in its own local box and takes 0→1 progress props, so the same diagram serves both aspect ratios.
+- `kit.tsx` holds the look and shared primitives: dark navy `Stage`, `T`, `Tag`, `Fact`, `Lead`, the `Checklist` threat HUD and `checkRows`, a generic `SubCutaway` with machine slots, air loop and power bus, `Gauge` and the `Mol` molecule glyphs.
+- `panels.tsx` holds the mechanism diagrams: `Hatch`, `DepthRuler`, `HullSection`, `FramedTube`, `Scrubber`, `Electrolyser`, `Cleaners`, `AirHud`, `GpsSurface`, `NavMap`, `InertialGlyphs`, `SoundRings`, `CoatingSection`, `LengthCompare`, `CommsColumn`, `ReactorLoops` and `ClockPanel`.
+- They stay episode-specific. `Checklist` and `Gauge` are candidates to promote to `src/components/` if a later episode needs them.
+
 Conventions: components live in `src/components/`, take data and style via props (no hardcoded episode content), are driven by `useCurrentFrame()`, and work at both 16:9 and 9:16. Timing helpers live in `src/animations/`, theme tokens in `src/styles/`.
 
 | Component | Purpose | Status |

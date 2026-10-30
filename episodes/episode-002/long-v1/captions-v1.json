@@ -1,0 +1,867 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 26,
+   "end": 110,
+   "lines": [
+    "Close the hatch on a hundred and",
+    "forty-five people,"
+   ]
+  },
+  {
+   "start": 110,
+   "end": 245,
+   "lines": [
+    "dive, and from that moment every breath",
+    "they take changes the air they have left."
+   ]
+  },
+  {
+   "start": 269,
+   "end": 345,
+   "lines": [
+    "So what keeps them alive down there — for",
+    "weeks,"
+   ]
+  },
+  {
+   "start": 345,
+   "end": 396,
+   "lines": [
+    "even months — without coming up?"
+   ]
+  },
+  {
+   "start": 466,
+   "end": 603,
+   "lines": [
+    "This is a nuclear-powered submarine. Many",
+    "navies use diesel-electric boats,"
+   ]
+  },
+  {
+   "start": 603,
+   "end": 737,
+   "lines": [
+    "which work very differently — so",
+    "everything here describes a nuclear one."
+   ]
+  },
+  {
+   "start": 762,
+   "end": 863,
+   "lines": [
+    "Once it's submerged, its air goes round in",
+    "a closed loop."
+   ]
+  },
+  {
+   "start": 863,
+   "end": 917,
+   "lines": [
+    "Nothing comes in from outside."
+   ]
+  },
+  {
+   "start": 942,
+   "end": 1049,
+   "lines": [
+    "US ballistic-missile submarines spend, on",
+    "average,"
+   ]
+  },
+  {
+   "start": 1049,
+   "end": 1168,
+   "lines": [
+    "seventy-seven days at sea per patrol. For",
+    "all that time,"
+   ]
+  },
+  {
+   "start": 1168,
+   "end": 1292,
+   "lines": [
+    "the boat has to protect, clean and supply",
+    "everyone inside."
+   ]
+  },
+  {
+   "start": 1361,
+   "end": 1510,
+   "lines": [
+    "The first threat presses in from outside.",
+    "Every ten metres of seawater adds roughly"
+   ]
+  },
+  {
+   "start": 1510,
+   "end": 1581,
+   "lines": [
+    "another atmosphere of pressure — another"
+   ]
+  },
+  {
+   "start": 1581,
+   "end": 1660,
+   "lines": [
+    "full weight of air pushing on every",
+    "surface."
+   ]
+  },
+  {
+   "start": 1685,
+   "end": 1810,
+   "lines": [
+    "The part of the submarine that holds that",
+    "back is the pressure hull:"
+   ]
+  },
+  {
+   "start": 1810,
+   "end": 1906,
+   "lines": [
+    "a round steel tube, braced by rings of",
+    "steel frames."
+   ]
+  },
+  {
+   "start": 1906,
+   "end": 2024,
+   "lines": [
+    "Engineers design it so the shell can't",
+    "buckle inward or crumple."
+   ]
+  },
+  {
+   "start": 2050,
+   "end": 2136,
+   "lines": [
+    "How deep real submarines can go isn't",
+    "published"
+   ]
+  },
+  {
+   "start": 2136,
+   "end": 2231,
+   "lines": [
+    "so the depths here are a scale, not a",
+    "specification."
+   ]
+  },
+  {
+   "start": 2301,
+   "end": 2437,
+   "lines": [
+    "That steel keeps the ocean out — and seals",
+    "the crew in with their own air."
+   ]
+  },
+  {
+   "start": 2437,
+   "end": 2549,
+   "lines": [
+    "And that air fails in two separate ways.",
+    "Oxygen gets used up."
+   ]
+  },
+  {
+   "start": 2549,
+   "end": 2704,
+   "lines": [
+    "And carbon dioxide builds up — the biggest",
+    "source on board is the crew's own breath."
+   ]
+  },
+  {
+   "start": 2732,
+   "end": 2828,
+   "lines": [
+    "Making more oxygen doesn't take carbon",
+    "dioxide away,"
+   ]
+  },
+  {
+   "start": 2828,
+   "end": 2939,
+   "lines": [
+    "so the submarine needs a different machine",
+    "for each problem."
+   ]
+  },
+  {
+   "start": 2964,
+   "end": 3107,
+   "lines": [
+    "Carbon dioxide is heavier than air, and it",
+    "can collect in enclosed spaces."
+   ]
+  },
+  {
+   "start": 3107,
+   "end": 3241,
+   "lines": [
+    "At high enough concentrations it causes",
+    "breathlessness and headaches,"
+   ]
+  },
+  {
+   "start": 3241,
+   "end": 3316,
+   "lines": [
+    "and at extreme levels, unconsciousness."
+   ]
+  },
+  {
+   "start": 3341,
+   "end": 3483,
+   "lines": [
+    "So it's removed continuously. Air is",
+    "pushed through a scrubber containing an"
+   ]
+  },
+  {
+   "start": 3483,
+   "end": 3597,
+   "lines": [
+    "amine — a chemical that grabs carbon",
+    "dioxide. Heat the amine,"
+   ]
+  },
+  {
+   "start": 3597,
+   "end": 3744,
+   "lines": [
+    "and it lets the gas go, so the carbon",
+    "dioxide can be pumped out of the boat and"
+   ]
+  },
+  {
+   "start": 3744,
+   "end": 3802,
+   "lines": [
+    "the scrubber can be used again."
+   ]
+  },
+  {
+   "start": 3827,
+   "end": 3942,
+   "lines": [
+    "It's never removed completely. In data",
+    "reported in 2003,"
+   ]
+  },
+  {
+   "start": 3942,
+   "end": 4107,
+   "lines": [
+    "carbon dioxide on US nuclear submarines",
+    "averaged around three and a half to four"
+   ]
+  },
+  {
+   "start": 4107,
+   "end": 4246,
+   "lines": [
+    "thousand parts per million — several times",
+    "the level in outdoor air"
+   ]
+  },
+  {
+   "start": 4246,
+   "end": 4388,
+   "lines": [
+    "with Navy exposure guidance setting",
+    "ceilings on how high it may rise."
+   ]
+  },
+  {
+   "start": 4457,
+   "end": 4577,
+   "lines": [
+    "That handles carbon dioxide. The oxygen",
+    "comes from water."
+   ]
+  },
+  {
+   "start": 4577,
+   "end": 4746,
+   "lines": [
+    "An electrolyser runs an electric current",
+    "through water and splits it into its two"
+   ]
+  },
+  {
+   "start": 4746,
+   "end": 4815,
+   "lines": [
+    "ingredients: oxygen and hydrogen."
+   ]
+  },
+  {
+   "start": 4841,
+   "end": 4997,
+   "lines": [
+    "The oxygen goes into the air. The hydrogen",
+    "is explosive in enough quantity,"
+   ]
+  },
+  {
+   "start": 4997,
+   "end": 5122,
+   "lines": [
+    "so on US submarines it's sent out of the",
+    "boat, into the sea."
+   ]
+  },
+  {
+   "start": 5148,
+   "end": 5241,
+   "lines": [
+    "Oxygen is held close to the level in",
+    "normal air:"
+   ]
+  },
+  {
+   "start": 5241,
+   "end": 5362,
+   "lines": [
+    "too little dulls thinking, too much makes",
+    "fires more dangerous."
+   ]
+  },
+  {
+   "start": 5362,
+   "end": 5473,
+   "lines": [
+    "And there's a traditional chemical backup",
+    "oxygen candles,"
+   ]
+  },
+  {
+   "start": 5473,
+   "end": 5538,
+   "lines": [
+    "which release oxygen as they burn."
+   ]
+  },
+  {
+   "start": 5608,
+   "end": 5745,
+   "lines": [
+    "Oxygen and carbon dioxide are only the",
+    "biggest of the air's problems."
+   ]
+  },
+  {
+   "start": 5745,
+   "end": 5900,
+   "lines": [
+    "Cooking, batteries, machinery and the crew",
+    "themselves all release other gases."
+   ]
+  },
+  {
+   "start": 5924,
+   "end": 6035,
+   "lines": [
+    "A catalytic burner removes carbon monoxide",
+    "and hydrogen,"
+   ]
+  },
+  {
+   "start": 6035,
+   "end": 6151,
+   "lines": [
+    "and activated-charcoal filters soak up",
+    "odours and vapours."
+   ]
+  },
+  {
+   "start": 6174,
+   "end": 6283,
+   "lines": [
+    "A central analyser samples the air around",
+    "the clock,"
+   ]
+  },
+  {
+   "start": 6283,
+   "end": 6442,
+   "lines": [
+    "tracking oxygen, carbon dioxide, hydrogen,",
+    "carbon monoxide and water vapour."
+   ]
+  },
+  {
+   "start": 6466,
+   "end": 6620,
+   "lines": [
+    "The same system air-conditions the boat:",
+    "in the living spaces of a US attack"
+   ]
+  },
+  {
+   "start": 6620,
+   "end": 6742,
+   "lines": [
+    "submarine, it's designed for about eighty",
+    "degrees Fahrenheit"
+   ]
+  },
+  {
+   "start": 6742,
+   "end": 6844,
+   "lines": [
+    "twenty-seven Celsius — and fifty percent",
+    "humidity."
+   ]
+  },
+  {
+   "start": 6913,
+   "end": 7069,
+   "lines": [
+    "Now the air is under control — but the",
+    "crew can't see where they're going."
+   ]
+  },
+  {
+   "start": 7069,
+   "end": 7180,
+   "lines": [
+    "There are no windows, and no GPS. GPS",
+    "works by radio,"
+   ]
+  },
+  {
+   "start": 7180,
+   "end": 7337,
+   "lines": [
+    "and seawater soaks up radio; its signals",
+    "can't reach a submerged submarine."
+   ]
+  },
+  {
+   "start": 7362,
+   "end": 7475,
+   "lines": [
+    "So the boat keeps track of itself.",
+    "Gyroscopes sense every turn,"
+   ]
+  },
+  {
+   "start": 7475,
+   "end": 7622,
+   "lines": [
+    "accelerometers sense every push and pull,",
+    "and a computer adds all of it up to work"
+   ]
+  },
+  {
+   "start": 7622,
+   "end": 7674,
+   "lines": [
+    "out where the boat has moved."
+   ]
+  },
+  {
+   "start": 7699,
+   "end": 7802,
+   "lines": [
+    "The catch is that tiny errors add up too.",
+    "Left alone,"
+   ]
+  },
+  {
+   "start": 7802,
+   "end": 7889,
+   "lines": [
+    "the estimate slowly drifts away from",
+    "reality."
+   ]
+  },
+  {
+   "start": 7913,
+   "end": 8061,
+   "lines": [
+    "So every so often the submarine checks its",
+    "position against something outside"
+   ]
+  },
+  {
+   "start": 8061,
+   "end": 8165,
+   "lines": [
+    "for example, coming up near the surface",
+    "for a GPS fix,"
+   ]
+  },
+  {
+   "start": 8165,
+   "end": 8266,
+   "lines": [
+    "or matching the shape of the seafloor",
+    "below to a map."
+   ]
+  },
+  {
+   "start": 8266,
+   "end": 8358,
+   "lines": [
+    "The exact methods vary between navies and",
+    "boats."
+   ]
+  },
+  {
+   "start": 8428,
+   "end": 8535,
+   "lines": [
+    "Knowing where you are only matters if no",
+    "one else knows."
+   ]
+  },
+  {
+   "start": 8535,
+   "end": 8677,
+   "lines": [
+    "A US Virginia-class submarine is three",
+    "hundred and seventy-seven feet long"
+   ]
+  },
+  {
+   "start": 8677,
+   "end": 8840,
+   "lines": [
+    "about the length of a football field — and",
+    "it has to hide in water that carries sound"
+   ]
+  },
+  {
+   "start": 8840,
+   "end": 8871,
+   "lines": [
+    "remarkably well."
+   ]
+  },
+  {
+   "start": 8895,
+   "end": 9009,
+   "lines": [
+    "Low-frequency sound loses very little",
+    "energy to absorption,"
+   ]
+  },
+  {
+   "start": 9009,
+   "end": 9088,
+   "lines": [
+    "so low rumbles can be detected a long way"
+   ]
+  },
+  {
+   "start": 9088,
+   "end": 9173,
+   "lines": [
+    "off; higher-pitched sounds fade much",
+    "sooner."
+   ]
+  },
+  {
+   "start": 9198,
+   "end": 9290,
+   "lines": [
+    "Many submarines are wrapped in special",
+    "coatings."
+   ]
+  },
+  {
+   "start": 9290,
+   "end": 9408,
+   "lines": [
+    "Some soak up incoming sonar pings, so less",
+    "sound echoes back."
+   ]
+  },
+  {
+   "start": 9408,
+   "end": 9497,
+   "lines": [
+    "Others muffle the noise the boat itself",
+    "makes."
+   ]
+  },
+  {
+   "start": 9522,
+   "end": 9636,
+   "lines": [
+    "None of this makes a submarine silent. It",
+    "makes it harder to hear"
+   ]
+  },
+  {
+   "start": 9636,
+   "end": 9669,
+   "lines": [
+    "and harder to find."
+   ]
+  },
+  {
+   "start": 9737,
+   "end": 9887,
+   "lines": [
+    "Staying hidden creates the next problem:",
+    "how do you reach a submarine you can't"
+   ]
+  },
+  {
+   "start": 9887,
+   "end": 10001,
+   "lines": [
+    "find? Seawater soaks up radio, and the",
+    "higher the frequency,"
+   ]
+  },
+  {
+   "start": 10001,
+   "end": 10048,
+   "lines": [
+    "the faster it disappears."
+   ]
+  },
+  {
+   "start": 10073,
+   "end": 10214,
+   "lines": [
+    "Very-low-frequency radio does get in",
+    "but, according to the US Navy,"
+   ]
+  },
+  {
+   "start": 10214,
+   "end": 10392,
+   "lines": [
+    "only tens of feet. To listen, a submarine",
+    "has to get an antenna up near the surface,"
+   ]
+  },
+  {
+   "start": 10392,
+   "end": 10549,
+   "lines": [
+    "which limits how deep and how fast it can",
+    "go, and makes it easier to spot."
+   ]
+  },
+  {
+   "start": 10574,
+   "end": 10682,
+   "lines": [
+    "The US also ran an extremely-low-frequency",
+    "system,"
+   ]
+  },
+  {
+   "start": 10682,
+   "end": 10846,
+   "lines": [
+    "at about seventy-six hertz. It could reach",
+    "submarines hundreds of feet down,"
+   ]
+  },
+  {
+   "start": 10846,
+   "end": 10947,
+   "lines": [
+    "even while they were moving — but only one",
+    "way,"
+   ]
+  },
+  {
+   "start": 10947,
+   "end": 11027,
+   "lines": [
+    "and slowly. It was shut down in 2004."
+   ]
+  },
+  {
+   "start": 11051,
+   "end": 11204,
+   "lines": [
+    "To reply, a submarine has to come near the",
+    "surface and use higher-capacity links,"
+   ]
+  },
+  {
+   "start": 11204,
+   "end": 11238,
+   "lines": [
+    "such as satellite."
+   ]
+  },
+  {
+   "start": 11309,
+   "end": 11423,
+   "lines": [
+    "Every machine so far — the scrubbers, the",
+    "electrolyser,"
+   ]
+  },
+  {
+   "start": 11423,
+   "end": 11527,
+   "lines": [
+    "the analysers, the navigation computers,",
+    "the sonar"
+   ]
+  },
+  {
+   "start": 11527,
+   "end": 11680,
+   "lines": [
+    "runs on electricity. On this submarine,",
+    "that comes from a nuclear reactor."
+   ]
+  },
+  {
+   "start": 11706,
+   "end": 11859,
+   "lines": [
+    "Water in a sealed loop carries heat from",
+    "the reactor core to a separate system that"
+   ]
+  },
+  {
+   "start": 11859,
+   "end": 11995,
+   "lines": [
+    "makes steam; the two waters never mix.",
+    "That steam spins turbines that make"
+   ]
+  },
+  {
+   "start": 11995,
+   "end": 12062,
+   "lines": [
+    "electricity and help drive the boat."
+   ]
+  },
+  {
+   "start": 12086,
+   "end": 12217,
+   "lines": [
+    "The first nuclear submarine core lasted",
+    "about sixty-two thousand miles."
+   ]
+  },
+  {
+   "start": 12217,
+   "end": 12324,
+   "lines": [
+    "Today's submarine cores are rated for more",
+    "than a million."
+   ]
+  },
+  {
+   "start": 12392,
+   "end": 12529,
+   "lines": [
+    "So if the air, the course, the silence and",
+    "the power can all be managed,"
+   ]
+  },
+  {
+   "start": 12529,
+   "end": 12646,
+   "lines": [
+    "what brings a nuclear submarine home?",
+    "Unlike surface warships,"
+   ]
+  },
+  {
+   "start": 12646,
+   "end": 12794,
+   "lines": [
+    "submarines are almost never resupplied at",
+    "sea. Everything the crew will eat is"
+   ]
+  },
+  {
+   "start": 12794,
+   "end": 12841,
+   "lines": [
+    "loaded before they leave."
+   ]
+  },
+  {
+   "start": 12866,
+   "end": 13031,
+   "lines": [
+    "Crews and machines need time ashore too:",
+    "US ballistic-missile submarines average"
+   ]
+  },
+  {
+   "start": 13031,
+   "end": 13171,
+   "lines": [
+    "seventy-seven days at sea, then",
+    "thirty-five in port for maintenance,"
+   ]
+  },
+  {
+   "start": 13171,
+   "end": 13239,
+   "lines": [
+    "with two full crews taking turns."
+   ]
+  },
+  {
+   "start": 13264,
+   "end": 13366,
+   "lines": [
+    "Food, maintenance, the people aboard and",
+    "the mission itself"
+   ]
+  },
+  {
+   "start": 13366,
+   "end": 13401,
+   "lines": [
+    "those set the clock."
+   ]
+  },
+  {
+   "start": 13470,
+   "end": 13578,
+   "lines": [
+    "Outside, the ocean never changes. Inside,",
+    "every breath,"
+   ]
+  },
+  {
+   "start": 13578,
+   "end": 13711,
+   "lines": [
+    "every course and every message depends on",
+    "a chain of hidden machines"
+   ]
+  },
+  {
+   "start": 13711,
+   "end": 13805,
+   "lines": [
+    "each solving a problem the last one left",
+    "behind,"
+   ]
+  },
+  {
+   "start": 13805,
+   "end": 13895,
+   "lines": [
+    "and all of them running on one source of",
+    "heat."
+   ]
+  }
+ ]
+}

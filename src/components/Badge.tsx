@@ -7,8 +7,7 @@ type BadgeProps = {
   opacity?: number;
 };
 
-// Small pill label, readable on light and dark backgrounds (e.g. the
-// "Schematic · not to scale" disclaimer on conceptual visuals).
+// Small pill label, readable on light and dark backgrounds.
 export const Badge: React.FC<BadgeProps> = ({ text, top, opacity = 1 }) => (
   <div
     style={{

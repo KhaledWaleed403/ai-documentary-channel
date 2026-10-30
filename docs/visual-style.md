@@ -28,6 +28,7 @@ The visual language is "living technical diagram": clean schematic shapes that m
 - **Colour roles** (defined as tokens in `src/styles/`): background, surface, line, text, muted text, accent, highlight, warning. Never encode meaning by colour alone — pair with shape, label or motion.
 - **Line work:** consistent stroke weights (thin for structure, thicker for active paths).
 - **Typography:** one sans-serif family; large, few words on screen. Text supports narration; it never duplicates full sentences.
+- **No disclaimer tags:** never put "illustrative", "not to scale", "schematic" or similar disclaimer labels on screen, in any video. If scale matters, say it in the narration.
 - **Safe areas:** keep text inside a 5% margin (16:9) and avoid the bottom ~20% and right edge UI zone in 9:16 shorts.
 
 ## Motion

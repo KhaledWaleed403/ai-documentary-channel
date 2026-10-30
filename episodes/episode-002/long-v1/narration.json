@@ -1,0 +1,212 @@
+{
+  "episode": "episode-002",
+  "version": "long-v1",
+  "title": "The Hidden Machines That Keep a Submarine Crew Alive",
+  "script": "research/topic-discovery-longform/script-v1.md (approved 2026-10-29, football-field wording applied)",
+  "note": "Display text is the approved script wording, split into narration shots. Spoken text is derived from it by scripts/audio/generate-ep002-vo.py (US -> U.S., numerals -> words) and recorded in vo/manifest.json. Long v2 (2026-10-30): lines containing \"US\" re-voiced with plain \"US\" (the old \"U.S.\" spelling made Kokoro pause after each letter); v1 data kept as *-v1.json.",
+  "shots": [
+    {
+      "id": "S01-1",
+      "scene": 1,
+      "text": "Close the hatch on a hundred and forty-five people, dive, and from that moment every breath they take changes the air they have left."
+    },
+    {
+      "id": "S01-2",
+      "scene": 1,
+      "text": "So what keeps them alive down there — for weeks, even months — without coming up?"
+    },
+    {
+      "id": "S02-1",
+      "scene": 2,
+      "text": "This is a nuclear-powered submarine. Many navies use diesel-electric boats, which work very differently — so everything here describes a nuclear one."
+    },
+    {
+      "id": "S02-2",
+      "scene": 2,
+      "text": "Once it's submerged, its air goes round in a closed loop. Nothing comes in from outside."
+    },
+    {
+      "id": "S02-3",
+      "scene": 2,
+      "text": "US ballistic-missile submarines spend, on average, seventy-seven days at sea per patrol. For all that time, the boat has to protect, clean and supply everyone inside.",
+      "take": 2
+    },
+    {
+      "id": "S03-1",
+      "scene": 3,
+      "text": "The first threat presses in from outside. Every ten metres of seawater adds roughly another atmosphere of pressure — another full weight of air pushing on every surface."
+    },
+    {
+      "id": "S03-2",
+      "scene": 3,
+      "text": "The part of the submarine that holds that back is the pressure hull: a round steel tube, braced by rings of steel frames. Engineers design it so the shell can't buckle inward or crumple."
+    },
+    {
+      "id": "S03-3",
+      "scene": 3,
+      "text": "How deep real submarines can go isn't published — so the depths here are a scale, not a specification."
+    },
+    {
+      "id": "S04-1",
+      "scene": 4,
+      "text": "That steel keeps the ocean out — and seals the crew in with their own air. And that air fails in two separate ways. Oxygen gets used up. And carbon dioxide builds up — the biggest source on board is the crew's own breath."
+    },
+    {
+      "id": "S04-2",
+      "scene": 4,
+      "text": "Making more oxygen doesn't take carbon dioxide away, so the submarine needs a different machine for each problem."
+    },
+    {
+      "id": "S04-3",
+      "scene": 4,
+      "text": "Carbon dioxide is heavier than air, and it can collect in enclosed spaces. At high enough concentrations it causes breathlessness and headaches, and at extreme levels, unconsciousness."
+    },
+    {
+      "id": "S04-4",
+      "scene": 4,
+      "text": "So it's removed continuously. Air is pushed through a scrubber containing an amine — a chemical that grabs carbon dioxide. Heat the amine, and it lets the gas go, so the carbon dioxide can be pumped out of the boat and the scrubber can be used again."
+    },
+    {
+      "id": "S04-5",
+      "scene": 4,
+      "text": "It's never removed completely. In data reported in 2003, carbon dioxide on US nuclear submarines averaged around three and a half to four thousand parts per million — several times the level in outdoor air — with Navy exposure guidance setting ceilings on how high it may rise.",
+      "take": 2
+    },
+    {
+      "id": "S05-1",
+      "scene": 5,
+      "text": "That handles carbon dioxide. The oxygen comes from water. An electrolyser runs an electric current through water and splits it into its two ingredients: oxygen and hydrogen."
+    },
+    {
+      "id": "S05-2",
+      "scene": 5,
+      "text": "The oxygen goes into the air. The hydrogen is explosive in enough quantity, so on US submarines it's sent out of the boat, into the sea.",
+      "take": 2
+    },
+    {
+      "id": "S05-3",
+      "scene": 5,
+      "text": "Oxygen is held close to the level in normal air: too little dulls thinking, too much makes fires more dangerous. And there's a traditional chemical backup — oxygen candles, which release oxygen as they burn."
+    },
+    {
+      "id": "S06-1",
+      "scene": 6,
+      "text": "Oxygen and carbon dioxide are only the biggest of the air's problems. Cooking, batteries, machinery and the crew themselves all release other gases."
+    },
+    {
+      "id": "S06-2",
+      "scene": 6,
+      "text": "A catalytic burner removes carbon monoxide and hydrogen, and activated-charcoal filters soak up odours and vapours."
+    },
+    {
+      "id": "S06-3",
+      "scene": 6,
+      "text": "A central analyser samples the air around the clock, tracking oxygen, carbon dioxide, hydrogen, carbon monoxide and water vapour."
+    },
+    {
+      "id": "S06-4",
+      "scene": 6,
+      "text": "The same system air-conditions the boat: in the living spaces of a US attack submarine, it's designed for about eighty degrees Fahrenheit — twenty-seven Celsius — and fifty percent humidity.",
+      "take": 2
+    },
+    {
+      "id": "S07-1",
+      "scene": 7,
+      "text": "Now the air is under control — but the crew can't see where they're going. There are no windows, and no GPS. GPS works by radio, and seawater soaks up radio; its signals can't reach a submerged submarine."
+    },
+    {
+      "id": "S07-2",
+      "scene": 7,
+      "text": "So the boat keeps track of itself. Gyroscopes sense every turn, accelerometers sense every push and pull, and a computer adds all of it up to work out where the boat has moved."
+    },
+    {
+      "id": "S07-3",
+      "scene": 7,
+      "text": "The catch is that tiny errors add up too. Left alone, the estimate slowly drifts away from reality."
+    },
+    {
+      "id": "S07-4",
+      "scene": 7,
+      "text": "So every so often the submarine checks its position against something outside — for example, coming up near the surface for a GPS fix, or matching the shape of the seafloor below to a map. The exact methods vary between navies and boats."
+    },
+    {
+      "id": "S08-1",
+      "scene": 8,
+      "text": "Knowing where you are only matters if no one else knows. A US Virginia-class submarine is three hundred and seventy-seven feet long — about the length of a football field — and it has to hide in water that carries sound remarkably well.",
+      "take": 2
+    },
+    {
+      "id": "S08-2",
+      "scene": 8,
+      "text": "Low-frequency sound loses very little energy to absorption, so low rumbles can be detected a long way off; higher-pitched sounds fade much sooner."
+    },
+    {
+      "id": "S08-3",
+      "scene": 8,
+      "text": "Many submarines are wrapped in special coatings. Some soak up incoming sonar pings, so less sound echoes back. Others muffle the noise the boat itself makes."
+    },
+    {
+      "id": "S08-4",
+      "scene": 8,
+      "text": "None of this makes a submarine silent. It makes it harder to hear — and harder to find."
+    },
+    {
+      "id": "S09-1",
+      "scene": 9,
+      "text": "Staying hidden creates the next problem: how do you reach a submarine you can't find? Seawater soaks up radio, and the higher the frequency, the faster it disappears."
+    },
+    {
+      "id": "S09-2",
+      "scene": 9,
+      "text": "Very-low-frequency radio does get in — but, according to the US Navy, only tens of feet. To listen, a submarine has to get an antenna up near the surface, which limits how deep and how fast it can go, and makes it easier to spot.",
+      "take": 2
+    },
+    {
+      "id": "S09-3",
+      "scene": 9,
+      "text": "The US also ran an extremely-low-frequency system, at about seventy-six hertz. It could reach submarines hundreds of feet down, even while they were moving — but only one way, and slowly. It was shut down in 2004.",
+      "take": 2
+    },
+    {
+      "id": "S09-4",
+      "scene": 9,
+      "text": "To reply, a submarine has to come near the surface and use higher-capacity links, such as satellite."
+    },
+    {
+      "id": "S10-1",
+      "scene": 10,
+      "text": "Every machine so far — the scrubbers, the electrolyser, the analysers, the navigation computers, the sonar — runs on electricity. On this submarine, that comes from a nuclear reactor."
+    },
+    {
+      "id": "S10-2",
+      "scene": 10,
+      "text": "Water in a sealed loop carries heat from the reactor core to a separate system that makes steam; the two waters never mix. That steam spins turbines that make electricity and help drive the boat."
+    },
+    {
+      "id": "S10-3",
+      "scene": 10,
+      "text": "The first nuclear submarine core lasted about sixty-two thousand miles. Today's submarine cores are rated for more than a million."
+    },
+    {
+      "id": "S11-1",
+      "scene": 11,
+      "text": "So if the air, the course, the silence and the power can all be managed, what brings a nuclear submarine home? Unlike surface warships, submarines are almost never resupplied at sea. Everything the crew will eat is loaded before they leave."
+    },
+    {
+      "id": "S11-2",
+      "scene": 11,
+      "text": "Crews and machines need time ashore too: US ballistic-missile submarines average seventy-seven days at sea, then thirty-five in port for maintenance, with two full crews taking turns.",
+      "take": 2
+    },
+    {
+      "id": "S11-3",
+      "scene": 11,
+      "text": "Food, maintenance, the people aboard and the mission itself — those set the clock."
+    },
+    {
+      "id": "S12-1",
+      "scene": 12,
+      "text": "Outside, the ocean never changes. Inside, every breath, every course and every message depends on a chain of hidden machines — each solving a problem the last one left behind, and all of them running on one source of heat."
+    }
+  ]
+}

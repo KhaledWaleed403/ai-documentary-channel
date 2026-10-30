@@ -1,0 +1,531 @@
+1
+00:00:00,867 --> 00:00:03,667
+Close the hatch on a hundred and
+forty-five people,
+
+2
+00:00:03,667 --> 00:00:08,167
+dive, and from that moment every breath
+they take changes the air they have left.
+
+3
+00:00:08,967 --> 00:00:11,500
+So what keeps them alive down there — for
+weeks,
+
+4
+00:00:11,500 --> 00:00:13,200
+even months — without coming up?
+
+5
+00:00:15,533 --> 00:00:20,100
+This is a nuclear-powered submarine. Many
+navies use diesel-electric boats,
+
+6
+00:00:20,100 --> 00:00:24,567
+which work very differently — so
+everything here describes a nuclear one.
+
+7
+00:00:25,400 --> 00:00:28,767
+Once it's submerged, its air goes round in
+a closed loop.
+
+8
+00:00:28,767 --> 00:00:30,567
+Nothing comes in from outside.
+
+9
+00:00:31,400 --> 00:00:34,867
+US ballistic-missile submarines spend, on
+average,
+
+10
+00:00:34,867 --> 00:00:38,700
+seventy-seven days at sea per patrol. For
+all that time,
+
+11
+00:00:38,700 --> 00:00:42,700
+the boat has to protect, clean and supply
+everyone inside.
+
+12
+00:00:45,000 --> 00:00:49,967
+The first threat presses in from outside.
+Every ten metres of seawater adds roughly
+
+13
+00:00:49,967 --> 00:00:52,333
+another atmosphere of pressure — another
+
+14
+00:00:52,333 --> 00:00:54,967
+full weight of air pushing on every
+surface.
+
+15
+00:00:55,800 --> 00:00:59,967
+The part of the submarine that holds that
+back is the pressure hull:
+
+16
+00:00:59,967 --> 00:01:03,167
+a round steel tube, braced by rings of
+steel frames.
+
+17
+00:01:03,167 --> 00:01:07,100
+Engineers design it so the shell can't
+buckle inward or crumple.
+
+18
+00:01:07,967 --> 00:01:10,833
+How deep real submarines can go isn't
+published
+
+19
+00:01:10,833 --> 00:01:14,000
+so the depths here are a scale, not a
+specification.
+
+20
+00:01:16,333 --> 00:01:20,867
+That steel keeps the ocean out — and seals
+the crew in with their own air.
+
+21
+00:01:20,867 --> 00:01:24,600
+And that air fails in two separate ways.
+Oxygen gets used up.
+
+22
+00:01:24,600 --> 00:01:29,767
+And carbon dioxide builds up — the biggest
+source on board is the crew's own breath.
+
+23
+00:01:30,700 --> 00:01:33,900
+Making more oxygen doesn't take carbon
+dioxide away,
+
+24
+00:01:33,900 --> 00:01:37,600
+so the submarine needs a different machine
+for each problem.
+
+25
+00:01:38,433 --> 00:01:43,200
+Carbon dioxide is heavier than air, and it
+can collect in enclosed spaces.
+
+26
+00:01:43,200 --> 00:01:47,667
+At high enough concentrations it causes
+breathlessness and headaches,
+
+27
+00:01:47,667 --> 00:01:50,167
+and at extreme levels, unconsciousness.
+
+28
+00:01:51,000 --> 00:01:55,733
+So it's removed continuously. Air is
+pushed through a scrubber containing an
+
+29
+00:01:55,733 --> 00:01:59,533
+amine — a chemical that grabs carbon
+dioxide. Heat the amine,
+
+30
+00:01:59,533 --> 00:02:04,433
+and it lets the gas go, so the carbon
+dioxide can be pumped out of the boat and
+
+31
+00:02:04,433 --> 00:02:06,367
+the scrubber can be used again.
+
+32
+00:02:07,200 --> 00:02:10,933
+It's never removed completely. In data
+reported in 2003,
+
+33
+00:02:10,933 --> 00:02:16,267
+carbon dioxide on US nuclear submarines
+averaged around three and a half to four
+
+34
+00:02:16,267 --> 00:02:20,767
+thousand parts per million — several times
+the level in outdoor air
+
+35
+00:02:20,767 --> 00:02:25,367
+with Navy exposure guidance setting
+ceilings on how high it may rise.
+
+36
+00:02:27,667 --> 00:02:31,667
+That handles carbon dioxide. The oxygen
+comes from water.
+
+37
+00:02:31,667 --> 00:02:37,300
+An electrolyser runs an electric current
+through water and splits it into its two
+
+38
+00:02:37,300 --> 00:02:39,600
+ingredients: oxygen and hydrogen.
+
+39
+00:02:40,467 --> 00:02:45,233
+The oxygen goes into the air. The hydrogen
+is explosive in enough quantity,
+
+40
+00:02:45,233 --> 00:02:49,033
+so on US submarines it's sent out of the
+boat, into the sea.
+
+41
+00:02:49,933 --> 00:02:53,033
+Oxygen is held close to the level in
+normal air:
+
+42
+00:02:53,033 --> 00:02:57,067
+too little dulls thinking, too much makes
+fires more dangerous.
+
+43
+00:02:57,067 --> 00:03:00,767
+And there's a traditional chemical backup
+oxygen candles,
+
+44
+00:03:00,767 --> 00:03:02,933
+which release oxygen as they burn.
+
+45
+00:03:05,267 --> 00:03:09,833
+Oxygen and carbon dioxide are only the
+biggest of the air's problems.
+
+46
+00:03:09,833 --> 00:03:15,000
+Cooking, batteries, machinery and the crew
+themselves all release other gases.
+
+47
+00:03:15,800 --> 00:03:19,500
+A catalytic burner removes carbon monoxide
+and hydrogen,
+
+48
+00:03:19,500 --> 00:03:23,367
+and activated-charcoal filters soak up
+odours and vapours.
+
+49
+00:03:24,133 --> 00:03:27,767
+A central analyser samples the air around
+the clock,
+
+50
+00:03:27,767 --> 00:03:33,067
+tracking oxygen, carbon dioxide, hydrogen,
+carbon monoxide and water vapour.
+
+51
+00:03:33,867 --> 00:03:38,733
+The same system air-conditions the boat:
+in the living spaces of a US attack
+
+52
+00:03:38,733 --> 00:03:42,600
+submarine, it's designed for about eighty
+degrees Fahrenheit
+
+53
+00:03:42,600 --> 00:03:45,800
+twenty-seven Celsius — and fifty percent
+humidity.
+
+54
+00:03:48,100 --> 00:03:53,300
+Now the air is under control — but the
+crew can't see where they're going.
+
+55
+00:03:53,300 --> 00:03:57,000
+There are no windows, and no GPS. GPS
+works by radio,
+
+56
+00:03:57,000 --> 00:04:02,233
+and seawater soaks up radio; its signals
+can't reach a submerged submarine.
+
+57
+00:04:03,067 --> 00:04:06,833
+So the boat keeps track of itself.
+Gyroscopes sense every turn,
+
+58
+00:04:06,833 --> 00:04:11,733
+accelerometers sense every push and pull,
+and a computer adds all of it up to work
+
+59
+00:04:11,733 --> 00:04:13,467
+out where the boat has moved.
+
+60
+00:04:14,300 --> 00:04:17,733
+The catch is that tiny errors add up too.
+Left alone,
+
+61
+00:04:17,733 --> 00:04:20,633
+the estimate slowly drifts away from
+reality.
+
+62
+00:04:21,433 --> 00:04:26,367
+So every so often the submarine checks its
+position against something outside
+
+63
+00:04:26,367 --> 00:04:29,833
+for example, coming up near the surface
+for a GPS fix,
+
+64
+00:04:29,833 --> 00:04:33,200
+or matching the shape of the seafloor
+below to a map.
+
+65
+00:04:33,200 --> 00:04:36,267
+The exact methods vary between navies and
+boats.
+
+66
+00:04:38,600 --> 00:04:42,033
+Knowing where you are only matters if no
+one else knows.
+
+67
+00:04:42,033 --> 00:04:46,600
+A US Virginia-class submarine is three
+hundred and seventy-seven feet long
+
+68
+00:04:46,600 --> 00:04:51,800
+about the length of a football field — and
+it has to hide in water that carries sound
+
+69
+00:04:51,800 --> 00:04:52,800
+remarkably well.
+
+70
+00:04:53,600 --> 00:04:57,400
+Low-frequency sound loses very little
+energy to absorption,
+
+71
+00:04:57,400 --> 00:05:00,033
+so low rumbles can be detected a long way
+
+72
+00:05:00,033 --> 00:05:02,867
+off; higher-pitched sounds fade much
+sooner.
+
+73
+00:05:03,700 --> 00:05:06,767
+Many submarines are wrapped in special
+coatings.
+
+74
+00:05:06,767 --> 00:05:10,700
+Some soak up incoming sonar pings, so less
+sound echoes back.
+
+75
+00:05:10,700 --> 00:05:13,667
+Others muffle the noise the boat itself
+makes.
+
+76
+00:05:14,533 --> 00:05:18,300
+None of this makes a submarine silent. It
+makes it harder to hear
+
+77
+00:05:18,300 --> 00:05:19,400
+and harder to find.
+
+78
+00:05:21,667 --> 00:05:26,667
+Staying hidden creates the next problem:
+how do you reach a submarine you can't
+
+79
+00:05:26,667 --> 00:05:30,467
+find? Seawater soaks up radio, and the
+higher the frequency,
+
+80
+00:05:30,467 --> 00:05:32,033
+the faster it disappears.
+
+81
+00:05:32,867 --> 00:05:37,300
+Very-low-frequency radio does get in
+but, according to the US Navy,
+
+82
+00:05:37,300 --> 00:05:42,900
+only tens of feet. To listen, a submarine
+has to get an antenna up near the surface,
+
+83
+00:05:42,900 --> 00:05:47,800
+which limits how deep and how fast it can
+go, and makes it easier to spot.
+
+84
+00:05:48,633 --> 00:05:52,133
+The US also ran an extremely-low-frequency
+system,
+
+85
+00:05:52,133 --> 00:05:57,433
+at about seventy-six hertz. It could reach
+submarines hundreds of feet down,
+
+86
+00:05:57,433 --> 00:06:00,700
+even while they were moving — but only one
+way,
+
+87
+00:06:00,700 --> 00:06:03,300
+and slowly. It was shut down in 2004.
+
+88
+00:06:04,100 --> 00:06:09,200
+To reply, a submarine has to come near the
+surface and use higher-capacity links,
+
+89
+00:06:09,200 --> 00:06:10,333
+such as satellite.
+
+90
+00:06:12,700 --> 00:06:16,500
+Every machine so far — the scrubbers, the
+electrolyser,
+
+91
+00:06:16,500 --> 00:06:19,967
+the analysers, the navigation computers,
+the sonar
+
+92
+00:06:19,967 --> 00:06:25,067
+runs on electricity. On this submarine,
+that comes from a nuclear reactor.
+
+93
+00:06:25,933 --> 00:06:31,033
+Water in a sealed loop carries heat from
+the reactor core to a separate system that
+
+94
+00:06:31,033 --> 00:06:35,567
+makes steam; the two waters never mix.
+That steam spins turbines that make
+
+95
+00:06:35,567 --> 00:06:37,800
+electricity and help drive the boat.
+
+96
+00:06:38,600 --> 00:06:42,967
+The first nuclear submarine core lasted
+about sixty-two thousand miles.
+
+97
+00:06:42,967 --> 00:06:46,533
+Today's submarine cores are rated for more
+than a million.
+
+98
+00:06:48,800 --> 00:06:53,367
+So if the air, the course, the silence and
+the power can all be managed,
+
+99
+00:06:53,367 --> 00:06:57,267
+what brings a nuclear submarine home?
+Unlike surface warships,
+
+100
+00:06:57,267 --> 00:07:02,200
+submarines are almost never resupplied at
+sea. Everything the crew will eat is
+
+101
+00:07:02,200 --> 00:07:03,767
+loaded before they leave.
+
+102
+00:07:04,600 --> 00:07:09,800
+Crews and machines need time ashore too:
+US ballistic-missile submarines average
+
+103
+00:07:09,800 --> 00:07:14,200
+seventy-seven days at sea, then
+thirty-five in port for maintenance,
+
+104
+00:07:14,200 --> 00:07:16,367
+with two full crews taking turns.
+
+105
+00:07:17,200 --> 00:07:20,600
+Food, maintenance, the people aboard and
+the mission itself
+
+106
+00:07:20,600 --> 00:07:21,767
+those set the clock.
+
+107
+00:07:24,067 --> 00:07:27,667
+Outside, the ocean never changes. Inside,
+every breath,
+
+108
+00:07:27,667 --> 00:07:32,100
+every course and every message depends on
+a chain of hidden machines
+
+109
+00:07:32,100 --> 00:07:35,233
+each solving a problem the last one left
+behind,
+
+110
+00:07:35,233 --> 00:07:38,233
+and all of them running on one source of
+heat.

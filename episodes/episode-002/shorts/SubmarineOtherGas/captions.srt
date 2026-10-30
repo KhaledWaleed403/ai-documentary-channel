@@ -1,0 +1,73 @@
+1
+00:00:00,233 --> 00:00:03,133
+Seal a hundred and
+forty-five people in a steel
+
+2
+00:00:03,133 --> 00:00:06,067
+tube, and the air goes bad
+in two separate ways
+
+3
+00:00:06,067 --> 00:00:08,600
+and making oxygen only fixes
+one of them.
+
+4
+00:00:09,267 --> 00:00:12,267
+The other is carbon dioxide
+and the biggest source on
+
+5
+00:00:12,267 --> 00:00:14,033
+board is the crew's own
+breath.
+
+6
+00:00:14,767 --> 00:00:17,833
+So air is pushed through a
+scrubber containing an
+
+7
+00:00:17,833 --> 00:00:19,933
+amine, which grabs carbon
+dioxide.
+
+8
+00:00:19,933 --> 00:00:21,933
+Heat it, and the gas is
+released
+
+9
+00:00:21,933 --> 00:00:23,600
+and pumped out of the boat.
+
+10
+00:00:24,233 --> 00:00:28,300
+Even then, it's never zero:
+in data reported in 2003,
+
+11
+00:00:28,300 --> 00:00:32,000
+US nuclear submarines
+averaged several times the
+
+12
+00:00:32,000 --> 00:00:34,300
+carbon dioxide of outdoor
+air.
+
+13
+00:00:35,000 --> 00:00:38,467
+That's why a submarine needs
+two machines for its air:
+
+14
+00:00:38,467 --> 00:00:40,367
+one to make oxygen, and one
+to
+
+15
+00:00:40,367 --> 00:00:42,233
+pull carbon dioxide back
+out.

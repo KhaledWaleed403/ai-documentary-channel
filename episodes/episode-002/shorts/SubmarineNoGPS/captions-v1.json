@@ -1,0 +1,116 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 8,
+   "end": 88,
+   "lines": [
+    "Once a submarine dives, GPS",
+    "is gone."
+   ]
+  },
+  {
+   "start": 108,
+   "end": 209,
+   "lines": [
+    "GPS works by radio, and",
+    "seawater soaks up radio"
+   ]
+  },
+  {
+   "start": 209,
+   "end": 309,
+   "lines": [
+    "its signals can't reach a",
+    "submerged submarine."
+   ]
+  },
+  {
+   "start": 329,
+   "end": 392,
+   "lines": [
+    "So the boat keeps track of",
+    "itself."
+   ]
+  },
+  {
+   "start": 392,
+   "end": 495,
+   "lines": [
+    "Gyroscopes sense every turn,",
+    "accelerometers sense every"
+   ]
+  },
+  {
+   "start": 495,
+   "end": 578,
+   "lines": [
+    "push and pull, and a",
+    "computer adds it all up."
+   ]
+  },
+  {
+   "start": 598,
+   "end": 663,
+   "lines": [
+    "The catch: tiny errors add",
+    "up too,"
+   ]
+  },
+  {
+   "start": 663,
+   "end": 722,
+   "lines": [
+    "and the estimate slowly",
+    "drifts."
+   ]
+  },
+  {
+   "start": 742,
+   "end": 847,
+   "lines": [
+    "So every so often it checks",
+    "against something outside"
+   ]
+  },
+  {
+   "start": 847,
+   "end": 954,
+   "lines": [
+    "for example, coming up near",
+    "the surface for a GPS fix,"
+   ]
+  },
+  {
+   "start": 954,
+   "end": 1034,
+   "lines": [
+    "or matching the seafloor",
+    "below to a map."
+   ]
+  },
+  {
+   "start": 1034,
+   "end": 1109,
+   "lines": [
+    "Methods vary between navies",
+    "and boats."
+   ]
+  },
+  {
+   "start": 1129,
+   "end": 1223,
+   "lines": [
+    "Navigation is just one of",
+    "the hidden systems in our"
+   ]
+  },
+  {
+   "start": 1223,
+   "end": 1262,
+   "lines": [
+    "full submarine video."
+   ]
+  }
+ ]
+}

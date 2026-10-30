@@ -11,7 +11,7 @@ Each stage has an output file and a gate that must pass before the next stage. R
 | 5 | Narration | Voiceover audio in `episodes/episode-NNN/<version>/assets/` | Final read recorded; scene timings updated from real audio |
 | 6 | Animation | Compositions/scenes in `src/` | Plays in Studio; `npm run lint` passes; matches storyboard |
 | 7 | Review | Notes in the episode folder | Accuracy, clarity, pacing, captions and accessibility checked |
-| 8 | Publishing | Render in `renders/episode-NNN/<version>/`, thumbnail in `thumbnails/episode-NNN/Long/<version>/` (Shorts: `Shorts/<ShortName>/<version>/`), titles and settings in `publication/episode-NNN/` | Title, description (with sources), captions, chapters uploaded |
+| 8 | Publishing | Render in `renders/episode-NNN/<version>/`, thumbnail in `thumbnails/episode-NNN/Long/<version>/` (Shorts: `Shorts/<ShortName>/<version>/`), publication package in `publication/episode-NNN/Long/<version>/` (Shorts: `Shorts/<ShortName>/<version>/`) | Title, description (with sources), captions, chapters uploaded |
 
 ## Stage notes
 1. **Research** — Start from primary sources (standards, papers, manufacturer docs, textbooks). Log every source with URL and access date.

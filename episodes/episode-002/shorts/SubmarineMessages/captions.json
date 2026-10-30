@@ -1,0 +1,124 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 7,
+   "end": 70,
+   "lines": [
+    "Seawater soaks up radio — so",
+    "how does"
+   ]
+  },
+  {
+   "start": 70,
+   "end": 125,
+   "lines": [
+    "a hidden submarine get a",
+    "message?"
+   ]
+  },
+  {
+   "start": 145,
+   "end": 252,
+   "lines": [
+    "The higher the frequency,",
+    "the faster it disappears."
+   ]
+  },
+  {
+   "start": 252,
+   "end": 319,
+   "lines": [
+    "Very-low-frequency radio",
+    "gets in"
+   ]
+  },
+  {
+   "start": 319,
+   "end": 422,
+   "lines": [
+    "but, according to the US",
+    "Navy, only tens of feet."
+   ]
+  },
+  {
+   "start": 442,
+   "end": 536,
+   "lines": [
+    "So to listen, a submarine",
+    "has to get an antenna up"
+   ]
+  },
+  {
+   "start": 536,
+   "end": 633,
+   "lines": [
+    "near the surface — which",
+    "limits how deep and fast it"
+   ]
+  },
+  {
+   "start": 633,
+   "end": 700,
+   "lines": [
+    "can go, and makes it easier",
+    "to spot."
+   ]
+  },
+  {
+   "start": 720,
+   "end": 817,
+   "lines": [
+    "The US also ran an",
+    "extremely-low-frequency"
+   ]
+  },
+  {
+   "start": 817,
+   "end": 932,
+   "lines": [
+    "system, at about 76 hertz,",
+    "that reached submarines"
+   ]
+  },
+  {
+   "start": 932,
+   "end": 1026,
+   "lines": [
+    "hundreds of feet down — but",
+    "only one way,"
+   ]
+  },
+  {
+   "start": 1026,
+   "end": 1102,
+   "lines": [
+    "slowly. It was shut down in",
+    "2004."
+   ]
+  },
+  {
+   "start": 1123,
+   "end": 1216,
+   "lines": [
+    "So every message to a hidden",
+    "submarine is a trade:"
+   ]
+  },
+  {
+   "start": 1216,
+   "end": 1292,
+   "lines": [
+    "to hear it, the boat gives",
+    "up some depth,"
+   ]
+  },
+  {
+   "start": 1292,
+   "end": 1324,
+   "lines": [
+    "speed or stealth."
+   ]
+  }
+ ]
+}

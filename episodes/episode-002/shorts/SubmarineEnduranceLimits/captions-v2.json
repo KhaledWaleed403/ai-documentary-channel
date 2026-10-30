@@ -1,0 +1,99 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 7,
+   "end": 76,
+   "lines": [
+    "A nuclear submarine cleans",
+    "its own air,"
+   ]
+  },
+  {
+   "start": 76,
+   "end": 171,
+   "lines": [
+    "and today's reactor cores",
+    "are rated for over a million"
+   ]
+  },
+  {
+   "start": 171,
+   "end": 238,
+   "lines": [
+    "miles — so why does it ever",
+    "come home?"
+   ]
+  },
+  {
+   "start": 259,
+   "end": 353,
+   "lines": [
+    "Unlike surface warships,",
+    "submarines are almost never"
+   ]
+  },
+  {
+   "start": 353,
+   "end": 438,
+   "lines": [
+    "resupplied at sea.",
+    "Everything the crew will eat"
+   ]
+  },
+  {
+   "start": 438,
+   "end": 489,
+   "lines": [
+    "is loaded before they leave."
+   ]
+  },
+  {
+   "start": 508,
+   "end": 602,
+   "lines": [
+    "Crews and machines need time",
+    "ashore too:"
+   ]
+  },
+  {
+   "start": 602,
+   "end": 712,
+   "lines": [
+    "US ballistic-missile",
+    "submarines average 77 days"
+   ]
+  },
+  {
+   "start": 712,
+   "end": 806,
+   "lines": [
+    "at sea, then 35 in port for",
+    "maintenance,"
+   ]
+  },
+  {
+   "start": 806,
+   "end": 872,
+   "lines": [
+    "with two crews taking turns."
+   ]
+  },
+  {
+   "start": 892,
+   "end": 965,
+   "lines": [
+    "Food, maintenance, the",
+    "people aboard and the"
+   ]
+  },
+  {
+   "start": 965,
+   "end": 1014,
+   "lines": [
+    "mission — those set the",
+    "clock."
+   ]
+  }
+ ]
+}
