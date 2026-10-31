@@ -7,6 +7,9 @@ import { Episode001ShortsThumbnailStills } from "./compositions/Episode001Shorts
 import { Episode002LongComposition } from "./compositions/Episode002Long";
 import { Episode002ShortsCompositions } from "./compositions/Episode002Shorts";
 import { Episode002ThumbnailStills } from "./compositions/Episode002Thumbnails";
+import { Episode003LongComposition } from "./compositions/Episode003Long";
+import { Episode003ShortsCompositions } from "./compositions/Episode003Shorts";
+import { Episode003ThumbnailStills } from "./compositions/Episode003Thumbnails";
 import { MyComposition } from "./Composition";
 
 export const RemotionRoot: React.FC = () => {
@@ -22,6 +25,9 @@ export const RemotionRoot: React.FC = () => {
       <Episode002LongComposition />
       <Episode002ShortsCompositions />
       <Episode002ThumbnailStills />
+      <Episode003LongComposition />
+      <Episode003ShortsCompositions />
+      <Episode003ThumbnailStills />
     </>
   );
 };

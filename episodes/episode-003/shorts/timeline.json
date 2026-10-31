@@ -1,0 +1,150 @@
+{
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "shorts": [
+  {
+   "name": "GravityAssistSpeed",
+   "number": 1,
+   "title": "How to Steal Speed From a Planet",
+   "durationInFrames": 1148,
+   "lines": [
+    {
+     "id": "T1-1",
+     "start": 6,
+     "end": 180,
+     "speechStart": 7,
+     "speechEnd": 167
+    },
+    {
+     "id": "T1-2",
+     "start": 185,
+     "end": 351,
+     "speechStart": 187,
+     "speechEnd": 337
+    },
+    {
+     "id": "T1-3",
+     "start": 356,
+     "end": 538,
+     "speechStart": 358,
+     "speechEnd": 525
+    },
+    {
+     "id": "T1-4",
+     "start": 543,
+     "end": 784,
+     "speechStart": 546,
+     "speechEnd": 770
+    },
+    {
+     "id": "T1-5",
+     "start": 789,
+     "end": 988,
+     "speechStart": 791,
+     "speechEnd": 975
+    },
+    {
+     "id": "T1-6",
+     "start": 993,
+     "end": 1103,
+     "speechStart": 994,
+     "speechEnd": 1090
+    }
+   ]
+  },
+  {
+   "name": "ReachingTheSun",
+   "number": 2,
+   "title": "How to Fall Into the Sun",
+   "durationInFrames": 1176,
+   "lines": [
+    {
+     "id": "T2-1",
+     "start": 6,
+     "end": 101,
+     "speechStart": 9,
+     "speechEnd": 88
+    },
+    {
+     "id": "T2-2",
+     "start": 106,
+     "end": 316,
+     "speechStart": 108,
+     "speechEnd": 303
+    },
+    {
+     "id": "T2-3",
+     "start": 321,
+     "end": 450,
+     "speechStart": 322,
+     "speechEnd": 434
+    },
+    {
+     "id": "T2-4",
+     "start": 455,
+     "end": 622,
+     "speechStart": 457,
+     "speechEnd": 609
+    },
+    {
+     "id": "T2-5",
+     "start": 627,
+     "end": 910,
+     "speechStart": 629,
+     "speechEnd": 897
+    },
+    {
+     "id": "T2-6",
+     "start": 915,
+     "end": 1131,
+     "speechStart": 916,
+     "speechEnd": 1117
+    }
+   ]
+  },
+  {
+   "name": "VoyagerAlignment",
+   "number": 3,
+   "title": "How to Fly to Uranus",
+   "durationInFrames": 1241,
+   "lines": [
+    {
+     "id": "T3-1",
+     "start": 6,
+     "end": 231,
+     "speechStart": 8,
+     "speechEnd": 218
+    },
+    {
+     "id": "T3-2",
+     "start": 236,
+     "end": 501,
+     "speechStart": 237,
+     "speechEnd": 488
+    },
+    {
+     "id": "T3-3",
+     "start": 506,
+     "end": 683,
+     "speechStart": 508,
+     "speechEnd": 670
+    },
+    {
+     "id": "T3-4",
+     "start": 688,
+     "end": 1007,
+     "speechStart": 690,
+     "speechEnd": 994
+    },
+    {
+     "id": "T3-5",
+     "start": 1012,
+     "end": 1196,
+     "speechStart": 1013,
+     "speechEnd": 1182
+    }
+   ]
+  }
+ ]
+}

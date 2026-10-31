@@ -11,6 +11,8 @@ Episode 002 (submarine life support, long-form 16:9 plus seven 9:16 Shorts) keep
 - `panels.tsx` holds the mechanism diagrams: `Hatch`, `DepthRuler`, `HullSection`, `FramedTube`, `Scrubber`, `Electrolyser`, `Cleaners`, `AirHud`, `GpsSurface`, `NavMap`, `InertialGlyphs`, `SoundRings`, `CoatingSection`, `LengthCompare`, `CommsColumn`, `ReactorLoops` and `ClockPanel`.
 - They stay episode-specific. `Checklist` and `Gauge` are candidates to promote to `src/components/` if a later episode needs them.
 
+Episode 003 (gravity assists, long-form 16:9) keeps its drawings in `src/scenes/episode003/`: `kit.tsx` (near-black star-field `Stage`, `ViewBadge` reference-frame badge, `SpeedBar`, `Jupiter`, `Planet`, `Sun`, `Craft`, `Inset`), `orbits.ts` (two-body maths: unpowered hyperbolic flyby `makeFlyby`, Kepler ellipse `ellipseAt`/`ellipsePath`), `flybyModel.ts` (the one demonstration flyby shared by Scenes 3–8 and its planet-frame / Sun-frame velocities) and the scene files. The planned `OrbitPath` and `FrameSwitch` stayed episode-specific as `orbits.ts` helpers and the Scene 5 frame-switch logic; promote them if a later episode needs them.
+
 Conventions: components live in `src/components/`, take data and style via props (no hardcoded episode content), are driven by `useCurrentFrame()`, and work at both 16:9 and 9:16. Timing helpers live in `src/animations/`, theme tokens in `src/styles/`.
 
 | Component | Purpose | Status |
@@ -24,6 +26,7 @@ Conventions: components live in `src/components/`, take data and style via props
 | `AudioCue` | One sound on the timeline: `<Sequence>` + `<Audio>` with frame-based fade in/out, volume, loop and an optional per-frame `gain` (e.g. ducking under narration). | done (ep. 001) |
 | `Captions` | Burned-in Short captions: one cue (one or two lines) at a time from frame-timed cues, on a translucent backing, with optional accent-coloured words; the block's bottom edge is set by the caller to stay out of platform UI. HTML overlay. | done (ep. 001 Shorts) |
 | `CameraFrame` | Full-frame wrapper for one slow camera move (zoom about an origin, pan, tilt), driven by the caller's frame math. | done (ep. 001 long-form) |
+| `VectorArrow` | Labelled vector arrow with draw-on; head style (`open`, `filled`, `double`) and dashing carry meaning alongside colour. SVG group. | done (ep. 003) |
 | `ScaleIndicator` | Ruler with a unit label that steps through a list (e.g. cm → nm) plus an optional caption (e.g. "slowed ~2,500,000,000×"). HTML overlay. | done (ep. 001 long-form) |
 
 ## Animation helpers (`src/animations/`)

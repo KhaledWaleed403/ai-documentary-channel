@@ -1,0 +1,513 @@
+{
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "durationInFrames": 10057,
+ "scenes": [
+  {
+   "scene": 1,
+   "start": 0,
+   "shots": [
+    "S01-1",
+    "S01-2",
+    "S01-3",
+    "S01-4"
+   ],
+   "end": 766
+  },
+  {
+   "scene": 2,
+   "start": 766,
+   "shots": [
+    "S02-1"
+   ],
+   "end": 963
+  },
+  {
+   "scene": 3,
+   "start": 963,
+   "shots": [
+    "S03-1",
+    "S03-2",
+    "S03-3",
+    "S03-4"
+   ],
+   "end": 1719
+  },
+  {
+   "scene": 4,
+   "start": 1719,
+   "shots": [
+    "S04-1",
+    "S04-2",
+    "S04-3"
+   ],
+   "end": 2246
+  },
+  {
+   "scene": 5,
+   "start": 2246,
+   "shots": [
+    "S05-1",
+    "S05-2",
+    "S05-3",
+    "S05-4"
+   ],
+   "end": 3122
+  },
+  {
+   "scene": 6,
+   "start": 3122,
+   "shots": [
+    "S06-1",
+    "S06-2",
+    "S06-3"
+   ],
+   "end": 3951
+  },
+  {
+   "scene": 7,
+   "start": 3951,
+   "shots": [
+    "S07-1",
+    "S07-2",
+    "S07-3",
+    "S07-4"
+   ],
+   "end": 4679
+  },
+  {
+   "scene": 8,
+   "start": 4679,
+   "shots": [
+    "S08-1",
+    "S08-2",
+    "S08-3",
+    "S08-4"
+   ],
+   "end": 5356
+  },
+  {
+   "scene": 9,
+   "start": 5356,
+   "shots": [
+    "S09-1",
+    "S09-2",
+    "S09-3",
+    "S09-4",
+    "S09-5"
+   ],
+   "end": 6819
+  },
+  {
+   "scene": 10,
+   "start": 6819,
+   "shots": [
+    "S10-1",
+    "S10-2",
+    "S10-3"
+   ],
+   "end": 7520
+  },
+  {
+   "scene": 11,
+   "start": 7520,
+   "shots": [
+    "S11-1",
+    "S11-2",
+    "S11-3"
+   ],
+   "end": 8247
+  },
+  {
+   "scene": 12,
+   "start": 8247,
+   "shots": [
+    "S12-1",
+    "S12-2"
+   ],
+   "end": 8778
+  },
+  {
+   "scene": 13,
+   "start": 8778,
+   "shots": [
+    "S13-1",
+    "S13-2",
+    "S13-3"
+   ],
+   "end": 9556
+  },
+  {
+   "scene": 14,
+   "start": 9556,
+   "shots": [
+    "S14-1",
+    "S14-2"
+   ],
+   "end": 10057
+  }
+ ],
+ "shots": [
+  {
+   "id": "S01-1",
+   "scene": 1,
+   "start": 24,
+   "end": 178,
+   "speechStart": 26,
+   "speechEnd": 165
+  },
+  {
+   "id": "S01-2",
+   "scene": 1,
+   "start": 188,
+   "end": 496,
+   "speechStart": 191,
+   "speechEnd": 483
+  },
+  {
+   "id": "S01-3",
+   "scene": 1,
+   "start": 506,
+   "end": 666,
+   "speechStart": 508,
+   "speechEnd": 653
+  },
+  {
+   "id": "S01-4",
+   "scene": 1,
+   "start": 676,
+   "end": 754,
+   "speechStart": 678,
+   "speechEnd": 740
+  },
+  {
+   "id": "S02-1",
+   "scene": 2,
+   "start": 772,
+   "end": 951,
+   "speechStart": 774,
+   "speechEnd": 938
+  },
+  {
+   "id": "S03-1",
+   "scene": 3,
+   "start": 969,
+   "end": 1095,
+   "speechStart": 970,
+   "speechEnd": 1082
+  },
+  {
+   "id": "S03-2",
+   "scene": 3,
+   "start": 1105,
+   "end": 1222,
+   "speechStart": 1107,
+   "speechEnd": 1209
+  },
+  {
+   "id": "S03-3",
+   "scene": 3,
+   "start": 1232,
+   "end": 1397,
+   "speechStart": 1234,
+   "speechEnd": 1383
+  },
+  {
+   "id": "S03-4",
+   "scene": 3,
+   "start": 1407,
+   "end": 1707,
+   "speechStart": 1409,
+   "speechEnd": 1693
+  },
+  {
+   "id": "S04-1",
+   "scene": 4,
+   "start": 1725,
+   "end": 1883,
+   "speechStart": 1727,
+   "speechEnd": 1870
+  },
+  {
+   "id": "S04-2",
+   "scene": 4,
+   "start": 1893,
+   "end": 2114,
+   "speechStart": 1895,
+   "speechEnd": 2101
+  },
+  {
+   "id": "S04-3",
+   "scene": 4,
+   "start": 2124,
+   "end": 2234,
+   "speechStart": 2126,
+   "speechEnd": 2220
+  },
+  {
+   "id": "S05-1",
+   "scene": 5,
+   "start": 2252,
+   "end": 2516,
+   "speechStart": 2254,
+   "speechEnd": 2502
+  },
+  {
+   "id": "S05-2",
+   "scene": 5,
+   "start": 2526,
+   "end": 2760,
+   "speechStart": 2527,
+   "speechEnd": 2746
+  },
+  {
+   "id": "S05-3",
+   "scene": 5,
+   "start": 2770,
+   "end": 2990,
+   "speechStart": 2772,
+   "speechEnd": 2977
+  },
+  {
+   "id": "S05-4",
+   "scene": 5,
+   "start": 3000,
+   "end": 3110,
+   "speechStart": 3001,
+   "speechEnd": 3097
+  },
+  {
+   "id": "S06-1",
+   "scene": 6,
+   "start": 3128,
+   "end": 3441,
+   "speechStart": 3130,
+   "speechEnd": 3428
+  },
+  {
+   "id": "S06-2",
+   "scene": 6,
+   "start": 3451,
+   "end": 3656,
+   "speechStart": 3453,
+   "speechEnd": 3643
+  },
+  {
+   "id": "S06-3",
+   "scene": 6,
+   "start": 3666,
+   "end": 3939,
+   "speechStart": 3668,
+   "speechEnd": 3925
+  },
+  {
+   "id": "S07-1",
+   "scene": 7,
+   "start": 3957,
+   "end": 4070,
+   "speechStart": 3958,
+   "speechEnd": 4056
+  },
+  {
+   "id": "S07-2",
+   "scene": 7,
+   "start": 4080,
+   "end": 4375,
+   "speechStart": 4082,
+   "speechEnd": 4362
+  },
+  {
+   "id": "S07-3",
+   "scene": 7,
+   "start": 4385,
+   "end": 4561,
+   "speechStart": 4387,
+   "speechEnd": 4547
+  },
+  {
+   "id": "S07-4",
+   "scene": 7,
+   "start": 4571,
+   "end": 4667,
+   "speechStart": 4573,
+   "speechEnd": 4653
+  },
+  {
+   "id": "S08-1",
+   "scene": 8,
+   "start": 4685,
+   "end": 4758,
+   "speechStart": 4688,
+   "speechEnd": 4745
+  },
+  {
+   "id": "S08-2",
+   "scene": 8,
+   "start": 4768,
+   "end": 4913,
+   "speechStart": 4770,
+   "speechEnd": 4900
+  },
+  {
+   "id": "S08-3",
+   "scene": 8,
+   "start": 4923,
+   "end": 5049,
+   "speechStart": 4925,
+   "speechEnd": 5036
+  },
+  {
+   "id": "S08-4",
+   "scene": 8,
+   "start": 5059,
+   "end": 5344,
+   "speechStart": 5061,
+   "speechEnd": 5331
+  },
+  {
+   "id": "S09-1",
+   "scene": 9,
+   "start": 5362,
+   "end": 5714,
+   "speechStart": 5364,
+   "speechEnd": 5701
+  },
+  {
+   "id": "S09-2",
+   "scene": 9,
+   "start": 5724,
+   "end": 5955,
+   "speechStart": 5726,
+   "speechEnd": 5941
+  },
+  {
+   "id": "S09-3",
+   "scene": 9,
+   "start": 5965,
+   "end": 6256,
+   "speechStart": 5967,
+   "speechEnd": 6242
+  },
+  {
+   "id": "S09-4",
+   "scene": 9,
+   "start": 6266,
+   "end": 6560,
+   "speechStart": 6268,
+   "speechEnd": 6547
+  },
+  {
+   "id": "S09-5",
+   "scene": 9,
+   "start": 6570,
+   "end": 6807,
+   "speechStart": 6572,
+   "speechEnd": 6794
+  },
+  {
+   "id": "S10-1",
+   "scene": 10,
+   "start": 6825,
+   "end": 7050,
+   "speechStart": 6827,
+   "speechEnd": 7036
+  },
+  {
+   "id": "S10-2",
+   "scene": 10,
+   "start": 7060,
+   "end": 7292,
+   "speechStart": 7062,
+   "speechEnd": 7279
+  },
+  {
+   "id": "S10-3",
+   "scene": 10,
+   "start": 7302,
+   "end": 7508,
+   "speechStart": 7304,
+   "speechEnd": 7495
+  },
+  {
+   "id": "S11-1",
+   "scene": 11,
+   "start": 7526,
+   "end": 7770,
+   "speechStart": 7528,
+   "speechEnd": 7757
+  },
+  {
+   "id": "S11-2",
+   "scene": 11,
+   "start": 7780,
+   "end": 7893,
+   "speechStart": 7782,
+   "speechEnd": 7880
+  },
+  {
+   "id": "S11-3",
+   "scene": 11,
+   "start": 7903,
+   "end": 8235,
+   "speechStart": 7904,
+   "speechEnd": 8222
+  },
+  {
+   "id": "S12-1",
+   "scene": 12,
+   "start": 8253,
+   "end": 8687,
+   "speechStart": 8255,
+   "speechEnd": 8674
+  },
+  {
+   "id": "S12-2",
+   "scene": 12,
+   "start": 8697,
+   "end": 8766,
+   "speechStart": 8699,
+   "speechEnd": 8753
+  },
+  {
+   "id": "S13-1",
+   "scene": 13,
+   "start": 8784,
+   "end": 9103,
+   "speechStart": 8785,
+   "speechEnd": 9089
+  },
+  {
+   "id": "S13-2",
+   "scene": 13,
+   "start": 9113,
+   "end": 9301,
+   "speechStart": 9114,
+   "speechEnd": 9288
+  },
+  {
+   "id": "S13-3",
+   "scene": 13,
+   "start": 9311,
+   "end": 9544,
+   "speechStart": 9315,
+   "speechEnd": 9530
+  },
+  {
+   "id": "S14-1",
+   "scene": 14,
+   "start": 9562,
+   "end": 9796,
+   "speechStart": 9564,
+   "speechEnd": 9782
+  },
+  {
+   "id": "S14-2",
+   "scene": 14,
+   "start": 9806,
+   "end": 9907,
+   "speechStart": 9808,
+   "speechEnd": 9894
+  }
+ ]
+}

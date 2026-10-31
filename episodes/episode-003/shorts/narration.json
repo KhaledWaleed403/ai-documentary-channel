@@ -1,0 +1,97 @@
+{
+  "episode": "episode-003",
+  "version": "shorts-v1",
+  "script": "episodes/episode-003/shorts/scripts.md",
+  "note": "Display text is the Shorts script wording. Spoken text is derived by scripts/audio/generate-ep003-vo.py and recorded in shorts/assets/audio/vo/manifest.json.",
+  "shorts": [
+    {
+      "name": "GravityAssistSpeed",
+      "number": 1,
+      "title": "How to Steal Speed From a Planet",
+      "lines": [
+        {
+          "id": "T1-1",
+          "text": "A spacecraft can fly past a planet, fire no engines, and leave faster than it arrived."
+        },
+        {
+          "id": "T1-2",
+          "text": "Watch from the planet first. Gravity pulls it in, swings it around, and lets it go."
+        },
+        {
+          "id": "T1-3",
+          "text": "Measured from the planet, it leaves about as fast as it arrived. Only its direction has changed."
+        },
+        {
+          "id": "T1-4",
+          "text": "But the planet is moving around the Sun. Seen from the Sun, that curve is carried along with it, and the spacecraft leaves faster."
+        },
+        {
+          "id": "T1-5",
+          "text": "The energy isn't free. It's borrowed from the planet's own orbit, by an almost imperceptible amount."
+        },
+        {
+          "id": "T1-6",
+          "text": "Same flyby. Two answers. Both of them right."
+        }
+      ]
+    },
+    {
+      "name": "ReachingTheSun",
+      "number": 2,
+      "title": "How to Fall Into the Sun",
+      "lines": [
+        {
+          "id": "T2-1",
+          "text": "Falling into the Sun sounds easy. It isn't."
+        },
+        {
+          "id": "T2-2",
+          "text": "Earth is racing sideways around the Sun at about thirty kilometres a second. And so is everything we launch from it."
+        },
+        {
+          "id": "T2-3",
+          "text": "Aim straight at the Sun, and that sideways speed carries you right past it."
+        },
+        {
+          "id": "T2-4",
+          "text": "NASA's Parker Solar Probe needed to shed about fifty-three thousand miles per hour of it."
+        },
+        {
+          "id": "T2-5",
+          "text": "So it flew past Venus seven times. Together, those flybys reduced its orbital energy around the Sun, and its orbit reached closer in."
+        },
+        {
+          "id": "T2-6",
+          "text": "Then it fell. On Christmas Eve, twenty twenty-four, it passed closer to the Sun than any spacecraft before it."
+        }
+      ]
+    },
+    {
+      "name": "VoyagerAlignment",
+      "number": 3,
+      "title": "How to Fly to Uranus",
+      "lines": [
+        {
+          "id": "T3-1",
+          "text": "One spacecraft. Four giant planets. One trip. That only works if the planets are in just the right places."
+        },
+        {
+          "id": "T3-2",
+          "text": "In the late nineteen-seventies, they drifted into a favourable alignment, one that comes around roughly once every hundred and seventy-five years."
+        },
+        {
+          "id": "T3-3",
+          "text": "Not a straight line. But it made a journey past all four possible, and Voyager 2 took it."
+        },
+        {
+          "id": "T3-4",
+          "text": "At Jupiter, gravity bent its path toward Saturn. At Saturn, toward Uranus. At Uranus, toward Neptune, which it reached in nineteen eighty-nine."
+        },
+        {
+          "id": "T3-5",
+          "text": "Each flyby reshaped its route. Measured from the Sun, together they more than doubled its speed."
+        }
+      ]
+    }
+  ]
+}

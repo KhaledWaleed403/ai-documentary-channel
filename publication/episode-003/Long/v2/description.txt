@@ -1,0 +1,43 @@
+In 1977, Voyager 2 left Earth without enough speed to escape the Sun. Then it flew past Jupiter, fired no engines, and came out on a path to the edge of the Solar System. Where did that speed come from?
+
+This video explains gravity assists, the trick that sent Voyager 2 past all four giant planets and let Parker Solar Probe pass closer to the Sun than any spacecraft before it. The key is a change of view: seen from the planet, a flyby only turns a spacecraft. Seen from the Sun, that same turn can make it faster, or slower.
+
+Questions this video answers:
+• How can flying past a planet make a spacecraft faster without using fuel?
+• Where does the extra energy come from, and does the planet slow down?
+• Why did Voyager 2 need a favourable alignment that comes around roughly once every 175 years?
+• Why is it so hard to reach the Sun?
+• How did seven Venus flybys bring Parker Solar Probe to its record-close pass?
+
+Chapters
+00:00 A path that should have turned back
+00:32 The flyby, seen from the planet
+00:57 Same speed, new direction
+01:14 The switch: seen from the Sun
+01:44 Adding the arrows
+02:11 Who pays?
+02:35 Behind or in front
+02:58 A favourable alignment
+03:47 Why the Sun is hard to reach
+04:10 Seven Venus flybys
+04:34 Fastest by slowing down
+04:52 The whole picture
+05:18 Where it leaves us
+
+Sources and further reading
+• NASA — Basics of Space Flight, Ch. 4: Trajectories (gravity assists): https://science.nasa.gov/learn/basics-of-space-flight/chapter4-1/
+• NASA — A Gravity Assist Primer: https://science.nasa.gov/learn/basics-of-space-flight/primer/
+• NASA — Planetary Fact Sheet: https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+• NASA — Voyager 2 mission page: https://science.nasa.gov/mission/voyager/voyager-2/
+• NASA — Voyager 1 mission page: https://science.nasa.gov/mission/voyager/voyager-1/
+• NASA — 45 Years Ago, Voyager 1 Begins Its Epic Journey to the Outer Planets and Beyond: https://www.nasa.gov/technology/45-years-ago-voyager-1-begins-its-epic-journey-to-the-outer-planets-and-beyond
+• NASA — Voyager 1: What Is a Light-Day?: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/
+• NASA Goddard — It's Surprisingly Hard to Go to the Sun: https://svs.gsfc.nasa.gov/13017
+• NASA — Parker Solar Probe Makes History With Closest Pass to Sun: https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-makes-history-with-closest-pass-to-sun/
+• J. A. Van Allen (2003), Gravitational assist in celestial mechanics — a tutorial, Am. J. Phys. 71, 448: https://doi.org/10.1119/1.1539102
+
+Luminexplain makes invisible processes visible: animated explainers of how things actually work, built from checked sources. Subscribe for the next one.
+
+Animation and script: Luminexplain. Narration: synthetic voice (Kokoro-82M). No music.
+
+#space #physics #voyager

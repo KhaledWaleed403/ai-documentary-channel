@@ -1,0 +1,59 @@
+1
+00:00:00,233 --> 00:00:02,433
+A spacecraft can fly past
+a planet,
+
+2
+00:00:02,433 --> 00:00:05,567
+fire no engines, and leave
+faster than it arrived.
+
+3
+00:00:06,233 --> 00:00:09,233
+Watch from the planet first.
+Gravity pulls it in,
+
+4
+00:00:09,233 --> 00:00:11,233
+swings it around, and lets
+it go.
+
+5
+00:00:11,933 --> 00:00:15,133
+Measured from the planet, it
+leaves about as fast as it
+
+6
+00:00:15,133 --> 00:00:17,500
+arrived. Only its direction
+has changed.
+
+7
+00:00:18,200 --> 00:00:20,533
+But the planet is moving
+around the Sun.
+
+8
+00:00:20,533 --> 00:00:23,533
+Seen from the Sun, that
+curve is carried along with
+
+9
+00:00:23,533 --> 00:00:25,667
+it, and the spacecraft
+leaves faster.
+
+10
+00:00:26,367 --> 00:00:29,700
+The energy isn't free. It's
+borrowed from the planet's
+
+11
+00:00:29,700 --> 00:00:32,500
+own orbit, by an almost
+imperceptible amount.
+
+12
+00:00:33,133 --> 00:00:36,333
+Same flyby. Two answers.
+Both of them right.

@@ -1,0 +1,683 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 26,
+   "end": 165,
+   "lines": [
+    "In 1977, a rocket sent Voyager 2 on its",
+    "way toward Jupiter."
+   ]
+  },
+  {
+   "start": 191,
+   "end": 275,
+   "lines": [
+    "On its own, that launch wasn't enough",
+    "to escape."
+   ]
+  },
+  {
+   "start": 275,
+   "end": 387,
+   "lines": [
+    "Without Jupiter, its path would have",
+    "curved back toward the Sun,"
+   ]
+  },
+  {
+   "start": 387,
+   "end": 483,
+   "lines": [
+    "never getting much farther out than",
+    "Jupiter's distance."
+   ]
+  },
+  {
+   "start": 508,
+   "end": 576,
+   "lines": [
+    "Instead, it bent at Jupiter. Then"
+   ]
+  },
+  {
+   "start": 576,
+   "end": 653,
+   "lines": [
+    "at Saturn. Then Uranus. Then Neptune."
+   ]
+  },
+  {
+   "start": 678,
+   "end": 740,
+   "lines": [
+    "Today, it's in interstellar space."
+   ]
+  },
+  {
+   "start": 774,
+   "end": 873,
+   "lines": [
+    "So how can flying past a planet make a",
+    "spacecraft faster?"
+   ]
+  },
+  {
+   "start": 873,
+   "end": 938,
+   "lines": [
+    "The answer depends on who's watching."
+   ]
+  },
+  {
+   "start": 970,
+   "end": 1050,
+   "lines": [
+    "Let's watch from the planet first. In",
+    "this view,"
+   ]
+  },
+  {
+   "start": 1050,
+   "end": 1082,
+   "lines": [
+    "Jupiter sits still."
+   ]
+  },
+  {
+   "start": 1107,
+   "end": 1209,
+   "lines": [
+    "Our spacecraft falls toward it, and speeds",
+    "up as it drops in."
+   ]
+  },
+  {
+   "start": 1234,
+   "end": 1316,
+   "lines": [
+    "It swings around, and starts climbing",
+    "back out."
+   ]
+  },
+  {
+   "start": 1316,
+   "end": 1383,
+   "lines": [
+    "And climbing out, it slows down again."
+   ]
+  },
+  {
+   "start": 1409,
+   "end": 1499,
+   "lines": [
+    "By the time it's clear, with no",
+    "engines firing,"
+   ]
+  },
+  {
+   "start": 1499,
+   "end": 1630,
+   "lines": [
+    "it's moving about as fast as when it",
+    "arrived. Measured from Jupiter,"
+   ]
+  },
+  {
+   "start": 1630,
+   "end": 1693,
+   "lines": [
+    "the flyby gave it no extra speed."
+   ]
+  },
+  {
+   "start": 1727,
+   "end": 1833,
+   "lines": [
+    "But something did change. Look at the",
+    "arrows. Same length."
+   ]
+  },
+  {
+   "start": 1833,
+   "end": 1870,
+   "lines": [
+    "Different direction."
+   ]
+  },
+  {
+   "start": 1895,
+   "end": 1992,
+   "lines": [
+    "That's the difference between speed",
+    "and velocity."
+   ]
+  },
+  {
+   "start": 1992,
+   "end": 2101,
+   "lines": [
+    "Speed is how fast. Velocity is how fast,",
+    "and which way."
+   ]
+  },
+  {
+   "start": 2126,
+   "end": 2220,
+   "lines": [
+    "The flyby left the speed alone. It turned",
+    "the velocity."
+   ]
+  },
+  {
+   "start": 2254,
+   "end": 2398,
+   "lines": [
+    "Now let's watch the same flyby from the",
+    "Sun. And here's what the first view hid:"
+   ]
+  },
+  {
+   "start": 2398,
+   "end": 2502,
+   "lines": [
+    "Jupiter isn't standing still. It's moving",
+    "along its orbit."
+   ]
+  },
+  {
+   "start": 2527,
+   "end": 2644,
+   "lines": [
+    "The spacecraft still follows the same kind",
+    "of curve around Jupiter."
+   ]
+  },
+  {
+   "start": 2644,
+   "end": 2746,
+   "lines": [
+    "But now that curve is moving through space",
+    "with the planet."
+   ]
+  },
+  {
+   "start": 2772,
+   "end": 2856,
+   "lines": [
+    "Measured from Jupiter, the speed",
+    "didn't change."
+   ]
+  },
+  {
+   "start": 2856,
+   "end": 2977,
+   "lines": [
+    "Measured from the Sun, the spacecraft",
+    "leaves faster than it arrived."
+   ]
+  },
+  {
+   "start": 3001,
+   "end": 3097,
+   "lines": [
+    "Same flyby. Two answers. Both of",
+    "them right."
+   ]
+  },
+  {
+   "start": 3130,
+   "end": 3278,
+   "lines": [
+    "Here's why. Seen from the Sun, the",
+    "spacecraft's velocity is two arrows added"
+   ]
+  },
+  {
+   "start": 3278,
+   "end": 3428,
+   "lines": [
+    "together. Jupiter's motion, plus the",
+    "spacecraft's motion relative to Jupiter."
+   ]
+  },
+  {
+   "start": 3453,
+   "end": 3546,
+   "lines": [
+    "During the flyby, Jupiter's arrow",
+    "barely changes."
+   ]
+  },
+  {
+   "start": 3546,
+   "end": 3643,
+   "lines": [
+    "The spacecraft's arrow keeps its length,",
+    "but turns."
+   ]
+  },
+  {
+   "start": 3668,
+   "end": 3809,
+   "lines": [
+    "Turned to point more along Jupiter's",
+    "motion, the two arrows add up to a longer"
+   ]
+  },
+  {
+   "start": 3809,
+   "end": 3925,
+   "lines": [
+    "one. That longer arrow is the speed gain,",
+    "measured from the Sun."
+   ]
+  },
+  {
+   "start": 3958,
+   "end": 4056,
+   "lines": [
+    "So where does that extra energy come from?",
+    "Not from nowhere."
+   ]
+  },
+  {
+   "start": 4082,
+   "end": 4235,
+   "lines": [
+    "The spacecraft's gravity pulls on Jupiter",
+    "too. As the spacecraft gains orbital"
+   ]
+  },
+  {
+   "start": 4235,
+   "end": 4362,
+   "lines": [
+    "energy, Jupiter gives up a tiny amount of",
+    "its own orbital energy."
+   ]
+  },
+  {
+   "start": 4387,
+   "end": 4507,
+   "lines": [
+    "Jupiter is so massive that the change is",
+    "almost imperceptible."
+   ]
+  },
+  {
+   "start": 4507,
+   "end": 4547,
+   "lines": [
+    "Its orbit carries on."
+   ]
+  },
+  {
+   "start": 4573,
+   "end": 4653,
+   "lines": [
+    "The spacecraft didn't make speed. It",
+    "borrowed it."
+   ]
+  },
+  {
+   "start": 4688,
+   "end": 4745,
+   "lines": [
+    "Which way it turns decides everything."
+   ]
+  },
+  {
+   "start": 4770,
+   "end": 4865,
+   "lines": [
+    "Pass behind a moving planet, and you can",
+    "leave faster,"
+   ]
+  },
+  {
+   "start": 4865,
+   "end": 4900,
+   "lines": [
+    "relative to the Sun."
+   ]
+  },
+  {
+   "start": 4925,
+   "end": 5008,
+   "lines": [
+    "Pass in front of it, and the turn works",
+    "against you."
+   ]
+  },
+  {
+   "start": 5008,
+   "end": 5036,
+   "lines": [
+    "You leave slower."
+   ]
+  },
+  {
+   "start": 5061,
+   "end": 5223,
+   "lines": [
+    "So a flyby can be an accelerator, or a",
+    "brake. Galileo skimmed past Jupiter's moon"
+   ]
+  },
+  {
+   "start": 5223,
+   "end": 5331,
+   "lines": [
+    "Io to shed energy, and saved ninety",
+    "kilograms of fuel."
+   ]
+  },
+  {
+   "start": 5364,
+   "end": 5464,
+   "lines": [
+    "Now for the real thing. In the",
+    "late nineteen-seventies,"
+   ]
+  },
+  {
+   "start": 5464,
+   "end": 5571,
+   "lines": [
+    "the four giant planets drifted into a",
+    "favourable alignment,"
+   ]
+  },
+  {
+   "start": 5571,
+   "end": 5701,
+   "lines": [
+    "one that comes around roughly once every",
+    "hundred and seventy-five years."
+   ]
+  },
+  {
+   "start": 5726,
+   "end": 5827,
+   "lines": [
+    "The alignment made a journey past all",
+    "four possible."
+   ]
+  },
+  {
+   "start": 5827,
+   "end": 5941,
+   "lines": [
+    "Voyager 2's trajectory kept that door",
+    "open. And it took it."
+   ]
+  },
+  {
+   "start": 5967,
+   "end": 6072,
+   "lines": [
+    "At Jupiter, its path bent toward Saturn.",
+    "At Saturn,"
+   ]
+  },
+  {
+   "start": 6072,
+   "end": 6242,
+   "lines": [
+    "toward Uranus. At Uranus, toward Neptune,",
+    "which it reached in nineteen eighty-nine."
+   ]
+  },
+  {
+   "start": 6268,
+   "end": 6434,
+   "lines": [
+    "Its twin, Voyager 1, took a different",
+    "road. A close pass by Saturn's moon Titan"
+   ]
+  },
+  {
+   "start": 6434,
+   "end": 6547,
+   "lines": [
+    "sent it away from any further",
+    "giant-planet encounters."
+   ]
+  },
+  {
+   "start": 6572,
+   "end": 6691,
+   "lines": [
+    "Measured from the Sun, those flybys more",
+    "than doubled Voyager 2's speed."
+   ]
+  },
+  {
+   "start": 6691,
+   "end": 6794,
+   "lines": [
+    "And that dashed path is where it would",
+    "have gone without them."
+   ]
+  },
+  {
+   "start": 6827,
+   "end": 6921,
+   "lines": [
+    "So if a planet can fling you out of the",
+    "Solar System,"
+   ]
+  },
+  {
+   "start": 6921,
+   "end": 6974,
+   "lines": [
+    "falling into the Sun should be"
+   ]
+  },
+  {
+   "start": 6974,
+   "end": 7036,
+   "lines": [
+    "easy. It's just falling, after all."
+   ]
+  },
+  {
+   "start": 7062,
+   "end": 7194,
+   "lines": [
+    "The catch: Earth is racing sideways around",
+    "the Sun at about thirty kilometres"
+   ]
+  },
+  {
+   "start": 7194,
+   "end": 7279,
+   "lines": [
+    "a second. And so is everything we launch",
+    "from it."
+   ]
+  },
+  {
+   "start": 7304,
+   "end": 7430,
+   "lines": [
+    "Aim straight at the Sun, and that sideways",
+    "speed carries you right past it."
+   ]
+  },
+  {
+   "start": 7430,
+   "end": 7495,
+   "lines": [
+    "To fall in, you have to get rid of it."
+   ]
+  },
+  {
+   "start": 7528,
+   "end": 7621,
+   "lines": [
+    "That was the problem facing NASA's Parker",
+    "Solar Probe."
+   ]
+  },
+  {
+   "start": 7621,
+   "end": 7757,
+   "lines": [
+    "It needed to shed about fifty-three",
+    "thousand miles per hour of sideways speed."
+   ]
+  },
+  {
+   "start": 7782,
+   "end": 7880,
+   "lines": [
+    "So it used the brake. It flew past Venus",
+    "seven times."
+   ]
+  },
+  {
+   "start": 7904,
+   "end": 8041,
+   "lines": [
+    "Taken together, those flybys reduced its",
+    "orbital energy around the Sun,"
+   ]
+  },
+  {
+   "start": 8041,
+   "end": 8128,
+   "lines": [
+    "letting its orbit reach closer and",
+    "closer in."
+   ]
+  },
+  {
+   "start": 8128,
+   "end": 8222,
+   "lines": [
+    "The last one came in November",
+    "twenty twenty-four."
+   ]
+  },
+  {
+   "start": 8255,
+   "end": 8352,
+   "lines": [
+    "Here's the twist. With its orbital",
+    "energy reduced,"
+   ]
+  },
+  {
+   "start": 8352,
+   "end": 8450,
+   "lines": [
+    "Parker fell deep toward the Sun. On",
+    "Christmas Eve,"
+   ]
+  },
+  {
+   "start": 8450,
+   "end": 8598,
+   "lines": [
+    "twenty twenty-four, it passed about six",
+    "million kilometres from the surface,"
+   ]
+  },
+  {
+   "start": 8598,
+   "end": 8674,
+   "lines": [
+    "faster than anything humans have built."
+   ]
+  },
+  {
+   "start": 8699,
+   "end": 8753,
+   "lines": [
+    "It got there by slowing down first."
+   ]
+  },
+  {
+   "start": 8785,
+   "end": 8880,
+   "lines": [
+    "So here's the whole trick, in three",
+    "parts. One:"
+   ]
+  },
+  {
+   "start": 8880,
+   "end": 8997,
+   "lines": [
+    "change your view. From the planet, a flyby",
+    "only turns you."
+   ]
+  },
+  {
+   "start": 8997,
+   "end": 9089,
+   "lines": [
+    "From the Sun, that turn can change",
+    "your speed."
+   ]
+  },
+  {
+   "start": 9114,
+   "end": 9194,
+   "lines": [
+    "Two: nothing is created. Orbital energy is"
+   ]
+  },
+  {
+   "start": 9194,
+   "end": 9288,
+   "lines": [
+    "transferred between the spacecraft and",
+    "the planet."
+   ]
+  },
+  {
+   "start": 9315,
+   "end": 9425,
+   "lines": [
+    "Three: aim decides. Relative to the Sun,",
+    "pass behind,"
+   ]
+  },
+  {
+   "start": 9425,
+   "end": 9530,
+   "lines": [
+    "and you speed up. Pass in front, and you",
+    "slow down."
+   ]
+  },
+  {
+   "start": 9564,
+   "end": 9682,
+   "lines": [
+    "Voyager 1 is still heading out. On the",
+    "eighteenth of November,"
+   ]
+  },
+  {
+   "start": 9682,
+   "end": 9782,
+   "lines": [
+    "twenty twenty-six, it crosses the",
+    "one-light-day mark."
+   ]
+  },
+  {
+   "start": 9808,
+   "end": 9894,
+   "lines": [
+    "A message from home will take almost a day",
+    "to reach it."
+   ]
+  }
+ ]
+}

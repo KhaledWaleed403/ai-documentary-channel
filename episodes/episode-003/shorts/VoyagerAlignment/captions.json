@@ -1,0 +1,122 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 8,
+   "end": 79,
+   "lines": [
+    "One spacecraft. Four",
+    "giant planets."
+   ]
+  },
+  {
+   "start": 79,
+   "end": 129,
+   "lines": [
+    "One trip. That only works"
+   ]
+  },
+  {
+   "start": 129,
+   "end": 218,
+   "lines": [
+    "if the planets are in just",
+    "the right places."
+   ]
+  },
+  {
+   "start": 237,
+   "end": 291,
+   "lines": [
+    "In the",
+    "late nineteen-seventies,"
+   ]
+  },
+  {
+   "start": 291,
+   "end": 363,
+   "lines": [
+    "they drifted into a",
+    "favourable alignment,"
+   ]
+  },
+  {
+   "start": 363,
+   "end": 447,
+   "lines": [
+    "one that comes around",
+    "roughly once every hundred"
+   ]
+  },
+  {
+   "start": 447,
+   "end": 488,
+   "lines": [
+    "and seventy-five years."
+   ]
+  },
+  {
+   "start": 508,
+   "end": 611,
+   "lines": [
+    "Not a straight line. But it",
+    "made a journey past all four"
+   ]
+  },
+  {
+   "start": 611,
+   "end": 670,
+   "lines": [
+    "possible, and Voyager 2",
+    "took it."
+   ]
+  },
+  {
+   "start": 690,
+   "end": 794,
+   "lines": [
+    "At Jupiter, gravity bent its",
+    "path toward Saturn."
+   ]
+  },
+  {
+   "start": 794,
+   "end": 872,
+   "lines": [
+    "At Saturn, toward Uranus.",
+    "At Uranus,"
+   ]
+  },
+  {
+   "start": 872,
+   "end": 924,
+   "lines": [
+    "toward Neptune, which it"
+   ]
+  },
+  {
+   "start": 924,
+   "end": 994,
+   "lines": [
+    "reached in",
+    "nineteen eighty-nine."
+   ]
+  },
+  {
+   "start": 1013,
+   "end": 1091,
+   "lines": [
+    "Each flyby reshaped its",
+    "route. Measured from"
+   ]
+  },
+  {
+   "start": 1091,
+   "end": 1182,
+   "lines": [
+    "the Sun, together they more",
+    "than doubled its speed."
+   ]
+  }
+ ]
+}

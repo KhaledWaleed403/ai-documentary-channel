@@ -1,0 +1,101 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 7,
+   "end": 73,
+   "lines": [
+    "A spacecraft can fly past",
+    "a planet,"
+   ]
+  },
+  {
+   "start": 73,
+   "end": 167,
+   "lines": [
+    "fire no engines, and leave",
+    "faster than it arrived."
+   ]
+  },
+  {
+   "start": 187,
+   "end": 277,
+   "lines": [
+    "Watch from the planet first.",
+    "Gravity pulls it in,"
+   ]
+  },
+  {
+   "start": 277,
+   "end": 337,
+   "lines": [
+    "swings it around, and lets",
+    "it go."
+   ]
+  },
+  {
+   "start": 358,
+   "end": 454,
+   "lines": [
+    "Measured from the planet, it",
+    "leaves about as fast as it"
+   ]
+  },
+  {
+   "start": 454,
+   "end": 525,
+   "lines": [
+    "arrived. Only its direction",
+    "has changed."
+   ]
+  },
+  {
+   "start": 546,
+   "end": 616,
+   "lines": [
+    "But the planet is moving",
+    "around the Sun."
+   ]
+  },
+  {
+   "start": 616,
+   "end": 706,
+   "lines": [
+    "Seen from the Sun, that",
+    "curve is carried along with"
+   ]
+  },
+  {
+   "start": 706,
+   "end": 770,
+   "lines": [
+    "it, and the spacecraft",
+    "leaves faster."
+   ]
+  },
+  {
+   "start": 791,
+   "end": 891,
+   "lines": [
+    "The energy isn't free. It's",
+    "borrowed from the planet's"
+   ]
+  },
+  {
+   "start": 891,
+   "end": 975,
+   "lines": [
+    "own orbit, by an almost",
+    "imperceptible amount."
+   ]
+  },
+  {
+   "start": 994,
+   "end": 1090,
+   "lines": [
+    "Same flyby. Two answers.",
+    "Both of them right."
+   ]
+  }
+ ]
+}

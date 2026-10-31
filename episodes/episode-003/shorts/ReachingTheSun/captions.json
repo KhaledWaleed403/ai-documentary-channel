@@ -1,0 +1,121 @@
+{
+ "fps": 30,
+ "cues": [
+  {
+   "start": 9,
+   "end": 46,
+   "lines": [
+    "Falling into the Sun"
+   ]
+  },
+  {
+   "start": 46,
+   "end": 88,
+   "lines": [
+    "sounds easy. It isn't."
+   ]
+  },
+  {
+   "start": 108,
+   "end": 190,
+   "lines": [
+    "Earth is racing sideways",
+    "around the Sun at about"
+   ]
+  },
+  {
+   "start": 190,
+   "end": 236,
+   "lines": [
+    "thirty kilometres a second."
+   ]
+  },
+  {
+   "start": 236,
+   "end": 303,
+   "lines": [
+    "And so is everything we",
+    "launch from it."
+   ]
+  },
+  {
+   "start": 322,
+   "end": 407,
+   "lines": [
+    "Aim straight at the Sun, and",
+    "that sideways speed carries"
+   ]
+  },
+  {
+   "start": 407,
+   "end": 434,
+   "lines": [
+    "you right past it."
+   ]
+  },
+  {
+   "start": 457,
+   "end": 536,
+   "lines": [
+    "NASA's Parker Solar Probe",
+    "needed to shed about"
+   ]
+  },
+  {
+   "start": 536,
+   "end": 609,
+   "lines": [
+    "fifty-three thousand miles",
+    "per hour of it."
+   ]
+  },
+  {
+   "start": 629,
+   "end": 698,
+   "lines": [
+    "So it flew past Venus",
+    "seven times."
+   ]
+  },
+  {
+   "start": 698,
+   "end": 799,
+   "lines": [
+    "Together, those flybys",
+    "reduced its orbital energy"
+   ]
+  },
+  {
+   "start": 799,
+   "end": 897,
+   "lines": [
+    "around the Sun, and its",
+    "orbit reached closer in."
+   ]
+  },
+  {
+   "start": 916,
+   "end": 974,
+   "lines": [
+    "Then it fell. On",
+    "Christmas Eve,"
+   ]
+  },
+  {
+   "start": 974,
+   "end": 1062,
+   "lines": [
+    "twenty twenty-four, it",
+    "passed closer to the Sun"
+   ]
+  },
+  {
+   "start": 1062,
+   "end": 1117,
+   "lines": [
+    "than any spacecraft",
+    "before it."
+   ]
+  }
+ ]
+}

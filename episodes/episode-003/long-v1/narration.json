@@ -1,0 +1,242 @@
+{
+  "episode": "episode-003",
+  "version": "long-v1",
+  "title": "How Spacecraft Steal Speed From Planets",
+  "script": "episodes/episode-003/long-v1/script.md (narration draft v2, Scene 9 Titan wording locked 2026-10-31)",
+  "note": "One shot per script paragraph, in order. Display text is the script wording without claim tags; spoken text is derived by scripts/audio/generate-ep003-vo.py and recorded in vo/manifest.json. Take 2 of S08-4, S09-2 and S09-5 uses a 'spoken' override: Kokoro read 'Io' as 'EE-oh' and dropped the possessive in 'Voyager 2's'.",
+  "shots": [
+    {
+      "id": "S01-1",
+      "scene": 1,
+      "text": "In 1977, a rocket sent Voyager 2 on its way toward Jupiter."
+    },
+    {
+      "id": "S01-2",
+      "scene": 1,
+      "text": "On its own, that launch wasn't enough to escape. Without Jupiter, its path would have curved back toward the Sun, never getting much farther out than Jupiter's distance."
+    },
+    {
+      "id": "S01-3",
+      "scene": 1,
+      "text": "Instead, it bent at Jupiter. Then at Saturn. Then Uranus. Then Neptune.",
+      "spoken": "Instead it bent at Jupiter. Then at Saturn. Then Uranus. Then Neptune.",
+      "take": 2
+    },
+    {
+      "id": "S01-4",
+      "scene": 1,
+      "text": "Today, it's in interstellar space."
+    },
+    {
+      "id": "S02-1",
+      "scene": 2,
+      "text": "So how can flying past a planet make a spacecraft faster? The answer depends on who's watching."
+    },
+    {
+      "id": "S03-1",
+      "scene": 3,
+      "text": "Let's watch from the planet first. In this view, Jupiter sits still."
+    },
+    {
+      "id": "S03-2",
+      "scene": 3,
+      "text": "Our spacecraft falls toward it, and speeds up as it drops in."
+    },
+    {
+      "id": "S03-3",
+      "scene": 3,
+      "text": "It swings around, and starts climbing back out. And climbing out, it slows down again."
+    },
+    {
+      "id": "S03-4",
+      "scene": 3,
+      "text": "By the time it's clear, with no engines firing, it's moving about as fast as when it arrived. Measured from Jupiter, the flyby gave it no extra speed."
+    },
+    {
+      "id": "S04-1",
+      "scene": 4,
+      "text": "But something did change. Look at the arrows. Same length. Different direction."
+    },
+    {
+      "id": "S04-2",
+      "scene": 4,
+      "text": "That's the difference between speed and velocity. Speed is how fast. Velocity is how fast, and which way."
+    },
+    {
+      "id": "S04-3",
+      "scene": 4,
+      "text": "The flyby left the speed alone. It turned the velocity."
+    },
+    {
+      "id": "S05-1",
+      "scene": 5,
+      "text": "Now let's watch the same flyby from the Sun. And here's what the first view hid: Jupiter isn't standing still. It's moving along its orbit."
+    },
+    {
+      "id": "S05-2",
+      "scene": 5,
+      "text": "The spacecraft still follows the same kind of curve around Jupiter. But now that curve is moving through space with the planet."
+    },
+    {
+      "id": "S05-3",
+      "scene": 5,
+      "text": "Measured from Jupiter, the speed didn't change. Measured from the Sun, the spacecraft leaves faster than it arrived."
+    },
+    {
+      "id": "S05-4",
+      "scene": 5,
+      "text": "Same flyby. Two answers. Both of them right."
+    },
+    {
+      "id": "S06-1",
+      "scene": 6,
+      "text": "Here's why. Seen from the Sun, the spacecraft's velocity is two arrows added together. Jupiter's motion, plus the spacecraft's motion relative to Jupiter."
+    },
+    {
+      "id": "S06-2",
+      "scene": 6,
+      "text": "During the flyby, Jupiter's arrow barely changes. The spacecraft's arrow keeps its length, but turns."
+    },
+    {
+      "id": "S06-3",
+      "scene": 6,
+      "text": "Turned to point more along Jupiter's motion, the two arrows add up to a longer one. That longer arrow is the speed gain, measured from the Sun."
+    },
+    {
+      "id": "S07-1",
+      "scene": 7,
+      "text": "So where does that extra energy come from? Not from nowhere."
+    },
+    {
+      "id": "S07-2",
+      "scene": 7,
+      "text": "The spacecraft's gravity pulls on Jupiter too. As the spacecraft gains orbital energy, Jupiter gives up a tiny amount of its own orbital energy."
+    },
+    {
+      "id": "S07-3",
+      "scene": 7,
+      "text": "Jupiter is so massive that the change is almost imperceptible. Its orbit carries on."
+    },
+    {
+      "id": "S07-4",
+      "scene": 7,
+      "text": "The spacecraft didn't make speed. It borrowed it."
+    },
+    {
+      "id": "S08-1",
+      "scene": 8,
+      "text": "Which way it turns decides everything."
+    },
+    {
+      "id": "S08-2",
+      "scene": 8,
+      "text": "Pass behind a moving planet, and you can leave faster, relative to the Sun."
+    },
+    {
+      "id": "S08-3",
+      "scene": 8,
+      "text": "Pass in front of it, and the turn works against you. You leave slower."
+    },
+    {
+      "id": "S08-4",
+      "scene": 8,
+      "text": "So a flyby can be an accelerator, or a brake. Galileo skimmed past Jupiter's moon Io to shed energy, and saved ninety kilograms of fuel.",
+      "spoken": "So a flyby can be an accelerator, or a brake. Galileo skimmed past Jupiter's moon Eyeo to shed energy, and saved ninety kilograms of fuel.",
+      "take": 2
+    },
+    {
+      "id": "S09-1",
+      "scene": 9,
+      "text": "Now for the real thing. In the late nineteen-seventies, the four giant planets drifted into a favourable alignment, one that comes around roughly once every hundred and seventy-five years."
+    },
+    {
+      "id": "S09-2",
+      "scene": 9,
+      "text": "The alignment made a journey past all four possible. Voyager 2's trajectory kept that door open. And it took it.",
+      "spoken": "The alignment made a journey past all four possible. Voyager Two's trajectory kept that door open. And it took it.",
+      "take": 2
+    },
+    {
+      "id": "S09-3",
+      "scene": 9,
+      "text": "At Jupiter, its path bent toward Saturn. At Saturn, toward Uranus. At Uranus, toward Neptune, which it reached in nineteen eighty-nine."
+    },
+    {
+      "id": "S09-4",
+      "scene": 9,
+      "text": "Its twin, Voyager 1, took a different road. A close pass by Saturn's moon Titan sent it away from any further giant-planet encounters."
+    },
+    {
+      "id": "S09-5",
+      "scene": 9,
+      "text": "Measured from the Sun, those flybys more than doubled Voyager 2's speed. And that dashed path is where it would have gone without them.",
+      "spoken": "Measured from the Sun, those flybys more than doubled Voyager Two's speed. And that dashed path is where it would have gone without them.",
+      "take": 2
+    },
+    {
+      "id": "S10-1",
+      "scene": 10,
+      "text": "So if a planet can fling you out of the Solar System, falling into the Sun should be easy. It's just falling, after all."
+    },
+    {
+      "id": "S10-2",
+      "scene": 10,
+      "text": "The catch: Earth is racing sideways around the Sun at about thirty kilometres a second. And so is everything we launch from it."
+    },
+    {
+      "id": "S10-3",
+      "scene": 10,
+      "text": "Aim straight at the Sun, and that sideways speed carries you right past it. To fall in, you have to get rid of it."
+    },
+    {
+      "id": "S11-1",
+      "scene": 11,
+      "text": "That was the problem facing NASA's Parker Solar Probe. It needed to shed about fifty-three thousand miles per hour of sideways speed."
+    },
+    {
+      "id": "S11-2",
+      "scene": 11,
+      "text": "So it used the brake. It flew past Venus seven times."
+    },
+    {
+      "id": "S11-3",
+      "scene": 11,
+      "text": "Taken together, those flybys reduced its orbital energy around the Sun, letting its orbit reach closer and closer in. The last one came in November twenty twenty-four."
+    },
+    {
+      "id": "S12-1",
+      "scene": 12,
+      "text": "Here's the twist. With its orbital energy reduced, Parker fell deep toward the Sun. On Christmas Eve, twenty twenty-four, it passed about six million kilometres from the surface, faster than anything humans have built."
+    },
+    {
+      "id": "S12-2",
+      "scene": 12,
+      "text": "It got there by slowing down first."
+    },
+    {
+      "id": "S13-1",
+      "scene": 13,
+      "text": "So here's the whole trick, in three parts. One: change your view. From the planet, a flyby only turns you. From the Sun, that turn can change your speed."
+    },
+    {
+      "id": "S13-2",
+      "scene": 13,
+      "text": "Two: nothing is created. Orbital energy is transferred between the spacecraft and the planet."
+    },
+    {
+      "id": "S13-3",
+      "scene": 13,
+      "text": "Three: aim decides. Relative to the Sun, pass behind, and you speed up. Pass in front, and you slow down."
+    },
+    {
+      "id": "S14-1",
+      "scene": 14,
+      "text": "Voyager 1 is still heading out. On the eighteenth of November, twenty twenty-six, it crosses the one-light-day mark."
+    },
+    {
+      "id": "S14-2",
+      "scene": 14,
+      "text": "A message from home will take almost a day to reach it."
+    }
+  ]
+}
